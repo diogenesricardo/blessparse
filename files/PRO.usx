@@ -1,0 +1,2881 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usx version="2.6">
+  <book code="PRO" style="id">Provérbios – Tradução de João Ferreira de Almeida – Edição Revista e Atualizada – 2ª edição (1993)</book>
+  <para style="h">Provérbios</para>
+  <para style="toc1">Provérbios de Salomão</para>
+  <para style="toc2">Provérbios</para>
+  <para style="toc3">Pv</para>
+  <para style="mt1">Provérbios</para>
+  <para style="mt2">de Salomão</para>
+  <para style="is1">Introdução</para>
+  <para style="ip">
+    <char style="bk">Provérbios</char> é um livro de sabedoria prática. Ensina que a religião está ligada aos problemas comuns da vida. Começa lembrando que “o temor do <char style="nd">Senhor</char> é o princípio do saber”. Trata também de assuntos de moral, de bom senso e de boas maneiras. Os provérbios revelam a sabedoria dos antigos mestres israelitas sobre o que a pessoa sábia deve fazer em certas situações. Alguns provérbios são a respeito das relações familiares; outros, sobre o comportamento nos negócios. Alguns tratam de boa educação nas relações sociais; e outros, da necessidade de a pessoa saber se controlar. Entre outras coisas, eles ensinam a humildade, a paciência, o respeito pelos pobres e a lealdade para com os amigos.</para>
+  <para style="ib"/>
+  <para style="iot">Esquema do conteúdo</para>
+  <para style="io1">1. Elogio da sabedoria <char style="ior">(<ref loc="PRO 1:1-4:27">1.1—4.27</ref>)</char></para>
+  <para style="io1">2. Conselhos contra o adultério e outros pecados <char style="ior">(<ref loc="PRO 5:1-7:27">5.1—7.27</ref>)</char></para>
+  <para style="io1">3. A Sabedoria e a falta de juízo <char style="ior">(<ref loc="PRO 8:1-9:18">8.1—9.18</ref>)</char></para>
+  <para style="io1">4. Primeira coleção de provérbios <char style="ior">(<ref loc="PRO 10:1-22:16">10.1—22.16</ref>)</char></para>
+  <para style="io1">5. Trinta provérbios dos sábios <char style="ior">(<ref loc="PRO 22:17-24:34">22.17—24.34</ref>)</char></para>
+  <para style="io1">6. Segunda coleção de provérbios <char style="ior">(<ref loc="PRO 25:1-29:27">25.1—29.27</ref>)</char></para>
+  <para style="io1">7. Provérbios variados <char style="ior">(<ref loc="PRO 30:1-31:9">30.1—31.9</ref>)</char></para>
+  <para style="io1">8. A mulher virtuosa <char style="ior">(<ref loc="PRO 31:10-31">31.10-31</ref>)</char></para>
+  <para style="ie"/>
+  <chapter number="1" style="c"/>
+  <para style="s">Uso dos provérbios</para>
+  <para style="q">
+    <verse number="1" style="v"/>Provérbios<note caller="a" style="x"><char style="xo" closed="false">1.1 </char><char style="xt" closed="false"><ref loc="1KI 4:32">1Rs 4.32</ref></char></note> de Salomão, filho de Davi, o rei de Israel.</para>
+  <para style="q">
+    <verse number="2" style="v"/>Para aprender a sabedoria e o ensino;</para>
+  <para style="q">para entender as palavras de inteligência;</para>
+  <para style="q">
+    <verse number="3" style="v"/>para obter o ensino do bom proceder,</para>
+  <para style="q">a justiça, o juízo e a equidade;</para>
+  <para style="q">
+    <verse number="4" style="v"/>para dar aos simples prudência</para>
+  <para style="q">e aos jovens, conhecimento e bom siso.</para>
+  <para style="q">
+    <verse number="5" style="v"/>Ouça o sábio e cresça em prudência;</para>
+  <para style="q">e o instruído adquira habilidade</para>
+  <para style="q">
+    <verse number="6" style="v"/>para entender provérbios e parábolas,</para>
+  <para style="q">as palavras e enigmas dos sábios.</para>
+  <para style="q">
+    <verse number="7" style="v"/>O temor do <char style="nd">Senhor</char><note caller="b" style="x"><char style="xo" closed="false">1.7 </char><char style="xt" closed="false"><ref loc="PRO 9:10">Pv 9.10</ref></char></note> é o princípio do saber,</para>
+  <para style="q">mas os loucos desprezam a sabedoria e o ensino.</para>
+  <para style="s">Contra as seduções dos pecadores</para>
+  <para style="q">
+    <verse number="8" style="v"/>Filho meu, ouve o ensino de teu pai</para>
+  <para style="q">e não deixes a instrução de tua mãe.</para>
+  <para style="q">
+    <verse number="9" style="v"/>Porque serão diadema de graça para a tua cabeça</para>
+  <para style="q">e colares, para o teu pescoço.</para>
+  <para style="q">
+    <verse number="10" style="v"/>Filho meu, se os pecadores querem seduzir-te,</para>
+  <para style="q">não o consintas.</para>
+  <para style="q">
+    <verse number="11" style="v"/>Se disserem: Vem conosco, embosquemo-nos para derramar sangue,</para>
+  <para style="q">espreitemos, ainda que sem motivo, os inocentes;</para>
+  <para style="q">
+    <verse number="12" style="v"/>traguemo-los vivos, como o abismo,</para>
+  <para style="q">e inteiros, como os que descem à cova;</para>
+  <para style="q">
+    <verse number="13" style="v"/>acharemos toda sorte de bens preciosos;</para>
+  <para style="q">encheremos de despojos a nossa casa;</para>
+  <para style="q">
+    <verse number="14" style="v"/>lança a tua sorte entre nós;</para>
+  <para style="q">teremos todos uma só bolsa.</para>
+  <para style="q">
+    <verse number="15" style="v"/>Filho meu, não te ponhas a caminho com eles;</para>
+  <para style="q">guarda das suas veredas os pés;</para>
+  <para style="q">
+    <verse number="16" style="v"/>porque os seus pés correm para o mal</para>
+  <para style="q">e se apressam a derramar sangue.</para>
+  <para style="q">
+    <verse number="17" style="v"/>Pois debalde se estende a rede</para>
+  <para style="q">à vista de qualquer ave.</para>
+  <para style="q">
+    <verse number="18" style="v"/>Estes se emboscam contra o seu próprio sangue</para>
+  <para style="q">e a sua própria vida espreitam.</para>
+  <para style="q">
+    <verse number="19" style="v"/>Tal é a sorte de todo ganancioso;</para>
+  <para style="q">e este espírito de ganância tira a vida de quem o possui.</para>
+  <para style="s">Clama a Sabedoria</para>
+  <para style="q">
+    <verse number="20" style="v"/>Grita na rua a Sabedoria,</para>
+  <para style="q">nas praças, levanta a voz;</para>
+  <para style="q">
+    <verse number="21" style="v"/>do alto dos muros clama,</para>
+  <para style="q">à entrada das portas e nas cidades profere as suas palavras:<note caller="c" style="x"><char style="xo" closed="false">1.20-21 </char><char style="xt" closed="false"><ref loc="PRO 8:1-3">Pv 8.1-3</ref></char></note></para>
+  <para style="q">
+    <verse number="22" style="v"/>Até quando, ó néscios, amareis a necedade?</para>
+  <para style="q">E vós, escarnecedores, desejareis o escárnio?</para>
+  <para style="q">E vós, loucos, aborrecereis o conhecimento?</para>
+  <para style="q">
+    <verse number="23" style="v"/>Atentai para a minha repreensão;</para>
+  <para style="q">eis que derramarei copiosamente para vós outros o meu espírito</para>
+  <para style="q">e vos farei saber as minhas palavras.</para>
+  <para style="q">
+    <verse number="24" style="v"/>Mas, porque clamei, e vós recusastes;</para>
+  <para style="q">porque estendi a mão, e não houve quem atendesse;</para>
+  <para style="q">
+    <verse number="25" style="v"/>antes, rejeitastes todo o meu conselho</para>
+  <para style="q">e não quisestes a minha repreensão;</para>
+  <para style="q">
+    <verse number="26" style="v"/>também eu me rirei na vossa desventura,</para>
+  <para style="q">e, em vindo o vosso terror, eu zombarei,</para>
+  <para style="q">
+    <verse number="27" style="v"/>em vindo o vosso terror como a tempestade,</para>
+  <para style="q">em vindo a vossa perdição como o redemoinho,</para>
+  <para style="q">quando vos chegar o aperto e a angústia.</para>
+  <para style="q">
+    <verse number="28" style="v"/>Então, me invocarão, mas eu não responderei;</para>
+  <para style="q">procurar-me-ão, porém não me hão de achar.</para>
+  <para style="q">
+    <verse number="29" style="v"/>Porquanto aborreceram o conhecimento</para>
+  <para style="q">e não preferiram o temor do <char style="nd">Senhor</char>;</para>
+  <para style="q">
+    <verse number="30" style="v"/>não quiseram o meu conselho</para>
+  <para style="q">e desprezaram toda a minha repreensão.</para>
+  <para style="q">
+    <verse number="31" style="v"/>Portanto, comerão do fruto do seu procedimento</para>
+  <para style="q">e dos seus próprios conselhos se fartarão.</para>
+  <para style="q">
+    <verse number="32" style="v"/>Os néscios são mortos por seu desvio,</para>
+  <para style="q">e aos loucos a sua impressão de bem-estar os leva à perdição.</para>
+  <para style="q">
+    <verse number="33" style="v"/>Mas o que me der ouvidos habitará seguro,</para>
+  <para style="q">tranquilo e sem temor do mal.</para>
+  <chapter number="2" style="c"/>
+  <para style="s">A excelência da sabedoria</para>
+  <para style="q">
+    <verse number="1" style="v"/>Filho meu, se aceitares as minhas palavras</para>
+  <para style="q">e esconderes contigo os meus mandamentos,</para>
+  <para style="q">
+    <verse number="2" style="v"/>para fazeres atento à sabedoria o teu ouvido</para>
+  <para style="q">e para inclinares o coração ao entendimento,</para>
+  <para style="q">
+    <verse number="3" style="v"/>e, se clamares por inteligência,</para>
+  <para style="q">e por entendimento alçares a voz,</para>
+  <para style="q">
+    <verse number="4" style="v"/>se buscares a sabedoria como a prata</para>
+  <para style="q">e como a tesouros escondidos a procurares,</para>
+  <para style="q">
+    <verse number="5" style="v"/>então, entenderás o temor do <char style="nd">Senhor</char></para>
+  <para style="q">e acharás o conhecimento de Deus.</para>
+  <para style="q">
+    <verse number="6" style="v"/>Porque o <char style="nd">Senhor</char> dá a sabedoria,</para>
+  <para style="q">e da sua boca vem a inteligência e o entendimento.</para>
+  <para style="q">
+    <verse number="7" style="v"/>Ele reserva a verdadeira sabedoria para os retos;</para>
+  <para style="q">é escudo para os que caminham na sinceridade,</para>
+  <para style="q">
+    <verse number="8" style="v"/>guarda as veredas do juízo</para>
+  <para style="q">e conserva o caminho dos seus santos.</para>
+  <para style="q">
+    <verse number="9" style="v"/>Então, entenderás justiça, juízo</para>
+  <para style="q">e equidade, todas as boas veredas.</para>
+  <para style="q">
+    <verse number="10" style="v"/>Porquanto a sabedoria entrará no teu coração,</para>
+  <para style="q">e o conhecimento será agradável à tua alma.</para>
+  <para style="q">
+    <verse number="11" style="v"/>O bom siso te guardará,</para>
+  <para style="q">e a inteligência te conservará;</para>
+  <para style="q">
+    <verse number="12" style="v"/>para te livrar do caminho do mal</para>
+  <para style="q">e do homem que diz coisas perversas;</para>
+  <para style="q">
+    <verse number="13" style="v"/>dos que deixam as veredas da retidão,</para>
+  <para style="q">para andarem pelos caminhos das trevas;</para>
+  <para style="q">
+    <verse number="14" style="v"/>que se alegram de fazer o mal,</para>
+  <para style="q">folgam com as perversidades dos maus,</para>
+  <para style="q">
+    <verse number="15" style="v"/>seguem veredas tortuosas</para>
+  <para style="q">e se desviam nos seus caminhos;</para>
+  <para style="q">
+    <verse number="16" style="v"/>para te livrar da mulher adúltera,</para>
+  <para style="q">da estrangeira, que lisonjeia com palavras,</para>
+  <para style="q">
+    <verse number="17" style="v"/>a qual deixa o amigo da sua mocidade</para>
+  <para style="q">e se esquece da aliança do seu Deus;</para>
+  <para style="q">
+    <verse number="18" style="v"/>porque a sua casa se inclina para a morte,</para>
+  <para style="q">e as suas veredas, para o reino das sombras da morte;</para>
+  <para style="q">
+    <verse number="19" style="v"/>todos os que se dirigem a essa mulher não voltarão</para>
+  <para style="q">e não atinarão com as veredas da vida.</para>
+  <para style="q">
+    <verse number="20" style="v"/>Assim, andarás pelo caminho dos homens de bem</para>
+  <para style="q">e guardarás as veredas dos justos.</para>
+  <para style="q">
+    <verse number="21" style="v"/>Porque os retos habitarão a terra,</para>
+  <para style="q">e os íntegros permanecerão nela.</para>
+  <para style="q">
+    <verse number="22" style="v"/>Mas os perversos serão eliminados da terra,</para>
+  <para style="q">e os aleivosos serão dela desarraigados.</para>
+  <chapter number="3" style="c"/>
+  <para style="s">Exortações da Sabedoria a obedecer ao <char style="nd">Senhor</char></para>
+  <para style="q">
+    <verse number="1" style="v"/>Filho meu, não te esqueças dos meus ensinos,</para>
+  <para style="q">e o teu coração guarde os meus mandamentos;</para>
+  <para style="q">
+    <verse number="2" style="v"/>porque eles aumentarão os teus dias</para>
+  <para style="q">e te acrescentarão anos de vida e paz.</para>
+  <para style="q">
+    <verse number="3" style="v"/>Não te desamparem a benignidade e a fidelidade;</para>
+  <para style="q">ata-as ao pescoço;</para>
+  <para style="q">escreve-as na tábua do teu coração</para>
+  <para style="q">
+    <verse number="4" style="v"/>e acharás graça<note caller="a" style="x"><char style="xo" closed="false">3.4 </char><char style="xt" closed="false"><ref loc="ROM 12:17">Rm 12.17</ref>; <ref loc="2CO 8:21">2Co 8.21</ref></char></note> e boa compreensão</para>
+  <para style="q">diante de Deus e dos homens.</para>
+  <para style="q">
+    <verse number="5" style="v"/>Confia no <char style="nd">Senhor</char> de todo o teu coração</para>
+  <para style="q">e não te estribes no teu próprio entendimento.</para>
+  <para style="q">
+    <verse number="6" style="v"/>Reconhece-o em todos os teus caminhos,</para>
+  <para style="q">e ele endireitará as tuas veredas.</para>
+  <para style="q">
+    <verse number="7" style="v"/>Não sejas sábio<note caller="b" style="x"><char style="xo" closed="false">3.7 </char><char style="xt" closed="false"><ref loc="ROM 12:16">Rm 12.16</ref></char></note> aos teus próprios olhos;</para>
+  <para style="q">teme ao <char style="nd">Senhor</char> e aparta-te do mal;</para>
+  <para style="q">
+    <verse number="8" style="v"/>será isto saúde para o teu corpo</para>
+  <para style="q">e refrigério, para os teus ossos.</para>
+  <para style="q">
+    <verse number="9" style="v"/>Honra ao <char style="nd">Senhor</char> com os teus bens</para>
+  <para style="q">e com as primícias de toda a tua renda;</para>
+  <para style="q">
+    <verse number="10" style="v"/>e se encherão fartamente os teus celeiros,</para>
+  <para style="q">e transbordarão de vinho os teus lagares.</para>
+  <para style="q">
+    <verse number="11" style="v"/>Filho meu,<note caller="c" style="x"><char style="xo" closed="false">3.11 </char><char style="xt" closed="false"><ref loc="JOB 5:17">Jó 5.17</ref>; <ref loc="HEB 12:5">Hb 12.5</ref></char></note> não rejeites a disciplina do <char style="nd">Senhor</char>,</para>
+  <para style="q">nem te enfades da sua repreensão.</para>
+  <para style="q">
+    <verse number="12" style="v"/>Porque o <char style="nd">Senhor</char> repreende<note caller="d" style="x"><char style="xo" closed="false">3.12 </char><char style="xt" closed="false"><ref loc="HEB 12:6">Hb 12.6</ref>; <ref loc="REV 3:9">Ap 3.9</ref></char></note> a quem ama,</para>
+  <para style="q">assim como o pai, ao filho a quem quer bem.</para>
+  <para style="q">
+    <verse number="13" style="v"/>Feliz o homem que acha sabedoria,</para>
+  <para style="q">e o homem que adquire conhecimento;</para>
+  <para style="q">
+    <verse number="14" style="v"/>porque melhor é o lucro que ela dá do que o da prata,</para>
+  <para style="q">e melhor a sua renda do que o ouro mais fino.</para>
+  <para style="q">
+    <verse number="15" style="v"/>Mais preciosa é do que pérolas,</para>
+  <para style="q">e tudo o que podes desejar não é comparável a ela.</para>
+  <para style="q">
+    <verse number="16" style="v"/>O alongar-se da vida está na sua mão direita,</para>
+  <para style="q">na sua esquerda, riquezas e honra.</para>
+  <para style="q">
+    <verse number="17" style="v"/>Os seus caminhos são caminhos deliciosos,</para>
+  <para style="q">e todas as suas veredas, paz.</para>
+  <para style="q">
+    <verse number="18" style="v"/>É árvore de vida para os que a alcançam,</para>
+  <para style="q">e felizes são todos os que a retêm.</para>
+  <para style="q">
+    <verse number="19" style="v"/>O <char style="nd">Senhor</char> com sabedoria fundou a terra,</para>
+  <para style="q">com inteligência estabeleceu os céus.</para>
+  <para style="q">
+    <verse number="20" style="v"/>Pelo seu conhecimento os abismos se rompem,</para>
+  <para style="q">e as nuvens destilam orvalho.</para>
+  <para style="q">
+    <verse number="21" style="v"/>Filho meu, não se apartem estas coisas dos teus olhos;</para>
+  <para style="q">guarda a verdadeira sabedoria e o bom siso;</para>
+  <para style="q">
+    <verse number="22" style="v"/>porque serão vida para a tua alma</para>
+  <para style="q">e adorno ao teu pescoço.</para>
+  <para style="q">
+    <verse number="23" style="v"/>Então, andarás seguro no teu caminho,</para>
+  <para style="q">e não tropeçará o teu pé.</para>
+  <para style="q">
+    <verse number="24" style="v"/>Quando te deitares, não temerás;</para>
+  <para style="q">deitar-te-ás, e o teu sono será suave.</para>
+  <para style="q">
+    <verse number="25" style="v"/>Não temas o pavor repentino,</para>
+  <para style="q">nem a arremetida dos perversos, quando vier.</para>
+  <para style="q">
+    <verse number="26" style="v"/>Porque o <char style="nd">Senhor</char> será a tua segurança</para>
+  <para style="q">e guardará os teus pés de serem presos.</para>
+  <para style="q">
+    <verse number="27" style="v"/>Não te furtes a fazer o bem a quem de direito,</para>
+  <para style="q">estando na tua mão o poder de fazê-lo.</para>
+  <para style="q">
+    <verse number="28" style="v"/>Não digas ao teu próximo: Vai e volta amanhã;</para>
+  <para style="q">então, to darei, se o tens agora contigo.</para>
+  <para style="q">
+    <verse number="29" style="v"/>Não maquines o mal contra o teu próximo,</para>
+  <para style="q">pois habita junto de ti confiadamente.</para>
+  <para style="q">
+    <verse number="30" style="v"/>Jamais pleiteies com alguém sem razão,</para>
+  <para style="q">se te não houver feito mal.</para>
+  <para style="q">
+    <verse number="31" style="v"/>Não tenhas inveja do homem violento,</para>
+  <para style="q">nem sigas nenhum de seus caminhos;</para>
+  <para style="q">
+    <verse number="32" style="v"/>porque o <char style="nd">Senhor</char> abomina o perverso,</para>
+  <para style="q">mas aos retos trata com intimidade.</para>
+  <para style="q">
+    <verse number="33" style="v"/>A maldição do <char style="nd">Senhor</char> habita na casa do perverso,</para>
+  <para style="q">porém a morada dos justos ele abençoa.</para>
+  <para style="q">
+    <verse number="34" style="v"/>Certamente, ele escarnece dos escarnecedores,<note caller="e" style="x"><char style="xo" closed="false">3.34 </char><char style="xt" closed="false"><ref loc="JAS 4:6">Tg 4.6</ref>; <ref loc="1PE 5:5">1Pe 5.5</ref></char></note></para>
+  <para style="q">mas dá graça aos humildes.</para>
+  <para style="q">
+    <verse number="35" style="v"/>Os sábios herdarão honra,</para>
+  <para style="q">mas os loucos tomam sobre si a ignomínia.</para>
+  <chapter number="4" style="c"/>
+  <para style="s">Exortação paternal</para>
+  <para style="q">
+    <verse number="1" style="v"/>Ouvi, filhos, a instrução do pai</para>
+  <para style="q">e estai atentos para conhecerdes o entendimento;</para>
+  <para style="q">
+    <verse number="2" style="v"/>porque vos dou boa doutrina;</para>
+  <para style="q">não deixeis o meu ensino.</para>
+  <para style="q">
+    <verse number="3" style="v"/>Quando eu era filho em companhia de meu pai,</para>
+  <para style="q">tenro e único diante de minha mãe,</para>
+  <para style="q">
+    <verse number="4" style="v"/>então, ele me ensinava e me dizia:</para>
+  <para style="q">Retenha o teu coração as minhas palavras;</para>
+  <para style="q">guarda os meus mandamentos e vive;</para>
+  <para style="q">
+    <verse number="5" style="v"/>adquire a sabedoria, adquire o entendimento</para>
+  <para style="q">e não te esqueças das palavras da minha boca, nem delas te apartes.</para>
+  <para style="q">
+    <verse number="6" style="v"/>Não desampares a sabedoria, e ela te guardará;</para>
+  <para style="q">ama-a, e ela te protegerá.</para>
+  <para style="q">
+    <verse number="7" style="v"/>O princípio da sabedoria é: Adquire a sabedoria;</para>
+  <para style="q">sim, com tudo o que possuis, adquire o entendimento.</para>
+  <para style="q">
+    <verse number="8" style="v"/>Estima-a, e ela te exaltará;</para>
+  <para style="q">se a abraçares, ela te honrará;</para>
+  <para style="q">
+    <verse number="9" style="v"/>dará à tua cabeça um diadema de graça</para>
+  <para style="q">e uma coroa de glória te entregará.</para>
+  <para style="q">
+    <verse number="10" style="v"/>Ouve, filho meu, e aceita as minhas palavras,</para>
+  <para style="q">e se te multiplicarão os anos de vida.</para>
+  <para style="q">
+    <verse number="11" style="v"/>No caminho da sabedoria, te ensinei</para>
+  <para style="q">e pelas veredas da retidão te fiz andar.</para>
+  <para style="q">
+    <verse number="12" style="v"/>Em andando por elas, não se embaraçarão os teus passos;</para>
+  <para style="q">se correres, não tropeçarás.</para>
+  <para style="q">
+    <verse number="13" style="v"/>Retém a instrução e não a largues;</para>
+  <para style="q">guarda-a, porque ela é a tua vida.</para>
+  <para style="q">
+    <verse number="14" style="v"/>Não entres na vereda dos perversos,</para>
+  <para style="q">nem sigas pelo caminho dos maus.</para>
+  <para style="q">
+    <verse number="15" style="v"/>Evita-o; não passes por ele;</para>
+  <para style="q">desvia-te dele e passa de largo;</para>
+  <para style="q">
+    <verse number="16" style="v"/>pois não dormem, se não fizerem mal,</para>
+  <para style="q">e foge deles o sono, se não fizerem tropeçar alguém;</para>
+  <para style="q">
+    <verse number="17" style="v"/>porque comem o pão da impiedade</para>
+  <para style="q">e bebem o vinho das violências.</para>
+  <para style="q">
+    <verse number="18" style="v"/>Mas a vereda dos justos é como a luz da aurora,</para>
+  <para style="q">que vai brilhando mais e mais até ser dia perfeito.</para>
+  <para style="q">
+    <verse number="19" style="v"/>O caminho dos perversos é como a escuridão;</para>
+  <para style="q">nem sabem eles em que tropeçam.</para>
+  <para style="q">
+    <verse number="20" style="v"/>Filho meu, atenta para as minhas palavras;</para>
+  <para style="q">aos meus ensinamentos inclina os ouvidos.</para>
+  <para style="q">
+    <verse number="21" style="v"/>Não os deixes apartar-se dos teus olhos;</para>
+  <para style="q">guarda-os no mais íntimo do teu coração.</para>
+  <para style="q">
+    <verse number="22" style="v"/>Porque são vida para quem os acha</para>
+  <para style="q">e saúde, para o seu corpo.</para>
+  <para style="q">
+    <verse number="23" style="v"/>Sobre tudo o que se deve guardar, guarda o coração,</para>
+  <para style="q">porque dele procedem as fontes da vida.</para>
+  <para style="q">
+    <verse number="24" style="v"/>Desvia de ti a falsidade da boca</para>
+  <para style="q">e afasta de ti a perversidade dos lábios.</para>
+  <para style="q">
+    <verse number="25" style="v"/>Os teus olhos olhem direito,</para>
+  <para style="q">e as tuas pálpebras, diretamente diante de ti.</para>
+  <para style="q">
+    <verse number="26" style="v"/>Pondera a vereda de teus pés,<note caller="a" style="x"><char style="xo" closed="false">4.26 </char><char style="xt" closed="false"><ref loc="HEB 12:13">Hb 12.13</ref></char></note></para>
+  <para style="q">e todos os teus caminhos sejam retos.</para>
+  <para style="q">
+    <verse number="27" style="v"/>Não declines nem para a direita nem para a esquerda;</para>
+  <para style="q">retira o teu pé do mal.</para>
+  <chapter number="5" style="c"/>
+  <para style="s">Advertência contra a lascívia</para>
+  <para style="q">
+    <verse number="1" style="v"/>Filho meu, atende a minha sabedoria;</para>
+  <para style="q">à minha inteligência inclina os ouvidos</para>
+  <para style="q">
+    <verse number="2" style="v"/>para que conserves a discrição,</para>
+  <para style="q">e os teus lábios guardem o conhecimento;</para>
+  <para style="q">
+    <verse number="3" style="v"/>porque os lábios da mulher adúltera destilam favos de mel,</para>
+  <para style="q">e as suas palavras são mais suaves do que o azeite;</para>
+  <para style="q">
+    <verse number="4" style="v"/>mas o fim dela é amargoso como o absinto,</para>
+  <para style="q">agudo, como a espada de dois gumes.</para>
+  <para style="q">
+    <verse number="5" style="v"/>Os seus pés descem à morte;</para>
+  <para style="q">os seus passos conduzem-na ao inferno.</para>
+  <para style="q">
+    <verse number="6" style="v"/>Ela não pondera a vereda da vida;</para>
+  <para style="q">anda errante nos seus caminhos e não o sabe.</para>
+  <para style="q">
+    <verse number="7" style="v"/>Agora, pois, filho, dá-me ouvidos</para>
+  <para style="q">e não te desvies das palavras da minha boca.</para>
+  <para style="q">
+    <verse number="8" style="v"/>Afasta o teu caminho da mulher adúltera</para>
+  <para style="q">e não te aproximes da porta da sua casa;</para>
+  <para style="q">
+    <verse number="9" style="v"/>para que não dês a outrem a tua honra,</para>
+  <para style="q">nem os teus anos, a cruéis;</para>
+  <para style="q">
+    <verse number="10" style="v"/>para que dos teus bens não se fartem os estranhos,</para>
+  <para style="q">e o fruto do teu trabalho não entre em casa alheia;</para>
+  <para style="q">
+    <verse number="11" style="v"/>e gemas no fim de tua vida,</para>
+  <para style="q">quando se consumirem a tua carne e o teu corpo,</para>
+  <para style="q">
+    <verse number="12" style="v"/>e digas: Como aborreci o ensino!</para>
+  <para style="q">E desprezou o meu coração a disciplina!</para>
+  <para style="q">
+    <verse number="13" style="v"/>E não escutei a voz dos que me ensinavam,</para>
+  <para style="q">nem a meus mestres inclinei os ouvidos!</para>
+  <para style="q">
+    <verse number="14" style="v"/>Quase que me achei em todo mal</para>
+  <para style="q">que sucedeu no meio da assembleia e da congregação.</para>
+  <para style="q">
+    <verse number="15" style="v"/>Bebe a água da tua própria cisterna</para>
+  <para style="q">e das correntes do teu poço.</para>
+  <para style="q">
+    <verse number="16" style="v"/>Derramar-se-iam por fora as tuas fontes,</para>
+  <para style="q">e, pelas praças, os ribeiros de águas?</para>
+  <para style="q">
+    <verse number="17" style="v"/>Sejam para ti somente</para>
+  <para style="q">e não para os estranhos contigo.</para>
+  <para style="q">
+    <verse number="18" style="v"/>Seja bendito o teu manancial,</para>
+  <para style="q">e alegra-te com a mulher da tua mocidade,</para>
+  <para style="q">
+    <verse number="19" style="v"/>corça de amores e gazela graciosa.</para>
+  <para style="q">Saciem-te os seus seios em todo o tempo;</para>
+  <para style="q">e embriaga-te sempre com as suas carícias.</para>
+  <para style="q">
+    <verse number="20" style="v"/>Por que, filho meu, andarias cego pela estranha</para>
+  <para style="q">e abraçarias o peito de outra?</para>
+  <para style="q">
+    <verse number="21" style="v"/>Porque os caminhos do homem estão perante os olhos do <char style="nd">Senhor</char>,</para>
+  <para style="q">e ele considera todas as suas veredas.</para>
+  <para style="q">
+    <verse number="22" style="v"/>Quanto ao perverso, as suas iniquidades o prenderão,</para>
+  <para style="q">e com as cordas do seu pecado será detido.</para>
+  <para style="q">
+    <verse number="23" style="v"/>Ele morrerá pela falta de disciplina,</para>
+  <para style="q">e, pela sua muita loucura, perdido, cambaleia.</para>
+  <chapter number="6" style="c"/>
+  <para style="s">Advertência contra o servir de fiador</para>
+  <para style="q">
+    <verse number="1" style="v"/>Filho meu, se ficaste por fiador do teu companheiro</para>
+  <para style="q">e se te empenhaste ao estranho,</para>
+  <para style="q">
+    <verse number="2" style="v"/>estás enredado com o que dizem os teus lábios,</para>
+  <para style="q">estás preso com as palavras da tua boca.</para>
+  <para style="q">
+    <verse number="3" style="v"/>Agora, pois, faze isto, filho meu,</para>
+  <para style="q">e livra-te, pois caíste nas mãos do teu companheiro:</para>
+  <para style="q">vai, prostra-te e importuna o teu companheiro;</para>
+  <para style="q">
+    <verse number="4" style="v"/>não dês sono aos teus olhos,</para>
+  <para style="q">nem repouso às tuas pálpebras;</para>
+  <para style="q">
+    <verse number="5" style="v"/>livra-te, como a gazela, da mão do caçador</para>
+  <para style="q">e, como a ave, da mão do passarinheiro.</para>
+  <para style="s">Advertência contra a preguiça</para>
+  <para style="q">
+    <verse number="6" style="v"/>Vai ter com a formiga, ó preguiçoso,</para>
+  <para style="q">considera os seus caminhos e sê sábio.</para>
+  <para style="q">
+    <verse number="7" style="v"/>Não tendo ela chefe,</para>
+  <para style="q">nem oficial, nem comandante,</para>
+  <para style="q">
+    <verse number="8" style="v"/>no estio, prepara o seu pão,</para>
+  <para style="q">na sega, ajunta o seu mantimento.</para>
+  <para style="q">
+    <verse number="9" style="v"/>Ó preguiçoso, até quando ficarás deitado?</para>
+  <para style="q">Quando te levantarás do teu sono?</para>
+  <para style="q">
+    <verse number="10" style="v"/>Um pouco para dormir, um pouco para tosquenejar,</para>
+  <para style="q">um pouco para encruzar os braços em repouso,</para>
+  <para style="q">
+    <verse number="11" style="v"/>assim sobrevirá a tua pobreza como um ladrão,</para>
+  <para style="q">e a tua necessidade, como um homem armado.<note caller="a" style="x"><char style="xo" closed="false">6.10-11 </char><char style="xt" closed="false"><ref loc="PRO 24:33-34">Pv 24.33-34</ref></char></note></para>
+  <para style="s">Advertência contra a maldade</para>
+  <para style="q">
+    <verse number="12" style="v"/>O homem de Belial, o homem vil,</para>
+  <para style="q">é o que anda com a perversidade na boca,</para>
+  <para style="q">
+    <verse number="13" style="v"/>acena com os olhos, arranha com os pés</para>
+  <para style="q">e faz sinais com os dedos.</para>
+  <para style="q">
+    <verse number="14" style="v"/>No seu coração há perversidade;</para>
+  <para style="q">todo o tempo maquina o mal;</para>
+  <para style="q">anda semeando contendas.</para>
+  <para style="q">
+    <verse number="15" style="v"/>Pelo que a sua destruição virá repentinamente;</para>
+  <para style="q">subitamente, será quebrantado, sem que haja cura.</para>
+  <para style="q">
+    <verse number="16" style="v"/>Seis coisas o <char style="nd">Senhor</char> aborrece,</para>
+  <para style="q">e a sétima a sua alma abomina:</para>
+  <para style="q">
+    <verse number="17" style="v"/>olhos altivos, língua mentirosa,</para>
+  <para style="q">mãos que derramam sangue inocente,</para>
+  <para style="q">
+    <verse number="18" style="v"/>coração que trama projetos iníquos,</para>
+  <para style="q">pés que se apressam a correr para o mal,</para>
+  <para style="q">
+    <verse number="19" style="v"/>testemunha falsa que profere mentiras</para>
+  <para style="q">e o que semeia contendas entre irmãos.</para>
+  <para style="s">Advertência contra a mulher adúltera</para>
+  <para style="q">
+    <verse number="20" style="v"/>Filho meu, guarda o mandamento de teu pai</para>
+  <para style="q">e não deixes a instrução de tua mãe;</para>
+  <para style="q">
+    <verse number="21" style="v"/>ata-os perpetuamente ao teu coração,</para>
+  <para style="q">pendura-os ao pescoço.</para>
+  <para style="q">
+    <verse number="22" style="v"/>Quando caminhares, isso te guiará;</para>
+  <para style="q">quando te deitares, te guardará;</para>
+  <para style="q">quando acordares, falará contigo.</para>
+  <para style="q">
+    <verse number="23" style="v"/>Porque o mandamento é lâmpada, e a instrução, luz;</para>
+  <para style="q">e as repreensões da disciplina são o caminho da vida;</para>
+  <para style="q">
+    <verse number="24" style="v"/>para te guardarem da vil mulher</para>
+  <para style="q">e das lisonjas da mulher alheia.</para>
+  <para style="q">
+    <verse number="25" style="v"/>Não cobices no teu coração a sua formosura,</para>
+  <para style="q">nem te deixes prender com as suas olhadelas.</para>
+  <para style="q">
+    <verse number="26" style="v"/>Por uma prostituta o máximo que se paga é um pedaço de pão,</para>
+  <para style="q">mas a adúltera anda à caça de vida preciosa.</para>
+  <para style="q">
+    <verse number="27" style="v"/>Tomará alguém fogo no seio,</para>
+  <para style="q">sem que as suas vestes se incendeiem?</para>
+  <para style="q">
+    <verse number="28" style="v"/>Ou andará alguém sobre brasas,</para>
+  <para style="q">sem que se queimem os seus pés?</para>
+  <para style="q">
+    <verse number="29" style="v"/>Assim será com o que se chegar à mulher do seu próximo;</para>
+  <para style="q">não ficará sem castigo todo aquele que a tocar.</para>
+  <para style="q">
+    <verse number="30" style="v"/>Não é certo que se despreza o ladrão,</para>
+  <para style="q">quando furta para saciar-se, tendo fome?</para>
+  <para style="q">
+    <verse number="31" style="v"/>Pois este, quando encontrado, pagará sete vezes tanto;</para>
+  <para style="q">entregará todos os bens de sua casa.</para>
+  <para style="q">
+    <verse number="32" style="v"/>O que adultera com uma mulher está fora de si;</para>
+  <para style="q">só mesmo quem quer arruinar-se é que pratica tal coisa.</para>
+  <para style="q">
+    <verse number="33" style="v"/>Achará açoites e infâmia,</para>
+  <para style="q">e o seu opróbrio nunca se apagará.</para>
+  <para style="q">
+    <verse number="34" style="v"/>Porque o ciúme excita o furor do marido;</para>
+  <para style="q">e não terá compaixão no dia da vingança.</para>
+  <para style="q">
+    <verse number="35" style="v"/>Não se contentará com o resgate,</para>
+  <para style="q">nem aceitará presentes, ainda que sejam muitos.</para>
+  <chapter number="7" style="c"/>
+  <para style="s">Mais advertências contra a mulher adúltera</para>
+  <para style="q">
+    <verse number="1" style="v"/>Filho meu, guarda as minhas palavras</para>
+  <para style="q">e conserva dentro de ti os meus mandamentos.</para>
+  <para style="q">
+    <verse number="2" style="v"/>Guarda os meus mandamentos e vive;</para>
+  <para style="q">e a minha lei, como a menina dos teus olhos.</para>
+  <para style="q">
+    <verse number="3" style="v"/>Ata-os aos dedos,</para>
+  <para style="q">escreve-os na tábua do teu coração.</para>
+  <para style="q">
+    <verse number="4" style="v"/>Dize à Sabedoria: Tu és minha irmã;</para>
+  <para style="q">e ao Entendimento chama teu parente;</para>
+  <para style="q">
+    <verse number="5" style="v"/>para te guardarem da mulher alheia,</para>
+  <para style="q">da estranha que lisonjeia com palavras.</para>
+  <para style="q">
+    <verse number="6" style="v"/>Porque da janela da minha casa,</para>
+  <para style="q">por minhas grades, olhando eu,</para>
+  <para style="q">
+    <verse number="7" style="v"/>vi entre os simples, descobri entre os jovens</para>
+  <para style="q">um que era carecente de juízo,</para>
+  <para style="q">
+    <verse number="8" style="v"/>que ia e vinha pela rua junto à esquina da mulher estranha</para>
+  <para style="q">e seguia o caminho da sua casa,</para>
+  <para style="q">
+    <verse number="9" style="v"/>à tarde do dia, no crepúsculo,</para>
+  <para style="q">na escuridão da noite, nas trevas.</para>
+  <para style="q">
+    <verse number="10" style="v"/>Eis que a mulher lhe sai ao encontro,</para>
+  <para style="q">com vestes de prostituta e astuta de coração.</para>
+  <para style="q">
+    <verse number="11" style="v"/>É apaixonada e inquieta,</para>
+  <para style="q">cujos pés não param em casa;</para>
+  <para style="q">
+    <verse number="12" style="v"/>ora está nas ruas, ora, nas praças,</para>
+  <para style="q">espreitando por todos os cantos.</para>
+  <para style="q">
+    <verse number="13" style="v"/>Aproximou-se dele, e o beijou,</para>
+  <para style="q">e de cara impudente lhe diz:</para>
+  <para style="q">
+    <verse number="14" style="v"/>Sacrifícios pacíficos tinha eu de oferecer;</para>
+  <para style="q">paguei hoje os meus votos.</para>
+  <para style="q">
+    <verse number="15" style="v"/>Por isso, saí ao teu encontro,</para>
+  <para style="q">a buscar-te, e te achei.</para>
+  <para style="q">
+    <verse number="16" style="v"/>Já cobri de colchas a minha cama,</para>
+  <para style="q">de linho fino do Egito, de várias cores;</para>
+  <para style="q">
+    <verse number="17" style="v"/>já perfumei o meu leito com mirra,</para>
+  <para style="q">aloés e cinamomo.</para>
+  <para style="q">
+    <verse number="18" style="v"/>Vem, embriaguemo-nos com as delícias do amor, até pela manhã;</para>
+  <para style="q">gozemos amores.</para>
+  <para style="q">
+    <verse number="19" style="v"/>Porque o meu marido não está em casa,</para>
+  <para style="q">saiu de viagem para longe.</para>
+  <para style="q">
+    <verse number="20" style="v"/>Levou consigo um saquitel de dinheiro;</para>
+  <para style="q">só por volta da lua cheia ele tornará para casa.</para>
+  <para style="q">
+    <verse number="21" style="v"/>Seduziu-o com as suas muitas palavras,</para>
+  <para style="q">com as lisonjas dos seus lábios o arrastou.</para>
+  <para style="q">
+    <verse number="22" style="v"/>E ele num instante a segue,</para>
+  <para style="q">como o boi que vai ao matadouro;</para>
+  <para style="q">como o cervo que corre para a rede,</para>
+  <para style="q">
+    <verse number="23" style="v"/>até que a flecha lhe atravesse o coração;</para>
+  <para style="q">como a ave que se apressa para o laço,</para>
+  <para style="q">sem saber que isto lhe custará a vida.</para>
+  <para style="q">
+    <verse number="24" style="v"/>Agora, pois, filho, dá-me ouvidos</para>
+  <para style="q">e sê atento às palavras da minha boca;</para>
+  <para style="q">
+    <verse number="25" style="v"/>não se desvie o teu coração para os caminhos dela,</para>
+  <para style="q">e não andes perdido nas suas veredas;</para>
+  <para style="q">
+    <verse number="26" style="v"/>porque a muitos feriu e derribou;</para>
+  <para style="q">e são muitos os que por ela foram mortos.</para>
+  <para style="q">
+    <verse number="27" style="v"/>A sua casa é caminho para a sepultura</para>
+  <para style="q">e desce para as câmaras da morte.</para>
+  <chapter number="8" style="c"/>
+  <para style="s">A excelência da Sabedoria</para>
+  <para style="q">
+    <verse number="1" style="v"/>Não clama, porventura, a Sabedoria,</para>
+  <para style="q">e o Entendimento não faz ouvir a sua voz?</para>
+  <para style="q">
+    <verse number="2" style="v"/>No cimo das alturas, junto ao caminho,</para>
+  <para style="q">nas encruzilhadas das veredas ela se coloca;</para>
+  <para style="q">
+    <verse number="3" style="v"/>junto às portas, à entrada da cidade,</para>
+  <para style="q">à entrada das portas está gritando:<note caller="a" style="x"><char style="xo" closed="false">8.1-3 </char><char style="xt" closed="false"><ref loc="PRO 1:20-21">Pv 1.20-21</ref></char></note></para>
+  <para style="q">
+    <verse number="4" style="v"/>A vós outros, ó homens, clamo;</para>
+  <para style="q">e a minha voz se dirige aos filhos dos homens.</para>
+  <para style="q">
+    <verse number="5" style="v"/>Entendei, ó simples, a prudência;</para>
+  <para style="q">e vós, néscios, entendei a sabedoria.</para>
+  <para style="q">
+    <verse number="6" style="v"/>Ouvi, pois falarei coisas excelentes;</para>
+  <para style="q">os meus lábios proferirão coisas retas.</para>
+  <para style="q">
+    <verse number="7" style="v"/>Porque a minha boca proclamará a verdade;</para>
+  <para style="q">os meus lábios abominam a impiedade.</para>
+  <para style="q">
+    <verse number="8" style="v"/>São justas todas as palavras da minha boca;</para>
+  <para style="q">não há nelas nenhuma coisa torta, nem perversa.</para>
+  <para style="q">
+    <verse number="9" style="v"/>Todas são retas para quem as entende</para>
+  <para style="q">e justas, para os que acham o conhecimento.</para>
+  <para style="q">
+    <verse number="10" style="v"/>Aceitai o meu ensino, e não a prata,</para>
+  <para style="q">e o conhecimento, antes do que o ouro escolhido.</para>
+  <para style="q">
+    <verse number="11" style="v"/>Porque melhor é a sabedoria do que joias,</para>
+  <para style="q">e de tudo o que se deseja nada se pode comparar com ela.</para>
+  <para style="q">
+    <verse number="12" style="v"/>Eu, a Sabedoria, habito com a prudência</para>
+  <para style="q">e disponho de conhecimentos e de conselhos.</para>
+  <para style="q">
+    <verse number="13" style="v"/>O temor do <char style="nd">Senhor</char> consiste em aborrecer o mal;</para>
+  <para style="q">a soberba, a arrogância, o mau caminho</para>
+  <para style="q">e a boca perversa, eu os aborreço.</para>
+  <para style="q">
+    <verse number="14" style="v"/>Meu é o conselho e a verdadeira sabedoria,</para>
+  <para style="q">eu sou o Entendimento, minha é a fortaleza.</para>
+  <para style="q">
+    <verse number="15" style="v"/>Por meu intermédio, reinam os reis,</para>
+  <para style="q">e os príncipes decretam justiça.</para>
+  <para style="q">
+    <verse number="16" style="v"/>Por meu intermédio, governam os príncipes,</para>
+  <para style="q">os nobres e todos os juízes da terra.</para>
+  <para style="q">
+    <verse number="17" style="v"/>Eu amo os que me amam;</para>
+  <para style="q">os que me procuram me acham.</para>
+  <para style="q">
+    <verse number="18" style="v"/>Riquezas e honra estão comigo,</para>
+  <para style="q">bens duráveis e justiça.</para>
+  <para style="q">
+    <verse number="19" style="v"/>Melhor é o meu fruto do que o ouro, do que o ouro refinado;</para>
+  <para style="q">e o meu rendimento, melhor do que a prata escolhida.</para>
+  <para style="q">
+    <verse number="20" style="v"/>Ando pelo caminho da justiça,</para>
+  <para style="q">no meio das veredas do juízo,</para>
+  <para style="q">
+    <verse number="21" style="v"/>para dotar de bens os que me amam</para>
+  <para style="q">e lhes encher os tesouros.</para>
+  <para style="s">A eternidade da Sabedoria</para>
+  <para style="q">
+    <verse number="22" style="v"/>O <char style="nd">Senhor</char> me possuía no início de sua obra,<note caller="b" style="x"><char style="xo" closed="false">8.22 </char><char style="xt" closed="false"><ref loc="REV 3:14">Ap 3.14</ref></char></note></para>
+  <para style="q">antes de suas obras mais antigas.</para>
+  <para style="q">
+    <verse number="23" style="v"/>Desde a eternidade fui estabelecida,</para>
+  <para style="q">desde o princípio, antes do começo da terra.</para>
+  <para style="q">
+    <verse number="24" style="v"/>Antes de haver abismos, eu nasci,</para>
+  <para style="q">e antes ainda de haver fontes carregadas de águas.</para>
+  <para style="q">
+    <verse number="25" style="v"/>Antes que os montes fossem firmados,</para>
+  <para style="q">antes de haver outeiros, eu nasci.</para>
+  <para style="q">
+    <verse number="26" style="v"/>Ainda ele não tinha feito a terra, nem as amplidões,</para>
+  <para style="q">nem sequer o princípio do pó do mundo.</para>
+  <para style="q">
+    <verse number="27" style="v"/>Quando ele preparava os céus, aí estava eu;</para>
+  <para style="q">quando traçava o horizonte sobre a face do abismo;</para>
+  <para style="q">
+    <verse number="28" style="v"/>quando firmava as nuvens de cima;</para>
+  <para style="q">quando estabelecia as fontes do abismo;</para>
+  <para style="q">
+    <verse number="29" style="v"/>quando fixava ao mar o seu limite,</para>
+  <para style="q">para que as águas não traspassassem os seus limites;</para>
+  <para style="q">quando compunha os fundamentos da terra;</para>
+  <para style="q">
+    <verse number="30" style="v"/>então, eu estava com ele e era seu arquiteto,</para>
+  <para style="q">dia após dia, eu era as suas delícias,</para>
+  <para style="q">folgando perante ele em todo o tempo;</para>
+  <para style="q">
+    <verse number="31" style="v"/>regozijando-me no seu mundo habitável</para>
+  <para style="q">e achando as minhas delícias com os filhos dos homens.</para>
+  <para style="q">
+    <verse number="32" style="v"/>Agora, pois, filhos, ouvi-me,</para>
+  <para style="q">porque felizes serão os que guardarem os meus caminhos.</para>
+  <para style="q">
+    <verse number="33" style="v"/>Ouvi o ensino, sede sábios</para>
+  <para style="q">e não o rejeiteis.</para>
+  <para style="q">
+    <verse number="34" style="v"/>Feliz o homem que me dá ouvidos,</para>
+  <para style="q">velando dia a dia às minhas portas,</para>
+  <para style="q">esperando às ombreiras da minha entrada.</para>
+  <para style="q">
+    <verse number="35" style="v"/>Porque o que me acha acha a vida</para>
+  <para style="q">e alcança favor do <char style="nd">Senhor</char>.</para>
+  <para style="q">
+    <verse number="36" style="v"/>Mas o que peca contra mim violenta a própria alma.</para>
+  <para style="q">Todos os que me aborrecem amam a morte.</para>
+  <chapter number="9" style="c"/>
+  <para style="s">O banquete da Sabedoria</para>
+  <para style="q">
+    <verse number="1" style="v"/>A Sabedoria edificou a sua casa,</para>
+  <para style="q">lavrou as suas sete colunas.</para>
+  <para style="q">
+    <verse number="2" style="v"/>Carneou os seus animais, misturou o seu vinho</para>
+  <para style="q">e arrumou a sua mesa.</para>
+  <para style="q">
+    <verse number="3" style="v"/>Já deu ordens às suas criadas</para>
+  <para style="q">e, assim, convida desde as alturas da cidade:</para>
+  <para style="q">
+    <verse number="4" style="v"/>Quem é simples, volte-se para aqui.</para>
+  <para style="q">Aos faltos de senso diz:</para>
+  <para style="q">
+    <verse number="5" style="v"/>Vinde, comei do meu pão</para>
+  <para style="q">e bebei do vinho que misturei.</para>
+  <para style="q">
+    <verse number="6" style="v"/>Deixai os insensatos e vivei;</para>
+  <para style="q">andai pelo caminho do entendimento.</para>
+  <para style="q">
+    <verse number="7" style="v"/>O que repreende o escarnecedor traz afronta sobre si;</para>
+  <para style="q">e o que censura o perverso a si mesmo se injuria.</para>
+  <para style="q">
+    <verse number="8" style="v"/>Não repreendas o escarnecedor, para que te não aborreça;</para>
+  <para style="q">repreende o sábio, e ele te amará.</para>
+  <para style="q">
+    <verse number="9" style="v"/>Dá instrução ao sábio, e ele se fará mais sábio ainda;</para>
+  <para style="q">ensina ao justo, e ele crescerá em prudência.</para>
+  <para style="q">
+    <verse number="10" style="v"/>O temor do <char style="nd">Senhor</char><note caller="a" style="x"><char style="xo" closed="false">9.10 </char><char style="xt" closed="false"><ref loc="JOB 28:28">Jó 28.28</ref>; <ref loc="PSA 111:10">Sl 111.10</ref>; <ref loc="PRO 1:7">Pv 1.7</ref></char></note> é o princípio da sabedoria,</para>
+  <para style="q">e o conhecimento do Santo é prudência.</para>
+  <para style="q">
+    <verse number="11" style="v"/>Porque por mim se multiplicam os teus dias,</para>
+  <para style="q">e anos de vida se te acrescentarão.</para>
+  <para style="q">
+    <verse number="12" style="v"/>Se és sábio, para ti mesmo o és;</para>
+  <para style="q">se és escarnecedor, tu só o suportarás.</para>
+  <para style="s">O convite da mulher-loucura</para>
+  <para style="q">
+    <verse number="13" style="v"/>A loucura é mulher apaixonada, é ignorante</para>
+  <para style="q">e não sabe coisa alguma.</para>
+  <para style="q">
+    <verse number="14" style="v"/>Assenta-se à porta de sua casa,</para>
+  <para style="q">nas alturas da cidade, toma uma cadeira,</para>
+  <para style="q">
+    <verse number="15" style="v"/>para dizer aos que passam</para>
+  <para style="q">e seguem direito o seu caminho:</para>
+  <para style="q">
+    <verse number="16" style="v"/>Quem é simples, volte-se para aqui.</para>
+  <para style="q">E aos faltos de senso diz:</para>
+  <para style="q">
+    <verse number="17" style="v"/>As águas roubadas são doces,</para>
+  <para style="q">e o pão comido às ocultas é agradável.</para>
+  <para style="q">
+    <verse number="18" style="v"/>Eles, porém, não sabem que ali estão os mortos,</para>
+  <para style="q">que os seus convidados estão nas profundezas do inferno.</para>
+  <chapter number="10" style="c"/>
+  <para style="s">O justo em contraste com o perverso</para>
+  <para style="p">
+    <verse number="1" style="v"/>Provérbios de Salomão.</para>
+  <para style="q">O filho sábio alegra a seu pai,</para>
+  <para style="q">mas o filho insensato é a tristeza de sua mãe.</para>
+  <para style="q">
+    <verse number="2" style="v"/>Os tesouros da impiedade de nada aproveitam,</para>
+  <para style="q">mas a justiça livra da morte.</para>
+  <para style="q">
+    <verse number="3" style="v"/>O <char style="nd">Senhor</char> não deixa ter fome o justo,</para>
+  <para style="q">mas rechaça a avidez dos perversos.</para>
+  <para style="q">
+    <verse number="4" style="v"/>O que trabalha com mão remissa empobrece,</para>
+  <para style="q">mas a mão dos diligentes vem a enriquecer-se.</para>
+  <para style="q">
+    <verse number="5" style="v"/>O que ajunta no verão é filho sábio,</para>
+  <para style="q">mas o que dorme na sega é filho que envergonha.</para>
+  <para style="q">
+    <verse number="6" style="v"/>Sobre a cabeça do justo há bênçãos,</para>
+  <para style="q">mas na boca dos perversos mora a violência.</para>
+  <para style="q">
+    <verse number="7" style="v"/>A memória do justo é abençoada,</para>
+  <para style="q">mas o nome dos perversos cai em podridão.</para>
+  <para style="q">
+    <verse number="8" style="v"/>O sábio de coração aceita os mandamentos,</para>
+  <para style="q">mas o insensato de lábios vem a arruinar-se.</para>
+  <para style="q">
+    <verse number="9" style="v"/>Quem anda em integridade anda seguro,</para>
+  <para style="q">mas o que perverte os seus caminhos será conhecido.</para>
+  <para style="q">
+    <verse number="10" style="v"/>O que acena com os olhos traz desgosto,</para>
+  <para style="q">e o insensato de lábios vem a arruinar-se.</para>
+  <para style="q">
+    <verse number="11" style="v"/>A boca do justo é manancial de vida,</para>
+  <para style="q">mas na boca dos perversos mora a violência.</para>
+  <para style="q">
+    <verse number="12" style="v"/>O ódio excita contendas,</para>
+  <para style="q">mas o amor cobre todas as transgressões.<note caller="a" style="x"><char style="xo" closed="false">10.12 </char><char style="xt" closed="false"><ref loc="JAS 5:20">Tg 5.20</ref>; <ref loc="1PE 4:8">1Pe 4.8</ref></char></note></para>
+  <para style="q">
+    <verse number="13" style="v"/>Nos lábios do prudente, se acha sabedoria,</para>
+  <para style="q">mas a vara é para as costas do falto de senso.</para>
+  <para style="q">
+    <verse number="14" style="v"/>Os sábios entesouram o conhecimento,</para>
+  <para style="q">mas a boca do néscio é uma ruína iminente.</para>
+  <para style="q">
+    <verse number="15" style="v"/>Os bens do rico são a sua cidade forte;</para>
+  <para style="q">a pobreza dos pobres é a sua ruína.</para>
+  <para style="q">
+    <verse number="16" style="v"/>A obra do justo conduz à vida,</para>
+  <para style="q">e o rendimento do perverso, ao pecado.</para>
+  <para style="q">
+    <verse number="17" style="v"/>O caminho para a vida é de quem guarda o ensino,</para>
+  <para style="q">mas o que abandona a repreensão anda errado.</para>
+  <para style="q">
+    <verse number="18" style="v"/>O que retém o ódio é de lábios falsos,</para>
+  <para style="q">e o que difama é insensato.</para>
+  <para style="q">
+    <verse number="19" style="v"/>No muito falar não falta transgressão,</para>
+  <para style="q">mas o que modera os lábios é prudente.</para>
+  <para style="q">
+    <verse number="20" style="v"/>Prata escolhida é a língua do justo,</para>
+  <para style="q">mas o coração dos perversos vale mui pouco.</para>
+  <para style="q">
+    <verse number="21" style="v"/>Os lábios do justo apascentam a muitos,</para>
+  <para style="q">mas, por falta de senso, morrem os tolos.</para>
+  <para style="q">
+    <verse number="22" style="v"/>A bênção do <char style="nd">Senhor</char> enriquece,</para>
+  <para style="q">e, com ela, ele não traz desgosto.</para>
+  <para style="q">
+    <verse number="23" style="v"/>Para o insensato, praticar a maldade é divertimento;</para>
+  <para style="q">para o homem inteligente, o ser sábio.</para>
+  <para style="q">
+    <verse number="24" style="v"/>Aquilo que teme o perverso, isso lhe sobrevém,</para>
+  <para style="q">mas o anelo dos justos Deus o cumpre.</para>
+  <para style="q">
+    <verse number="25" style="v"/>Como passa a tempestade, assim desaparece o perverso,</para>
+  <para style="q">mas o justo tem perpétuo fundamento.</para>
+  <para style="q">
+    <verse number="26" style="v"/>Como vinagre para os dentes e fumaça para os olhos,</para>
+  <para style="q">assim é o preguiçoso para aqueles que o mandam.</para>
+  <para style="q">
+    <verse number="27" style="v"/>O temor do <char style="nd">Senhor</char> prolonga os dias da vida,</para>
+  <para style="q">mas os anos dos perversos serão abreviados.</para>
+  <para style="q">
+    <verse number="28" style="v"/>A esperança dos justos é alegria,</para>
+  <para style="q">mas a expectação dos perversos perecerá.</para>
+  <para style="q">
+    <verse number="29" style="v"/>O caminho do <char style="nd">Senhor</char> é fortaleza para os íntegros,</para>
+  <para style="q">mas ruína aos que praticam a iniquidade.</para>
+  <para style="q">
+    <verse number="30" style="v"/>O justo jamais será abalado,</para>
+  <para style="q">mas os perversos não habitarão a terra.</para>
+  <para style="q">
+    <verse number="31" style="v"/>A boca do justo produz sabedoria,</para>
+  <para style="q">mas a língua da perversidade será desarraigada.</para>
+  <para style="q">
+    <verse number="32" style="v"/>Os lábios do justo sabem o que agrada,</para>
+  <para style="q">mas a boca dos perversos, somente o mal.</para>
+  <chapter number="11" style="c"/>
+  <para style="q">
+    <verse number="1" style="v"/>Balança enganosa é abominação para o <char style="nd">Senhor</char>,</para>
+  <para style="q">mas o peso justo é o seu prazer.</para>
+  <para style="q">
+    <verse number="2" style="v"/>Em vindo a soberba, sobrevém a desonra,</para>
+  <para style="q">mas com os humildes está a sabedoria.</para>
+  <para style="q">
+    <verse number="3" style="v"/>A integridade dos retos os guia;</para>
+  <para style="q">mas, aos pérfidos, a sua mesma falsidade os destrói.</para>
+  <para style="q">
+    <verse number="4" style="v"/>As riquezas de nada aproveitam no dia da ira,</para>
+  <para style="q">mas a justiça livra da morte.</para>
+  <para style="q">
+    <verse number="5" style="v"/>A justiça do íntegro endireita o seu caminho,</para>
+  <para style="q">mas pela sua impiedade cai o perverso.</para>
+  <para style="q">
+    <verse number="6" style="v"/>A justiça dos retos os livrará,</para>
+  <para style="q">mas na sua maldade os pérfidos serão apanhados.</para>
+  <para style="q">
+    <verse number="7" style="v"/>Morrendo o homem perverso, morre a sua esperança,</para>
+  <para style="q">e a expectação da iniquidade se desvanece.</para>
+  <para style="q">
+    <verse number="8" style="v"/>O justo é libertado da angústia,</para>
+  <para style="q">e o perverso a recebe em seu lugar.</para>
+  <para style="q">
+    <verse number="9" style="v"/>O ímpio, com a boca, destrói o próximo,</para>
+  <para style="q">mas os justos são libertados pelo conhecimento.</para>
+  <para style="q">
+    <verse number="10" style="v"/>No bem-estar dos justos exulta a cidade,</para>
+  <para style="q">e, perecendo os perversos, há júbilo.</para>
+  <para style="q">
+    <verse number="11" style="v"/>Pela bênção que os retos suscitam, a cidade se exalta,</para>
+  <para style="q">mas pela boca dos perversos é derribada.</para>
+  <para style="q">
+    <verse number="12" style="v"/>O que despreza o próximo é falto de senso,</para>
+  <para style="q">mas o homem prudente, este se cala.</para>
+  <para style="q">
+    <verse number="13" style="v"/>O mexeriqueiro descobre o segredo,</para>
+  <para style="q">mas o fiel de espírito o encobre.</para>
+  <para style="q">
+    <verse number="14" style="v"/>Não havendo sábia direção, cai o povo,</para>
+  <para style="q">mas na multidão de conselheiros há segurança.</para>
+  <para style="q">
+    <verse number="15" style="v"/>Quem fica por fiador de outrem sofrerá males,</para>
+  <para style="q">mas o que foge de o ser estará seguro.</para>
+  <para style="q">
+    <verse number="16" style="v"/>A mulher graciosa alcança honra,</para>
+  <para style="q">como os poderosos adquirem riqueza.</para>
+  <para style="q">
+    <verse number="17" style="v"/>O homem bondoso faz bem a si mesmo,</para>
+  <para style="q">mas o cruel a si mesmo se fere.</para>
+  <para style="q">
+    <verse number="18" style="v"/>O perverso recebe um salário ilusório,</para>
+  <para style="q">mas o que semeia justiça terá recompensa verdadeira.</para>
+  <para style="q">
+    <verse number="19" style="v"/>Tão certo como a justiça conduz para a vida,</para>
+  <para style="q">assim o que segue o mal, para a sua morte o faz.</para>
+  <para style="q">
+    <verse number="20" style="v"/>Abomináveis para o <char style="nd">Senhor</char> são os perversos de coração,</para>
+  <para style="q">mas os que andam em integridade são o seu prazer.</para>
+  <para style="q">
+    <verse number="21" style="v"/>O mau, é evidente, não ficará sem castigo,</para>
+  <para style="q">mas a geração dos justos é livre.</para>
+  <para style="q">
+    <verse number="22" style="v"/>Como joia de ouro em focinho de porco,</para>
+  <para style="q">assim é a mulher formosa que não tem discrição.</para>
+  <para style="q">
+    <verse number="23" style="v"/>O desejo dos justos tende somente para o bem,</para>
+  <para style="q">mas a expectação dos perversos redunda em ira.</para>
+  <para style="q">
+    <verse number="24" style="v"/>A quem dá liberalmente, ainda se lhe acrescenta mais e mais;</para>
+  <para style="q">ao que retém mais do que é justo, ser-lhe-á em pura perda.</para>
+  <para style="q">
+    <verse number="25" style="v"/>A alma generosa prosperará,</para>
+  <para style="q">e quem dá a beber será dessedentado.</para>
+  <para style="q">
+    <verse number="26" style="v"/>Ao que retém o trigo, o povo o amaldiçoa,</para>
+  <para style="q">mas bênção haverá sobre a cabeça do seu vendedor.</para>
+  <para style="q">
+    <verse number="27" style="v"/>Quem procura o bem alcança favor,</para>
+  <para style="q">mas ao que corre atrás do mal, este lhe sobrevirá.</para>
+  <para style="q">
+    <verse number="28" style="v"/>Quem confia nas suas riquezas cairá,</para>
+  <para style="q">mas os justos reverdecerão como a folhagem.</para>
+  <para style="q">
+    <verse number="29" style="v"/>O que perturba a sua casa herda o vento,</para>
+  <para style="q">e o insensato é servo do sábio de coração.</para>
+  <para style="q">
+    <verse number="30" style="v"/>O fruto do justo é árvore de vida,</para>
+  <para style="q">e o que ganha almas é sábio.</para>
+  <para style="q">
+    <verse number="31" style="v"/>Se o justo é punido<note caller="a" style="x"><char style="xo" closed="false">11.31 </char><char style="xt" closed="false"><ref loc="1PE 4:18">1Pe 4.18</ref></char></note> na terra,</para>
+  <para style="q">quanto mais o perverso e o pecador!</para>
+  <chapter number="12" style="c"/>
+  <para style="q">
+    <verse number="1" style="v"/>Quem ama a disciplina ama o conhecimento,</para>
+  <para style="q">mas o que aborrece a repreensão é estúpido.</para>
+  <para style="q">
+    <verse number="2" style="v"/>O homem de bem alcança o favor do <char style="nd">Senhor</char>,</para>
+  <para style="q">mas ao homem de perversos desígnios, ele o condena.</para>
+  <para style="q">
+    <verse number="3" style="v"/>O homem não se estabelece pela perversidade,</para>
+  <para style="q">mas a raiz dos justos não será removida.</para>
+  <para style="q">
+    <verse number="4" style="v"/>A mulher virtuosa é a coroa do seu marido,</para>
+  <para style="q">mas a que procede vergonhosamente é como podridão nos seus ossos.</para>
+  <para style="q">
+    <verse number="5" style="v"/>Os pensamentos do justo são retos,</para>
+  <para style="q">mas os conselhos do perverso, engano.</para>
+  <para style="q">
+    <verse number="6" style="v"/>As palavras dos perversos são emboscadas para derramar sangue,</para>
+  <para style="q">mas a boca dos retos livra homens.</para>
+  <para style="q">
+    <verse number="7" style="v"/>Os perversos serão derribados e já não são,</para>
+  <para style="q">mas a casa dos justos permanecerá.</para>
+  <para style="q">
+    <verse number="8" style="v"/>Segundo o seu entendimento, será louvado o homem,</para>
+  <para style="q">mas o perverso de coração será desprezado.</para>
+  <para style="q">
+    <verse number="9" style="v"/>Melhor é o que se estima em pouco e faz o seu trabalho</para>
+  <para style="q">do que o vanglorioso que tem falta de pão.</para>
+  <para style="q">
+    <verse number="10" style="v"/>O justo atenta para a vida dos seus animais,</para>
+  <para style="q">mas o coração dos perversos é cruel.</para>
+  <para style="q">
+    <verse number="11" style="v"/>O que lavra a sua terra será farto de pão,</para>
+  <para style="q">mas o que corre atrás de coisas vãs é falto de senso.</para>
+  <para style="q">
+    <verse number="12" style="v"/>O perverso quer viver do que caçam os maus,</para>
+  <para style="q">mas a raiz dos justos produz o seu fruto.</para>
+  <para style="q">
+    <verse number="13" style="v"/>Pela transgressão dos lábios o mau se enlaça,</para>
+  <para style="q">mas o justo sairá da angústia.</para>
+  <para style="q">
+    <verse number="14" style="v"/>Cada um se farta de bem pelo fruto da sua boca,</para>
+  <para style="q">e o que as mãos do homem fizerem ser-lhe-á retribuído.</para>
+  <para style="q">
+    <verse number="15" style="v"/>O caminho do insensato aos seus próprios olhos parece reto,</para>
+  <para style="q">mas o sábio dá ouvidos aos conselhos.</para>
+  <para style="q">
+    <verse number="16" style="v"/>A ira do insensato num instante se conhece,</para>
+  <para style="q">mas o prudente oculta a afronta.</para>
+  <para style="q">
+    <verse number="17" style="v"/>O que diz a verdade manifesta a justiça,</para>
+  <para style="q">mas a testemunha falsa, a fraude.</para>
+  <para style="q">
+    <verse number="18" style="v"/>Alguém há cuja tagarelice é como pontas de espada,</para>
+  <para style="q">mas a língua dos sábios é medicina.</para>
+  <para style="q">
+    <verse number="19" style="v"/>O lábio veraz permanece para sempre,</para>
+  <para style="q">mas a língua mentirosa, apenas um momento.</para>
+  <para style="q">
+    <verse number="20" style="v"/>Há fraude no coração dos que maquinam mal,</para>
+  <para style="q">mas alegria têm os que aconselham a paz.</para>
+  <para style="q">
+    <verse number="21" style="v"/>Nenhum agravo sobrevirá ao justo,</para>
+  <para style="q">mas os perversos, o mal os apanhará em cheio.</para>
+  <para style="q">
+    <verse number="22" style="v"/>Os lábios mentirosos são abomináveis ao <char style="nd">Senhor</char>,</para>
+  <para style="q">mas os que agem fielmente são o seu prazer.</para>
+  <para style="q">
+    <verse number="23" style="v"/>O homem prudente oculta o conhecimento,</para>
+  <para style="q">mas o coração dos insensatos proclama a estultícia.</para>
+  <para style="q">
+    <verse number="24" style="v"/>A mão diligente dominará,</para>
+  <para style="q">mas a remissa será sujeita a trabalhos forçados.</para>
+  <para style="q">
+    <verse number="25" style="v"/>A ansiedade no coração do homem o abate,</para>
+  <para style="q">mas a boa palavra o alegra.</para>
+  <para style="q">
+    <verse number="26" style="v"/>O justo serve de guia para o seu companheiro,</para>
+  <para style="q">mas o caminho dos perversos os faz errar.</para>
+  <para style="q">
+    <verse number="27" style="v"/>O preguiçoso não assará a sua caça,</para>
+  <para style="q">mas o bem precioso do homem é ser ele diligente.</para>
+  <para style="q">
+    <verse number="28" style="v"/>Na vereda da justiça, está a vida,</para>
+  <para style="q">e no caminho da sua carreira não há morte.</para>
+  <chapter number="13" style="c"/>
+  <para style="q">
+    <verse number="1" style="v"/>O filho sábio ouve a instrução do pai,</para>
+  <para style="q">mas o escarnecedor não atende à repreensão.</para>
+  <para style="q">
+    <verse number="2" style="v"/>Do fruto da boca o homem comerá o bem,</para>
+  <para style="q">mas o desejo dos pérfidos é a violência.</para>
+  <para style="q">
+    <verse number="3" style="v"/>O que guarda a boca conserva a sua alma,</para>
+  <para style="q">mas o que muito abre os lábios a si mesmo se arruína.</para>
+  <para style="q">
+    <verse number="4" style="v"/>O preguiçoso deseja e nada tem,</para>
+  <para style="q">mas a alma dos diligentes se farta.</para>
+  <para style="q">
+    <verse number="5" style="v"/>O justo aborrece a palavra de mentira,</para>
+  <para style="q">mas o perverso faz vergonha e se desonra.</para>
+  <para style="q">
+    <verse number="6" style="v"/>A justiça guarda ao que anda em integridade,</para>
+  <para style="q">mas a malícia subverte ao pecador.</para>
+  <para style="q">
+    <verse number="7" style="v"/>Uns se dizem ricos sem terem nada;</para>
+  <para style="q">outros se dizem pobres, sendo mui ricos.</para>
+  <para style="q">
+    <verse number="8" style="v"/>Com as suas riquezas se resgata o homem,</para>
+  <para style="q">mas ao pobre não ocorre ameaça.</para>
+  <para style="q">
+    <verse number="9" style="v"/>A luz dos justos brilha intensamente,</para>
+  <para style="q">mas a lâmpada dos perversos se apagará.</para>
+  <para style="q">
+    <verse number="10" style="v"/>Da soberba só resulta a contenda,</para>
+  <para style="q">mas com os que se aconselham se acha a sabedoria.</para>
+  <para style="q">
+    <verse number="11" style="v"/>Os bens que facilmente se ganham, esses diminuem,</para>
+  <para style="q">mas o que ajunta à força do trabalho terá aumento.</para>
+  <para style="q">
+    <verse number="12" style="v"/>A esperança que se adia faz adoecer o coração,</para>
+  <para style="q">mas o desejo cumprido é árvore de vida.</para>
+  <para style="q">
+    <verse number="13" style="v"/>O que despreza a palavra a ela se apenhora,</para>
+  <para style="q">mas o que teme o mandamento será galardoado.</para>
+  <para style="q">
+    <verse number="14" style="v"/>O ensino do sábio é fonte de vida,</para>
+  <para style="q">para que se evitem os laços da morte.</para>
+  <para style="q">
+    <verse number="15" style="v"/>A boa inteligência consegue favor,</para>
+  <para style="q">mas o caminho dos pérfidos é intransitável.</para>
+  <para style="q">
+    <verse number="16" style="v"/>Todo prudente procede com conhecimento,</para>
+  <para style="q">mas o insensato espraia a sua loucura.</para>
+  <para style="q">
+    <verse number="17" style="v"/>O mau mensageiro se precipita no mal,</para>
+  <para style="q">mas o embaixador fiel é medicina.</para>
+  <para style="q">
+    <verse number="18" style="v"/>Pobreza e afronta sobrevêm ao que rejeita a instrução,</para>
+  <para style="q">mas o que guarda a repreensão será honrado.</para>
+  <para style="q">
+    <verse number="19" style="v"/>O desejo que se cumpre agrada a alma,</para>
+  <para style="q">mas apartar-se do mal é abominável para os insensatos.</para>
+  <para style="q">
+    <verse number="20" style="v"/>Quem anda com os sábios será sábio,</para>
+  <para style="q">mas o companheiro dos insensatos se tornará mau.</para>
+  <para style="q">
+    <verse number="21" style="v"/>A desventura persegue os pecadores,</para>
+  <para style="q">mas os justos serão galardoados com o bem.</para>
+  <para style="q">
+    <verse number="22" style="v"/>O homem de bem deixa herança aos filhos de seus filhos,</para>
+  <para style="q">mas a riqueza do pecador é depositada para o justo.</para>
+  <para style="q">
+    <verse number="23" style="v"/>A terra virgem dos pobres dá mantimento em abundância,</para>
+  <para style="q">mas a falta de justiça o dissipa.</para>
+  <para style="q">
+    <verse number="24" style="v"/>O que retém a vara aborrece a seu filho,</para>
+  <para style="q">mas o que o ama, cedo, o disciplina.</para>
+  <para style="q">
+    <verse number="25" style="v"/>O justo tem o bastante para satisfazer o seu apetite,</para>
+  <para style="q">mas o estômago dos perversos passa fome.</para>
+  <chapter number="14" style="c"/>
+  <para style="q">
+    <verse number="1" style="v"/>A mulher sábia edifica a sua casa,</para>
+  <para style="q">mas a insensata, com as próprias mãos, a derriba.</para>
+  <para style="q">
+    <verse number="2" style="v"/>O que anda na retidão teme ao <char style="nd">Senhor</char>,</para>
+  <para style="q">mas o que anda em caminhos tortuosos, esse o despreza.</para>
+  <para style="q">
+    <verse number="3" style="v"/>Está na boca do insensato a vara para a sua própria soberba,</para>
+  <para style="q">mas os lábios do prudente o preservarão.</para>
+  <para style="q">
+    <verse number="4" style="v"/>Não havendo bois, o celeiro fica limpo,</para>
+  <para style="q">mas pela força do boi há abundância de colheitas.</para>
+  <para style="q">
+    <verse number="5" style="v"/>A testemunha verdadeira não mente,</para>
+  <para style="q">mas a falsa se desboca em mentiras.</para>
+  <para style="q">
+    <verse number="6" style="v"/>O escarnecedor procura a sabedoria e não a encontra,</para>
+  <para style="q">mas para o prudente o conhecimento é fácil.</para>
+  <para style="q">
+    <verse number="7" style="v"/>Foge da presença do homem insensato,</para>
+  <para style="q">porque nele não divisarás lábios de conhecimento.</para>
+  <para style="q">
+    <verse number="8" style="v"/>A sabedoria do prudente é entender o seu próprio caminho,</para>
+  <para style="q">mas a estultícia dos insensatos é enganadora.</para>
+  <para style="q">
+    <verse number="9" style="v"/>Os loucos zombam do pecado,</para>
+  <para style="q">mas entre os retos há boa vontade.</para>
+  <para style="q">
+    <verse number="10" style="v"/>O coração conhece a sua própria amargura,</para>
+  <para style="q">e da sua alegria não participará o estranho.</para>
+  <para style="q">
+    <verse number="11" style="v"/>A casa dos perversos será destruída,</para>
+  <para style="q">mas a tenda dos retos florescerá.</para>
+  <para style="q">
+    <verse number="12" style="v"/>Há caminho<note caller="a" style="x"><char style="xo" closed="false">14.12 </char><char style="xt" closed="false"><ref loc="PRO 16:25">Pv 16.25</ref></char></note> que ao homem parece direito,</para>
+  <para style="q">mas ao cabo dá em caminhos de morte.</para>
+  <para style="q">
+    <verse number="13" style="v"/>Até no riso tem dor o coração,</para>
+  <para style="q">e o fim da alegria é tristeza.</para>
+  <para style="q">
+    <verse number="14" style="v"/>O infiel de coração dos seus próprios caminhos se farta,</para>
+  <para style="q">como do seu próprio proceder, o homem de bem.</para>
+  <para style="q">
+    <verse number="15" style="v"/>O simples dá crédito a toda palavra,</para>
+  <para style="q">mas o prudente atenta para os seus passos.</para>
+  <para style="q">
+    <verse number="16" style="v"/>O sábio é cauteloso e desvia-se do mal,</para>
+  <para style="q">mas o insensato encoleriza-se e dá-se por seguro.</para>
+  <para style="q">
+    <verse number="17" style="v"/>O que presto se ira faz loucuras,</para>
+  <para style="q">e o homem de maus desígnios é odiado.</para>
+  <para style="q">
+    <verse number="18" style="v"/>Os simples herdam a estultícia,</para>
+  <para style="q">mas os prudentes se coroam de conhecimento.</para>
+  <para style="q">
+    <verse number="19" style="v"/>Os maus inclinam-se perante a face dos bons,</para>
+  <para style="q">e os perversos, junto às portas do justo.</para>
+  <para style="q">
+    <verse number="20" style="v"/>O pobre é odiado até do vizinho,</para>
+  <para style="q">mas o rico tem muitos amigos.</para>
+  <para style="q">
+    <verse number="21" style="v"/>O que despreza ao seu vizinho peca,</para>
+  <para style="q">mas o que se compadece dos pobres é feliz.</para>
+  <para style="q">
+    <verse number="22" style="v"/>Acaso, não erram os que maquinam o mal?</para>
+  <para style="q">Mas amor e fidelidade haverá para os que planejam o bem.</para>
+  <para style="q">
+    <verse number="23" style="v"/>Em todo trabalho há proveito;</para>
+  <para style="q">meras palavras, porém, levam à penúria.</para>
+  <para style="q">
+    <verse number="24" style="v"/>Aos sábios a riqueza é coroa,</para>
+  <para style="q">mas a estultícia dos insensatos não passa de estultícia.</para>
+  <para style="q">
+    <verse number="25" style="v"/>A testemunha verdadeira livra almas,</para>
+  <para style="q">mas o que se desboca em mentiras é enganador.</para>
+  <para style="q">
+    <verse number="26" style="v"/>No temor do <char style="nd">Senhor</char>, tem o homem forte amparo,</para>
+  <para style="q">e isso é refúgio para os seus filhos.</para>
+  <para style="q">
+    <verse number="27" style="v"/>O temor do <char style="nd">Senhor</char> é fonte de vida</para>
+  <para style="q">para evitar os laços da morte.</para>
+  <para style="q">
+    <verse number="28" style="v"/>Na multidão do povo, está a glória do rei,</para>
+  <para style="q">mas, na falta de povo, a ruína do príncipe.</para>
+  <para style="q">
+    <verse number="29" style="v"/>O longânimo é grande em entendimento,</para>
+  <para style="q">mas o de ânimo precipitado exalta a loucura.</para>
+  <para style="q">
+    <verse number="30" style="v"/>O ânimo sereno é a vida do corpo,</para>
+  <para style="q">mas a inveja é a podridão dos ossos.</para>
+  <para style="q">
+    <verse number="31" style="v"/>O que oprime ao pobre insulta aquele que o criou,</para>
+  <para style="q">mas a este honra o que se compadece do necessitado.</para>
+  <para style="q">
+    <verse number="32" style="v"/>Pela sua malícia é derribado o perverso,</para>
+  <para style="q">mas o justo, ainda morrendo, tem esperança.</para>
+  <para style="q">
+    <verse number="33" style="v"/>No coração do prudente, repousa a sabedoria,</para>
+  <para style="q">mas o que há no interior dos insensatos vem a lume.</para>
+  <para style="q">
+    <verse number="34" style="v"/>A justiça exalta as nações,</para>
+  <para style="q">mas o pecado é o opróbrio dos povos.</para>
+  <para style="q">
+    <verse number="35" style="v"/>O servo prudente goza do favor do rei,</para>
+  <para style="q">mas o que procede indignamente é objeto do seu furor.</para>
+  <chapter number="15" style="c"/>
+  <para style="q">
+    <verse number="1" style="v"/>A resposta branda desvia o furor,</para>
+  <para style="q">mas a palavra dura suscita a ira.</para>
+  <para style="q">
+    <verse number="2" style="v"/>A língua dos sábios adorna o conhecimento,</para>
+  <para style="q">mas a boca dos insensatos derrama a estultícia.</para>
+  <para style="q">
+    <verse number="3" style="v"/>Os olhos do <char style="nd">Senhor</char> estão em todo lugar,</para>
+  <para style="q">contemplando os maus e os bons.</para>
+  <para style="q">
+    <verse number="4" style="v"/>A língua serena é árvore de vida,</para>
+  <para style="q">mas a perversa quebranta o espírito.</para>
+  <para style="q">
+    <verse number="5" style="v"/>O insensato despreza a instrução de seu pai,</para>
+  <para style="q">mas o que atende à repreensão consegue a prudência.</para>
+  <para style="q">
+    <verse number="6" style="v"/>Na casa do justo há grande tesouro,</para>
+  <para style="q">mas na renda dos perversos há perturbação.</para>
+  <para style="q">
+    <verse number="7" style="v"/>A língua dos sábios derrama o conhecimento,</para>
+  <para style="q">mas o coração dos insensatos não procede assim.</para>
+  <para style="q">
+    <verse number="8" style="v"/>O sacrifício dos perversos é abominável ao <char style="nd">Senhor</char>,</para>
+  <para style="q">mas a oração dos retos é o seu contentamento.</para>
+  <para style="q">
+    <verse number="9" style="v"/>O caminho do perverso é abominação ao <char style="nd">Senhor</char>,</para>
+  <para style="q">mas este ama o que segue a justiça.</para>
+  <para style="q">
+    <verse number="10" style="v"/>Disciplina rigorosa há para o que deixa a vereda,</para>
+  <para style="q">e o que odeia a repreensão morrerá.</para>
+  <para style="q">
+    <verse number="11" style="v"/>O além e o abismo estão descobertos perante o <char style="nd">Senhor</char>;</para>
+  <para style="q">quanto mais o coração dos filhos dos homens!</para>
+  <para style="q">
+    <verse number="12" style="v"/>O escarnecedor não ama àquele que o repreende,</para>
+  <para style="q">nem se chegará para os sábios.</para>
+  <para style="q">
+    <verse number="13" style="v"/>O coração alegre aformoseia o rosto,</para>
+  <para style="q">mas com a tristeza do coração o espírito se abate.</para>
+  <para style="q">
+    <verse number="14" style="v"/>O coração sábio procura o conhecimento,</para>
+  <para style="q">mas a boca dos insensatos se apascenta de estultícia.</para>
+  <para style="q">
+    <verse number="15" style="v"/>Todos os dias do aflito são maus,</para>
+  <para style="q">mas a alegria do coração é banquete contínuo.</para>
+  <para style="q">
+    <verse number="16" style="v"/>Melhor é o pouco, havendo o temor do <char style="nd">Senhor</char>,</para>
+  <para style="q">do que grande tesouro onde há inquietação.</para>
+  <para style="q">
+    <verse number="17" style="v"/>Melhor é um prato de hortaliças onde há amor</para>
+  <para style="q">do que o boi cevado e, com ele, o ódio.</para>
+  <para style="q">
+    <verse number="18" style="v"/>O homem iracundo suscita contendas,</para>
+  <para style="q">mas o longânimo apazigua a luta.</para>
+  <para style="q">
+    <verse number="19" style="v"/>O caminho do preguiçoso é como que cercado de espinhos,</para>
+  <para style="q">mas a vereda dos retos é plana.</para>
+  <para style="q">
+    <verse number="20" style="v"/>O filho sábio alegra a seu pai,</para>
+  <para style="q">mas o homem insensato despreza a sua mãe.</para>
+  <para style="q">
+    <verse number="21" style="v"/>A estultícia é alegria para o que carece de entendimento,</para>
+  <para style="q">mas o homem sábio anda retamente.</para>
+  <para style="q">
+    <verse number="22" style="v"/>Onde não há conselho fracassam os projetos,</para>
+  <para style="q">mas com os muitos conselheiros há bom êxito.</para>
+  <para style="q">
+    <verse number="23" style="v"/>O homem se alegra em dar resposta adequada,</para>
+  <para style="q">e a palavra, a seu tempo, quão boa é!</para>
+  <para style="q">
+    <verse number="24" style="v"/>Para o sábio há o caminho da vida que o leva para cima,</para>
+  <para style="q">a fim de evitar o inferno, embaixo.</para>
+  <para style="q">
+    <verse number="25" style="v"/>O <char style="nd">Senhor</char> deita por terra a casa dos soberbos;</para>
+  <para style="q">contudo, mantém a herança da viúva.</para>
+  <para style="q">
+    <verse number="26" style="v"/>Abomináveis são para o <char style="nd">Senhor</char> os desígnios do mau,</para>
+  <para style="q">mas as palavras bondosas lhe são aprazíveis.</para>
+  <para style="q">
+    <verse number="27" style="v"/>O que é ávido por lucro desonesto transtorna a sua casa,</para>
+  <para style="q">mas o que odeia o suborno, esse viverá.</para>
+  <para style="q">
+    <verse number="28" style="v"/>O coração do justo medita o que há de responder,</para>
+  <para style="q">mas a boca dos perversos transborda maldades.</para>
+  <para style="q">
+    <verse number="29" style="v"/>O <char style="nd">Senhor</char> está longe dos perversos,</para>
+  <para style="q">mas atende à oração dos justos.</para>
+  <para style="q">
+    <verse number="30" style="v"/>O olhar de amigo alegra ao coração;</para>
+  <para style="q">as boas-novas fortalecem até os ossos.</para>
+  <para style="q">
+    <verse number="31" style="v"/>Os ouvidos que atendem à repreensão salutar</para>
+  <para style="q">no meio dos sábios têm a sua morada.</para>
+  <para style="q">
+    <verse number="32" style="v"/>O que rejeita a disciplina menospreza a sua alma,</para>
+  <para style="q">porém o que atende à repreensão adquire entendimento.</para>
+  <para style="q">
+    <verse number="33" style="v"/>O temor do <char style="nd">Senhor</char> é a instrução da sabedoria,</para>
+  <para style="q">e a humildade precede a honra.</para>
+  <chapter number="16" style="c"/>
+  <para style="q">
+    <verse number="1" style="v"/>O coração do homem pode fazer planos,</para>
+  <para style="q">mas a resposta certa dos lábios vem do <char style="nd">Senhor</char>.</para>
+  <para style="q">
+    <verse number="2" style="v"/>Todos os caminhos do homem são puros aos seus olhos,</para>
+  <para style="q">mas o <char style="nd">Senhor</char> pesa o espírito.</para>
+  <para style="q">
+    <verse number="3" style="v"/>Confia ao <char style="nd">Senhor</char> as tuas obras,</para>
+  <para style="q">e os teus desígnios serão estabelecidos.</para>
+  <para style="q">
+    <verse number="4" style="v"/>O <char style="nd">Senhor</char> fez todas as coisas para determinados fins</para>
+  <para style="q">e até o perverso, para o dia da calamidade.</para>
+  <para style="q">
+    <verse number="5" style="v"/>Abominável é ao <char style="nd">Senhor</char> todo arrogante de coração;</para>
+  <para style="q">é evidente que não ficará impune.</para>
+  <para style="q">
+    <verse number="6" style="v"/>Pela misericórdia e pela verdade, se expia a culpa;</para>
+  <para style="q">e pelo temor do <char style="nd">Senhor</char> os homens evitam o mal.</para>
+  <para style="q">
+    <verse number="7" style="v"/>Sendo o caminho dos homens agradável ao <char style="nd">Senhor</char>,</para>
+  <para style="q">este reconcilia com eles os seus inimigos.</para>
+  <para style="q">
+    <verse number="8" style="v"/>Melhor é o pouco, havendo justiça,</para>
+  <para style="q">do que grandes rendimentos com injustiça.</para>
+  <para style="q">
+    <verse number="9" style="v"/>O coração do homem traça o seu caminho,</para>
+  <para style="q">mas o <char style="nd">Senhor</char> lhe dirige os passos.</para>
+  <para style="q">
+    <verse number="10" style="v"/>Nos lábios do rei se acham decisões autorizadas;</para>
+  <para style="q">no julgar não transgrida, pois, a sua boca.</para>
+  <para style="q">
+    <verse number="11" style="v"/>Peso e balança justos pertencem ao <char style="nd">Senhor</char>;</para>
+  <para style="q">obra sua são todos os pesos da bolsa.</para>
+  <para style="q">
+    <verse number="12" style="v"/>A prática da impiedade é abominável para os reis,</para>
+  <para style="q">porque com justiça se estabelece o trono.</para>
+  <para style="q">
+    <verse number="13" style="v"/>Os lábios justos são o contentamento do rei,</para>
+  <para style="q">e ele ama o que fala coisas retas.</para>
+  <para style="q">
+    <verse number="14" style="v"/>O furor do rei são uns mensageiros de morte,</para>
+  <para style="q">mas o homem sábio o apazigua.</para>
+  <para style="q">
+    <verse number="15" style="v"/>O semblante alegre do rei significa vida,</para>
+  <para style="q">e a sua benevolência é como a nuvem que traz chuva serôdia.</para>
+  <para style="q">
+    <verse number="16" style="v"/>Quanto melhor é adquirir a sabedoria do que o ouro!</para>
+  <para style="q">E mais excelente, adquirir a prudência do que a prata!</para>
+  <para style="q">
+    <verse number="17" style="v"/>O caminho dos retos é desviar-se do mal;</para>
+  <para style="q">o que guarda o seu caminho preserva a sua alma.</para>
+  <para style="q">
+    <verse number="18" style="v"/>A soberba precede a ruína,</para>
+  <para style="q">e a altivez do espírito, a queda.</para>
+  <para style="q">
+    <verse number="19" style="v"/>Melhor é ser humilde de espírito com os humildes</para>
+  <para style="q">do que repartir o despojo com os soberbos.</para>
+  <para style="q">
+    <verse number="20" style="v"/>O que atenta para o ensino acha o bem,</para>
+  <para style="q">e o que confia no <char style="nd">Senhor</char>, esse é feliz.</para>
+  <para style="q">
+    <verse number="21" style="v"/>O sábio de coração é chamado prudente,</para>
+  <para style="q">e a doçura no falar aumenta o saber.</para>
+  <para style="q">
+    <verse number="22" style="v"/>O entendimento, para aqueles que o possuem, é fonte de vida;</para>
+  <para style="q">mas, para o insensato, a sua estultícia lhe é castigo.</para>
+  <para style="q">
+    <verse number="23" style="v"/>O coração do sábio é mestre de sua boca</para>
+  <para style="q">e aumenta a persuasão nos seus lábios.</para>
+  <para style="q">
+    <verse number="24" style="v"/>Palavras agradáveis são como favo de mel:</para>
+  <para style="q">doces para a alma e medicina para o corpo.</para>
+  <para style="q">
+    <verse number="25" style="v"/>Há caminho<note caller="a" style="x"><char style="xo" closed="false">16.25 </char><char style="xt" closed="false"><ref loc="PRO 14:12">Pv 14.12</ref></char></note> que parece direito ao homem,</para>
+  <para style="q">mas afinal são caminhos de morte.</para>
+  <para style="q">
+    <verse number="26" style="v"/>A fome do trabalhador o faz trabalhar,</para>
+  <para style="q">porque a sua boca a isso o incita.</para>
+  <para style="q">
+    <verse number="27" style="v"/>O homem depravado cava o mal,</para>
+  <para style="q">e nos seus lábios há como que fogo ardente.</para>
+  <para style="q">
+    <verse number="28" style="v"/>O homem perverso espalha contendas,</para>
+  <para style="q">e o difamador separa os maiores amigos.</para>
+  <para style="q">
+    <verse number="29" style="v"/>O homem violento alicia o seu companheiro</para>
+  <para style="q">e guia-o por um caminho que não é bom.</para>
+  <para style="q">
+    <verse number="30" style="v"/>Quem fecha os olhos imagina o mal,</para>
+  <para style="q">e, quando morde os lábios, o executa.</para>
+  <para style="q">
+    <verse number="31" style="v"/>Coroa de honra são as cãs,</para>
+  <para style="q">quando se acham no caminho da justiça.</para>
+  <para style="q">
+    <verse number="32" style="v"/>Melhor é o longânimo do que o herói da guerra,</para>
+  <para style="q">e o que domina o seu espírito, do que o que toma uma cidade.</para>
+  <para style="q">
+    <verse number="33" style="v"/>A sorte se lança no regaço,</para>
+  <para style="q">mas do <char style="nd">Senhor</char> procede toda decisão.</para>
+  <chapter number="17" style="c"/>
+  <para style="q">
+    <verse number="1" style="v"/>Melhor é um bocado seco e tranquilidade</para>
+  <para style="q">do que a casa farta de carnes e contendas.</para>
+  <para style="q">
+    <verse number="2" style="v"/>O escravo prudente dominará sobre o filho que causa vergonha</para>
+  <para style="q">e, entre os irmãos, terá parte na herança.</para>
+  <para style="q">
+    <verse number="3" style="v"/>O crisol prova a prata, e o forno, o ouro;</para>
+  <para style="q">mas aos corações prova o <char style="nd">Senhor</char>.</para>
+  <para style="q">
+    <verse number="4" style="v"/>O malfazejo atenta para o lábio iníquo;</para>
+  <para style="q">o mentiroso inclina os ouvidos para a língua maligna.</para>
+  <para style="q">
+    <verse number="5" style="v"/>O que escarnece do pobre insulta ao que o criou;</para>
+  <para style="q">o que se alegra da calamidade não ficará impune.</para>
+  <para style="q">
+    <verse number="6" style="v"/>Coroa dos velhos são os filhos dos filhos;</para>
+  <para style="q">e a glória dos filhos são os pais.</para>
+  <para style="q">
+    <verse number="7" style="v"/>Ao insensato não convém a palavra excelente;</para>
+  <para style="q">quanto menos ao príncipe, o lábio mentiroso!</para>
+  <para style="q">
+    <verse number="8" style="v"/>Pedra mágica é o suborno aos olhos de quem o dá,</para>
+  <para style="q">e para onde quer que se volte terá seu proveito.</para>
+  <para style="q">
+    <verse number="9" style="v"/>O que encobre a transgressão adquire amor,</para>
+  <para style="q">mas o que traz o assunto à baila separa os maiores amigos.</para>
+  <para style="q">
+    <verse number="10" style="v"/>Mais fundo entra a repreensão no prudente</para>
+  <para style="q">do que cem açoites no insensato.</para>
+  <para style="q">
+    <verse number="11" style="v"/>O rebelde não busca senão o mal;</para>
+  <para style="q">por isso, mensageiro cruel se enviará contra ele.</para>
+  <para style="q">
+    <verse number="12" style="v"/>Melhor é encontrar-se uma ursa roubada dos filhos</para>
+  <para style="q">do que o insensato na sua estultícia.</para>
+  <para style="q">
+    <verse number="13" style="v"/>Quanto àquele que paga o bem com o mal,</para>
+  <para style="q">não se apartará o mal da sua casa.</para>
+  <para style="q">
+    <verse number="14" style="v"/>Como o abrir-se da represa, assim é o começo da contenda;</para>
+  <para style="q">desiste, pois, antes que haja rixas.</para>
+  <para style="q">
+    <verse number="15" style="v"/>O que justifica o perverso e o que condena o justo</para>
+  <para style="q">abomináveis são para o <char style="nd">Senhor</char>, tanto um como o outro.</para>
+  <para style="q">
+    <verse number="16" style="v"/>De que serviria o dinheiro na mão do insensato para comprar a sabedoria,</para>
+  <para style="q">visto que não tem entendimento?</para>
+  <para style="q">
+    <verse number="17" style="v"/>Em todo tempo ama o amigo,</para>
+  <para style="q">e na angústia se faz o irmão.</para>
+  <para style="q">
+    <verse number="18" style="v"/>O homem falto de entendimento compromete-se,</para>
+  <para style="q">ficando por fiador do seu próximo.</para>
+  <para style="q">
+    <verse number="19" style="v"/>O que ama a contenda ama o pecado;</para>
+  <para style="q">o que faz alta a sua porta facilita a própria queda.</para>
+  <para style="q">
+    <verse number="20" style="v"/>O perverso de coração jamais achará o bem;</para>
+  <para style="q">e o que tem a língua dobre vem a cair no mal.</para>
+  <para style="q">
+    <verse number="21" style="v"/>O filho estulto é tristeza para o pai,</para>
+  <para style="q">e o pai do insensato não se alegra.</para>
+  <para style="q">
+    <verse number="22" style="v"/>O coração alegre é bom remédio,</para>
+  <para style="q">mas o espírito abatido faz secar os ossos.</para>
+  <para style="q">
+    <verse number="23" style="v"/>O perverso aceita suborno secretamente,</para>
+  <para style="q">para perverter as veredas da justiça.</para>
+  <para style="q">
+    <verse number="24" style="v"/>A sabedoria é o alvo do inteligente,</para>
+  <para style="q">mas os olhos do insensato vagam pelas extremidades da terra.</para>
+  <para style="q">
+    <verse number="25" style="v"/>O filho insensato é tristeza para o pai</para>
+  <para style="q">e amargura para quem o deu à luz.</para>
+  <para style="q">
+    <verse number="26" style="v"/>Não é bom punir ao justo;</para>
+  <para style="q">é contra todo direito ferir ao príncipe.</para>
+  <para style="q">
+    <verse number="27" style="v"/>Quem retém as palavras possui o conhecimento,</para>
+  <para style="q">e o sereno de espírito é homem de inteligência.</para>
+  <para style="q">
+    <verse number="28" style="v"/>Até o estulto, quando se cala, é tido por sábio,</para>
+  <para style="q">e o que cerra os lábios, por sábio.</para>
+  <chapter number="18" style="c"/>
+  <para style="q">
+    <verse number="1" style="v"/>O solitário busca o seu próprio interesse</para>
+  <para style="q">e insurge-se contra a verdadeira sabedoria.</para>
+  <para style="q">
+    <verse number="2" style="v"/>O insensato não tem prazer no entendimento,</para>
+  <para style="q">senão em externar o seu interior.</para>
+  <para style="q">
+    <verse number="3" style="v"/>Vindo a perversidade, vem também o desprezo;</para>
+  <para style="q">e, com a ignomínia, a vergonha.</para>
+  <para style="q">
+    <verse number="4" style="v"/>Águas profundas são as palavras da boca do homem,</para>
+  <para style="q">e a fonte da sabedoria, ribeiros transbordantes.</para>
+  <para style="q">
+    <verse number="5" style="v"/>Não é bom ser parcial com o perverso,</para>
+  <para style="q">para torcer o direito contra os justos.</para>
+  <para style="q">
+    <verse number="6" style="v"/>Os lábios do insensato entram na contenda,</para>
+  <para style="q">e por açoites brada a sua boca.</para>
+  <para style="q">
+    <verse number="7" style="v"/>A boca do insensato é a sua própria destruição,</para>
+  <para style="q">e os seus lábios, um laço para a sua alma.</para>
+  <para style="q">
+    <verse number="8" style="v"/>As palavras do maldizente são doces bocados</para>
+  <para style="q">que descem para o mais interior do ventre.</para>
+  <para style="q">
+    <verse number="9" style="v"/>Quem é negligente na sua obra</para>
+  <para style="q">já é irmão do desperdiçador.</para>
+  <para style="q">
+    <verse number="10" style="v"/>Torre forte é o nome do <char style="nd">Senhor</char>,</para>
+  <para style="q">à qual o justo se acolhe e está seguro.</para>
+  <para style="q">
+    <verse number="11" style="v"/>Os bens do rico lhe são cidade forte</para>
+  <para style="q">e, segundo imagina, uma alta muralha.</para>
+  <para style="q">
+    <verse number="12" style="v"/>Antes da ruína, gaba-se o coração do homem,</para>
+  <para style="q">e diante da honra vai a humildade.</para>
+  <para style="q">
+    <verse number="13" style="v"/>Responder antes de ouvir</para>
+  <para style="q">é estultícia e vergonha.</para>
+  <para style="q">
+    <verse number="14" style="v"/>O espírito firme sustém o homem na sua doença,</para>
+  <para style="q">mas o espírito abatido, quem o pode suportar?</para>
+  <para style="q">
+    <verse number="15" style="v"/>O coração do sábio adquire o conhecimento,</para>
+  <para style="q">e o ouvido dos sábios procura o saber.</para>
+  <para style="q">
+    <verse number="16" style="v"/>O presente que o homem faz alarga-lhe o caminho</para>
+  <para style="q">e leva-o perante os grandes.</para>
+  <para style="q">
+    <verse number="17" style="v"/>O que começa o pleito parece justo,</para>
+  <para style="q">até que vem o outro e o examina.</para>
+  <para style="q">
+    <verse number="18" style="v"/>Pelo lançar da sorte, cessam os pleitos,</para>
+  <para style="q">e se decide a causa entre os poderosos.</para>
+  <para style="q">
+    <verse number="19" style="v"/>O irmão ofendido resiste mais que uma fortaleza;</para>
+  <para style="q">suas contendas são ferrolhos de um castelo.</para>
+  <para style="q">
+    <verse number="20" style="v"/>Do fruto da boca o coração se farta,</para>
+  <para style="q">do que produzem os lábios se satisfaz.</para>
+  <para style="q">
+    <verse number="21" style="v"/>A morte e a vida estão no poder da língua;</para>
+  <para style="q">o que bem a utiliza come do seu fruto.</para>
+  <para style="q">
+    <verse number="22" style="v"/>O que acha uma esposa acha o bem</para>
+  <para style="q">e alcançou a benevolência do <char style="nd">Senhor</char>.</para>
+  <para style="q">
+    <verse number="23" style="v"/>O pobre fala com súplicas,</para>
+  <para style="q">porém o rico responde com durezas.</para>
+  <para style="q">
+    <verse number="24" style="v"/>O homem que tem muitos amigos sai perdendo;</para>
+  <para style="q">mas há amigo mais chegado do que um irmão.</para>
+  <chapter number="19" style="c"/>
+  <para style="q">
+    <verse number="1" style="v"/>Melhor é o pobre que anda na sua integridade</para>
+  <para style="q">do que o perverso de lábios e tolo.</para>
+  <para style="q">
+    <verse number="2" style="v"/>Não é bom proceder sem refletir,</para>
+  <para style="q">e peca quem é precipitado.</para>
+  <para style="q">
+    <verse number="3" style="v"/>A estultícia do homem perverte o seu caminho,</para>
+  <para style="q">mas é contra o <char style="nd">Senhor</char> que o seu coração se ira.</para>
+  <para style="q">
+    <verse number="4" style="v"/>As riquezas multiplicam os amigos;</para>
+  <para style="q">mas, ao pobre, o seu próprio amigo o deixa.</para>
+  <para style="q">
+    <verse number="5" style="v"/>A falsa testemunha não fica impune,</para>
+  <para style="q">e o que profere mentiras não escapa.</para>
+  <para style="q">
+    <verse number="6" style="v"/>Ao generoso, muitos o adulam,</para>
+  <para style="q">e todos são amigos do que dá presentes.</para>
+  <para style="q">
+    <verse number="7" style="v"/>Se os irmãos do pobre o aborrecem,</para>
+  <para style="q">quanto mais se afastarão dele os seus amigos!</para>
+  <para style="q">Corre após eles com súplicas, mas não os alcança.</para>
+  <para style="q">
+    <verse number="8" style="v"/>O que adquire entendimento ama a sua alma;</para>
+  <para style="q">o que conserva a inteligência acha o bem.</para>
+  <para style="q">
+    <verse number="9" style="v"/>A falsa testemunha não fica impune,</para>
+  <para style="q">e o que profere mentiras perece.</para>
+  <para style="q">
+    <verse number="10" style="v"/>Ao insensato não convém a vida regalada,</para>
+  <para style="q">quanto menos ao escravo dominar os príncipes!</para>
+  <para style="q">
+    <verse number="11" style="v"/>A discrição do homem o torna longânimo,</para>
+  <para style="q">e sua glória é perdoar as injúrias.</para>
+  <para style="q">
+    <verse number="12" style="v"/>Como o bramido do leão, assim é a indignação do rei;</para>
+  <para style="q">mas seu favor é como o orvalho sobre a erva.</para>
+  <para style="q">
+    <verse number="13" style="v"/>O filho insensato é a desgraça do pai,</para>
+  <para style="q">e um gotejar contínuo, as contenções da esposa.</para>
+  <para style="q">
+    <verse number="14" style="v"/>A casa e os bens vêm como herança dos pais;</para>
+  <para style="q">mas do <char style="nd">Senhor</char>, a esposa prudente.</para>
+  <para style="q">
+    <verse number="15" style="v"/>A preguiça faz cair em profundo sono,</para>
+  <para style="q">e o ocioso vem a padecer fome.</para>
+  <para style="q">
+    <verse number="16" style="v"/>O que guarda o mandamento guarda a sua alma;</para>
+  <para style="q">mas o que despreza os seus caminhos, esse morre.</para>
+  <para style="q">
+    <verse number="17" style="v"/>Quem se compadece do pobre ao <char style="nd">Senhor</char> empresta,</para>
+  <para style="q">e este lhe paga o seu benefício.</para>
+  <para style="q">
+    <verse number="18" style="v"/>Castiga a teu filho, enquanto há esperança,</para>
+  <para style="q">mas não te excedas a ponto de matá-lo.</para>
+  <para style="q">
+    <verse number="19" style="v"/>Homem de grande ira tem de sofrer o dano;</para>
+  <para style="q">porque, se tu o livrares, virás ainda a fazê-lo de novo.</para>
+  <para style="q">
+    <verse number="20" style="v"/>Ouve o conselho e recebe a instrução,</para>
+  <para style="q">para que sejas sábio nos teus dias por vir.</para>
+  <para style="q">
+    <verse number="21" style="v"/>Muitos propósitos há no coração do homem,</para>
+  <para style="q">mas o desígnio do <char style="nd">Senhor</char> permanecerá.</para>
+  <para style="q">
+    <verse number="22" style="v"/>O que torna agradável o homem é a sua misericórdia;</para>
+  <para style="q">o pobre é preferível ao mentiroso.</para>
+  <para style="q">
+    <verse number="23" style="v"/>O temor do <char style="nd">Senhor</char> conduz à vida;</para>
+  <para style="q">aquele que o tem ficará satisfeito, e mal nenhum o visitará.</para>
+  <para style="q">
+    <verse number="24" style="v"/>O preguiçoso mete a mão no prato</para>
+  <para style="q">e não quer ter o trabalho de a levar à boca.</para>
+  <para style="q">
+    <verse number="25" style="v"/>Quando ferires ao escarnecedor, o simples aprenderá a prudência;</para>
+  <para style="q">repreende ao sábio, e crescerá em conhecimento.</para>
+  <para style="q">
+    <verse number="26" style="v"/>O que maltrata a seu pai ou manda embora a sua mãe</para>
+  <para style="q">filho é que envergonha e desonra.</para>
+  <para style="q">
+    <verse number="27" style="v"/>Filho meu, se deixas de ouvir a instrução,</para>
+  <para style="q">desviar-te-ás das palavras do conhecimento.</para>
+  <para style="q">
+    <verse number="28" style="v"/>A testemunha de Belial escarnece da justiça,</para>
+  <para style="q">e a boca dos perversos devora a iniquidade.</para>
+  <para style="q">
+    <verse number="29" style="v"/>Preparados estão os juízos para os escarnecedores</para>
+  <para style="q">e os açoites, para as costas dos insensatos.</para>
+  <chapter number="20" style="c"/>
+  <para style="q">
+    <verse number="1" style="v"/>O vinho é escarnecedor, e a bebida forte, alvoroçadora;</para>
+  <para style="q">todo aquele que por eles é vencido não é sábio.</para>
+  <para style="q">
+    <verse number="2" style="v"/>Como o bramido do leão, é o terror do rei;</para>
+  <para style="q">o que lhe provoca a ira peca contra a sua própria vida.</para>
+  <para style="q">
+    <verse number="3" style="v"/>Honroso é para o homem o desviar-se de contendas,</para>
+  <para style="q">mas todo insensato se mete em rixas.</para>
+  <para style="q">
+    <verse number="4" style="v"/>O preguiçoso não lavra por causa do inverno,</para>
+  <para style="q">pelo que, na sega, procura e nada encontra.</para>
+  <para style="q">
+    <verse number="5" style="v"/>Como águas profundas, são os propósitos do coração do homem,</para>
+  <para style="q">mas o homem de inteligência sabe descobri-los.</para>
+  <para style="q">
+    <verse number="6" style="v"/>Muitos proclamam a sua própria benignidade;</para>
+  <para style="q">mas o homem fidedigno, quem o achará?</para>
+  <para style="q">
+    <verse number="7" style="v"/>O justo anda na sua integridade;</para>
+  <para style="q">felizes lhe são os filhos depois dele.</para>
+  <para style="q">
+    <verse number="8" style="v"/>Assentando-se o rei no trono do juízo,</para>
+  <para style="q">com os seus olhos dissipa todo mal.</para>
+  <para style="q">
+    <verse number="9" style="v"/>Quem pode dizer: Purifiquei o meu coração,</para>
+  <para style="q">limpo estou do meu pecado?</para>
+  <para style="q">
+    <verse number="10" style="v"/>Dois pesos e duas medidas,</para>
+  <para style="q">uns e outras são abomináveis ao <char style="nd">Senhor</char>.</para>
+  <para style="q">
+    <verse number="11" style="v"/>Até a criança se dá a conhecer pelas suas ações,</para>
+  <para style="q">se o que faz é puro e reto.</para>
+  <para style="q">
+    <verse number="12" style="v"/>O ouvido que ouve e o olho que vê,</para>
+  <para style="q">o <char style="nd">Senhor</char> os fez, tanto um como o outro.</para>
+  <para style="q">
+    <verse number="13" style="v"/>Não ames o sono, para que não empobreças;</para>
+  <para style="q">abre os olhos e te fartarás do teu próprio pão.</para>
+  <para style="q">
+    <verse number="14" style="v"/>Nada vale, nada vale, diz o comprador,</para>
+  <para style="q">mas, indo-se, então, se gaba.</para>
+  <para style="q">
+    <verse number="15" style="v"/>Há ouro e abundância de pérolas,</para>
+  <para style="q">mas os lábios instruídos são joia preciosa.</para>
+  <para style="q">
+    <verse number="16" style="v"/>Tome-se a roupa àquele que fica fiador por outrem;</para>
+  <para style="q">e, por penhor, àquele que se obriga por estrangeiros.</para>
+  <para style="q">
+    <verse number="17" style="v"/>Suave é ao homem o pão ganho por fraude,</para>
+  <para style="q">mas, depois, a sua boca se encherá de pedrinhas de areia.</para>
+  <para style="q">
+    <verse number="18" style="v"/>Os planos mediante os conselhos têm bom êxito;</para>
+  <para style="q">faze a guerra com prudência.</para>
+  <para style="q">
+    <verse number="19" style="v"/>O mexeriqueiro revela o segredo;</para>
+  <para style="q">portanto, não te metas com quem muito abre os lábios.</para>
+  <para style="q">
+    <verse number="20" style="v"/>A quem amaldiçoa a seu pai ou a sua mãe,</para>
+  <para style="q">apagar-se-lhe-á a lâmpada nas mais densas trevas.</para>
+  <para style="q">
+    <verse number="21" style="v"/>A posse antecipada de uma herança</para>
+  <para style="q">no fim não será abençoada.</para>
+  <para style="q">
+    <verse number="22" style="v"/>Não digas: Vingar-me-ei do mal;</para>
+  <para style="q">espera pelo <char style="nd">Senhor</char>, e ele te livrará.</para>
+  <para style="q">
+    <verse number="23" style="v"/>Dois pesos são coisa abominável ao <char style="nd">Senhor</char>,</para>
+  <para style="q">e balança enganosa não é boa.</para>
+  <para style="q">
+    <verse number="24" style="v"/>Os passos do homem são dirigidos pelo <char style="nd">Senhor</char>;</para>
+  <para style="q">como, pois, poderá o homem entender o seu caminho?</para>
+  <para style="q">
+    <verse number="25" style="v"/>Laço é para o homem o dizer precipitadamente: É santo!</para>
+  <para style="q">E só refletir depois de fazer o voto.</para>
+  <para style="q">
+    <verse number="26" style="v"/>O rei sábio joeira os perversos</para>
+  <para style="q">e faz passar sobre eles a roda.</para>
+  <para style="q">
+    <verse number="27" style="v"/>O espírito do homem é a lâmpada do <char style="nd">Senhor</char>,</para>
+  <para style="q">a qual esquadrinha todo o mais íntimo do corpo.</para>
+  <para style="q">
+    <verse number="28" style="v"/>Amor e fidelidade preservam o rei,</para>
+  <para style="q">e com benignidade sustém ele o seu trono.</para>
+  <para style="q">
+    <verse number="29" style="v"/>O ornato dos jovens é a sua força,</para>
+  <para style="q">e a beleza dos velhos, as suas cãs.</para>
+  <para style="q">
+    <verse number="30" style="v"/>Os vergões das feridas purificam do mal,</para>
+  <para style="q">e os açoites, o mais íntimo do corpo.</para>
+  <chapter number="21" style="c"/>
+  <para style="q">
+    <verse number="1" style="v"/>Como ribeiros de águas assim é o coração do rei na mão do <char style="nd">Senhor</char>;</para>
+  <para style="q">este, segundo o seu querer, o inclina.</para>
+  <para style="q">
+    <verse number="2" style="v"/>Todo caminho do homem é reto aos seus próprios olhos,</para>
+  <para style="q">mas o <char style="nd">Senhor</char> sonda os corações.</para>
+  <para style="q">
+    <verse number="3" style="v"/>Exercitar justiça e juízo</para>
+  <para style="q">é mais aceitável ao <char style="nd">Senhor</char> do que sacrifício.</para>
+  <para style="q">
+    <verse number="4" style="v"/>Olhar altivo e coração orgulhoso,</para>
+  <para style="q">a lâmpada dos perversos, são pecado.</para>
+  <para style="q">
+    <verse number="5" style="v"/>Os planos do diligente tendem à abundância,</para>
+  <para style="q">mas a pressa excessiva, à pobreza.</para>
+  <para style="q">
+    <verse number="6" style="v"/>Trabalhar por adquirir tesouro com língua falsa</para>
+  <para style="q">é vaidade e laço mortal.</para>
+  <para style="q">
+    <verse number="7" style="v"/>A violência dos perversos os arrebata,</para>
+  <para style="q">porque recusam praticar a justiça.</para>
+  <para style="q">
+    <verse number="8" style="v"/>Tortuoso é o caminho do homem carregado de culpa,</para>
+  <para style="q">mas reto, o proceder do honesto.</para>
+  <para style="q">
+    <verse number="9" style="v"/>Melhor é morar no canto do eirado</para>
+  <para style="q">do que junto com a mulher rixosa na mesma casa.</para>
+  <para style="q">
+    <verse number="10" style="v"/>A alma do perverso deseja o mal;</para>
+  <para style="q">nem o seu vizinho recebe dele compaixão.</para>
+  <para style="q">
+    <verse number="11" style="v"/>Quando o escarnecedor é castigado, o simples se torna sábio;</para>
+  <para style="q">e, quando o sábio é instruído, recebe o conhecimento.</para>
+  <para style="q">
+    <verse number="12" style="v"/>O Justo considera a casa dos perversos</para>
+  <para style="q">e os arrasta para o mal.</para>
+  <para style="q">
+    <verse number="13" style="v"/>O que tapa o ouvido ao clamor do pobre</para>
+  <para style="q">também clamará e não será ouvido.</para>
+  <para style="q">
+    <verse number="14" style="v"/>O presente que se dá em segredo abate a ira,</para>
+  <para style="q">e a dádiva em sigilo, uma forte indignação.</para>
+  <para style="q">
+    <verse number="15" style="v"/>Praticar a justiça é alegria para o justo,</para>
+  <para style="q">mas espanto, para os que praticam a iniquidade.</para>
+  <para style="q">
+    <verse number="16" style="v"/>O homem que se desvia do caminho do entendimento</para>
+  <para style="q">na congregação dos mortos repousará.</para>
+  <para style="q">
+    <verse number="17" style="v"/>Quem ama os prazeres empobrecerá,</para>
+  <para style="q">quem ama o vinho e o azeite jamais enriquecerá.</para>
+  <para style="q">
+    <verse number="18" style="v"/>O perverso serve de resgate para o justo;</para>
+  <para style="q">e, para os retos, o pérfido.</para>
+  <para style="q">
+    <verse number="19" style="v"/>Melhor é morar numa terra deserta</para>
+  <para style="q">do que com a mulher rixosa e iracunda.</para>
+  <para style="q">
+    <verse number="20" style="v"/>Tesouro desejável e azeite há na casa do sábio,</para>
+  <para style="q">mas o homem insensato os desperdiça.</para>
+  <para style="q">
+    <verse number="21" style="v"/>O que segue a justiça e a bondade</para>
+  <para style="q">achará a vida, a justiça e a honra.</para>
+  <para style="q">
+    <verse number="22" style="v"/>O sábio escala a cidade dos valentes</para>
+  <para style="q">e derriba a fortaleza em que ela confia.</para>
+  <para style="q">
+    <verse number="23" style="v"/>O que guarda a boca e a língua</para>
+  <para style="q">guarda a sua alma das angústias.</para>
+  <para style="q">
+    <verse number="24" style="v"/>Quanto ao soberbo e presumido, zombador é seu nome;</para>
+  <para style="q">procede com indignação e arrogância.</para>
+  <para style="q">
+    <verse number="25" style="v"/>O preguiçoso morre desejando,</para>
+  <para style="q">porque as suas mãos recusam trabalhar.</para>
+  <para style="q">
+    <verse number="26" style="v"/>O cobiçoso cobiça todo o dia,</para>
+  <para style="q">mas o justo dá e nada retém.</para>
+  <para style="q">
+    <verse number="27" style="v"/>O sacrifício dos perversos já é abominação;</para>
+  <para style="q">quanto mais oferecendo-o com intenção maligna!</para>
+  <para style="q">
+    <verse number="28" style="v"/>A testemunha falsa perecerá,</para>
+  <para style="q">mas a auricular falará sem ser contestada.</para>
+  <para style="q">
+    <verse number="29" style="v"/>O homem perverso mostra dureza no rosto,</para>
+  <para style="q">mas o reto considera o seu caminho.</para>
+  <para style="q">
+    <verse number="30" style="v"/>Não há sabedoria, nem inteligência,</para>
+  <para style="q">nem mesmo conselho contra o <char style="nd">Senhor</char>.</para>
+  <para style="q">
+    <verse number="31" style="v"/>O cavalo prepara-se para o dia da batalha,</para>
+  <para style="q">mas a vitória vem do <char style="nd">Senhor</char>.</para>
+  <chapter number="22" style="c"/>
+  <para style="q">
+    <verse number="1" style="v"/>Mais vale o bom nome do que as muitas riquezas;</para>
+  <para style="q">e o ser estimado é melhor do que a prata e o ouro.</para>
+  <para style="q">
+    <verse number="2" style="v"/>O rico e o pobre se encontram;</para>
+  <para style="q">a um e a outro faz o <char style="nd">Senhor</char>.</para>
+  <para style="q">
+    <verse number="3" style="v"/>O prudente vê o mal e esconde-se;</para>
+  <para style="q">mas os simples passam adiante e sofrem a pena.</para>
+  <para style="q">
+    <verse number="4" style="v"/>O galardão da humildade e o temor do <char style="nd">Senhor</char></para>
+  <para style="q">são riquezas, e honra, e vida.</para>
+  <para style="q">
+    <verse number="5" style="v"/>Espinhos e laços há no caminho do perverso;</para>
+  <para style="q">o que guarda a sua alma retira-se para longe deles.</para>
+  <para style="q">
+    <verse number="6" style="v"/>Ensina a criança no caminho em que deve andar,</para>
+  <para style="q">e, ainda quando for velho, não se desviará dele.</para>
+  <para style="q">
+    <verse number="7" style="v"/>O rico domina sobre o pobre,</para>
+  <para style="q">e o que toma emprestado é servo do que empresta.</para>
+  <para style="q">
+    <verse number="8" style="v"/>O que semeia a injustiça segará males;</para>
+  <para style="q">e a vara da sua indignação falhará.</para>
+  <para style="q">
+    <verse number="9" style="v"/>O generoso será abençoado,</para>
+  <para style="q">porque dá do seu pão ao pobre.</para>
+  <para style="q">
+    <verse number="10" style="v"/>Lança fora o escarnecedor, e com ele se irá a contenda;</para>
+  <para style="q">cessarão as demandas e a ignomínia.</para>
+  <para style="q">
+    <verse number="11" style="v"/>O que ama a pureza do coração e é grácil no falar</para>
+  <para style="q">terá por amigo o rei.</para>
+  <para style="q">
+    <verse number="12" style="v"/>Os olhos do <char style="nd">Senhor</char> conservam aquele que tem conhecimento,</para>
+  <para style="q">mas as palavras do iníquo ele transtornará.</para>
+  <para style="q">
+    <verse number="13" style="v"/>Diz o preguiçoso: Um leão está lá fora;</para>
+  <para style="q">serei morto no meio das ruas.</para>
+  <para style="q">
+    <verse number="14" style="v"/>Cova profunda é a boca da mulher estranha;</para>
+  <para style="q">aquele contra quem o <char style="nd">Senhor</char> se irar cairá nela.</para>
+  <para style="q">
+    <verse number="15" style="v"/>A estultícia está ligada ao coração da criança,</para>
+  <para style="q">mas a vara da disciplina a afastará dela.</para>
+  <para style="q">
+    <verse number="16" style="v"/>O que oprime ao pobre para enriquecer a si</para>
+  <para style="q">ou o que dá ao rico certamente empobrecerá.</para>
+  <para style="s">Preceitos e admoestações dos sábios</para>
+  <para style="q">
+    <verse number="17" style="v"/>Inclina o ouvido, e ouve as palavras dos sábios,</para>
+  <para style="q">e aplica o coração ao meu conhecimento.</para>
+  <para style="q">
+    <verse number="18" style="v"/>Porque é coisa agradável os guardares no teu coração</para>
+  <para style="q">e os aplicares todos aos teus lábios.</para>
+  <para style="q">
+    <verse number="19" style="v"/>Para que a tua confiança esteja no <char style="nd">Senhor</char>,</para>
+  <para style="q">quero dar-te hoje a instrução, a ti mesmo.</para>
+  <para style="q">
+    <verse number="20" style="v"/>Porventura, não te escrevi excelentes coisas</para>
+  <para style="q">acerca de conselhos e conhecimentos,</para>
+  <para style="q">
+    <verse number="21" style="v"/>para mostrar-te a certeza das palavras da verdade,</para>
+  <para style="q">a fim de que possas responder claramente aos que te enviarem?</para>
+  <para style="q">
+    <verse number="22" style="v"/>Não roubes ao pobre, porque é pobre,</para>
+  <para style="q">nem oprimas em juízo ao aflito,</para>
+  <para style="q">
+    <verse number="23" style="v"/>porque o <char style="nd">Senhor</char> defenderá a causa deles</para>
+  <para style="q">e tirará a vida aos que os despojam.</para>
+  <para style="q">
+    <verse number="24" style="v"/>Não te associes com o iracundo,</para>
+  <para style="q">nem andes com o homem colérico,</para>
+  <para style="q">
+    <verse number="25" style="v"/>para que não aprendas as suas veredas</para>
+  <para style="q">e, assim, enlaces a tua alma.</para>
+  <para style="q">
+    <verse number="26" style="v"/>Não estejas entre os que se comprometem</para>
+  <para style="q">e ficam por fiadores de dívidas,</para>
+  <para style="q">
+    <verse number="27" style="v"/>pois, se não tens com que pagar,</para>
+  <para style="q">por que arriscas perder a cama de debaixo de ti?</para>
+  <para style="q">
+    <verse number="28" style="v"/>Não removas os marcos antigos</para>
+  <para style="q">que puseram teus pais.</para>
+  <para style="q">
+    <verse number="29" style="v"/>Vês a um homem perito na sua obra?</para>
+  <para style="q">Perante reis será posto; não entre a plebe.</para>
+  <chapter number="23" style="c"/>
+  <para style="q">
+    <verse number="1" style="v"/>Quando te assentares a comer com um governador,</para>
+  <para style="q">atenta bem para aquele que está diante de ti;</para>
+  <para style="q">
+    <verse number="2" style="v"/>mete uma faca à tua garganta,</para>
+  <para style="q">se és homem glutão.</para>
+  <para style="q">
+    <verse number="3" style="v"/>Não cobices os seus delicados manjares,</para>
+  <para style="q">porque são comidas enganadoras.</para>
+  <para style="q">
+    <verse number="4" style="v"/>Não te fatigues para seres rico;</para>
+  <para style="q">não apliques nisso a tua inteligência.</para>
+  <para style="q">
+    <verse number="5" style="v"/>Porventura, fitarás os olhos naquilo que não é nada?</para>
+  <para style="q">Pois, certamente, a riqueza fará para si asas,</para>
+  <para style="q">como a águia que voa pelos céus.</para>
+  <para style="q">
+    <verse number="6" style="v"/>Não comas o pão do invejoso,</para>
+  <para style="q">nem cobices os seus delicados manjares.</para>
+  <para style="q">
+    <verse number="7" style="v"/>Porque, como imagina em sua alma, assim ele é;</para>
+  <para style="q">ele te diz: Come e bebe;</para>
+  <para style="q">mas o seu coração não está contigo.</para>
+  <para style="q">
+    <verse number="8" style="v"/>Vomitarás o bocado que comeste</para>
+  <para style="q">e perderás as tuas suaves palavras.</para>
+  <para style="q">
+    <verse number="9" style="v"/>Não fales aos ouvidos do insensato,</para>
+  <para style="q">porque desprezará a sabedoria das tuas palavras.</para>
+  <para style="q">
+    <verse number="10" style="v"/>Não removas os marcos antigos,</para>
+  <para style="q">nem entres nos campos dos órfãos,</para>
+  <para style="q">
+    <verse number="11" style="v"/>porque o seu Vingador é forte</para>
+  <para style="q">e lhes pleiteará a causa contra ti.</para>
+  <para style="q">
+    <verse number="12" style="v"/>Aplica o coração ao ensino</para>
+  <para style="q">e os ouvidos às palavras do conhecimento.</para>
+  <para style="q">
+    <verse number="13" style="v"/>Não retires da criança a disciplina,</para>
+  <para style="q">pois, se a fustigares com a vara, não morrerá.</para>
+  <para style="q">
+    <verse number="14" style="v"/>Tu a fustigarás com a vara</para>
+  <para style="q">e livrarás a sua alma do inferno.</para>
+  <para style="q">
+    <verse number="15" style="v"/>Filho meu, se o teu coração for sábio,</para>
+  <para style="q">alegrar-se-á também o meu;</para>
+  <para style="q">
+    <verse number="16" style="v"/>exultará o meu íntimo,</para>
+  <para style="q">quando os teus lábios falarem coisas retas.</para>
+  <para style="q">
+    <verse number="17" style="v"/>Não tenha o teu coração inveja dos pecadores;</para>
+  <para style="q">antes, no temor do <char style="nd">Senhor</char> perseverarás todo dia.</para>
+  <para style="q">
+    <verse number="18" style="v"/>Porque deveras haverá bom futuro;</para>
+  <para style="q">não será frustrada a tua esperança.</para>
+  <para style="q">
+    <verse number="19" style="v"/>Ouve, filho meu, e sê sábio;</para>
+  <para style="q">guia retamente no caminho o teu coração.</para>
+  <para style="q">
+    <verse number="20" style="v"/>Não estejas entre os bebedores de vinho</para>
+  <para style="q">nem entre os comilões de carne.</para>
+  <para style="q">
+    <verse number="21" style="v"/>Porque o beberrão e o comilão caem em pobreza;</para>
+  <para style="q">e a sonolência vestirá de trapos o homem.</para>
+  <para style="q">
+    <verse number="22" style="v"/>Ouve a teu pai, que te gerou,</para>
+  <para style="q">e não desprezes a tua mãe, quando vier a envelhecer.</para>
+  <para style="q">
+    <verse number="23" style="v"/>Compra a verdade e não a vendas;</para>
+  <para style="q">compra a sabedoria, a instrução e o entendimento.</para>
+  <para style="q">
+    <verse number="24" style="v"/>Grandemente se regozijará o pai do justo,</para>
+  <para style="q">e quem gerar a um sábio nele se alegrará.</para>
+  <para style="q">
+    <verse number="25" style="v"/>Alegrem-se teu pai e tua mãe,</para>
+  <para style="q">e regozije-se a que te deu à luz.</para>
+  <para style="q">
+    <verse number="26" style="v"/>Dá-me, filho meu, o teu coração,</para>
+  <para style="q">e os teus olhos se agradem dos meus caminhos.</para>
+  <para style="q">
+    <verse number="27" style="v"/>Pois cova profunda é a prostituta,</para>
+  <para style="q">poço estreito, a alheia.</para>
+  <para style="q">
+    <verse number="28" style="v"/>Ela, como salteador, se põe a espreitar</para>
+  <para style="q">e multiplica entre os homens os infiéis.</para>
+  <para style="q">
+    <verse number="29" style="v"/>Para quem são os ais? Para quem, os pesares?</para>
+  <para style="q">Para quem, as rixas? Para quem, as queixas?</para>
+  <para style="q">Para quem, as feridas sem causa?</para>
+  <para style="q">E para quem, os olhos vermelhos?</para>
+  <para style="q">
+    <verse number="30" style="v"/>Para os que se demoram em beber vinho,</para>
+  <para style="q">para os que andam buscando bebida misturada.</para>
+  <para style="q">
+    <verse number="31" style="v"/>Não olhes para o vinho, quando se mostra vermelho,</para>
+  <para style="q">quando resplandece no copo e se escoa suavemente.</para>
+  <para style="q">
+    <verse number="32" style="v"/>Pois ao cabo morderá como a cobra</para>
+  <para style="q">e picará como o basilisco.</para>
+  <para style="q">
+    <verse number="33" style="v"/>Os teus olhos verão coisas esquisitas,</para>
+  <para style="q">e o teu coração falará perversidades.</para>
+  <para style="q">
+    <verse number="34" style="v"/>Serás como o que se deita no meio do mar</para>
+  <para style="q">e como o que se deita no alto do mastro</para>
+  <para style="q">
+    <verse number="35" style="v"/>e dirás: Espancaram-me, e não me doeu;</para>
+  <para style="q">bateram-me, e não o senti;</para>
+  <para style="q">quando despertarei?</para>
+  <para style="q">Então, tornarei a beber.</para>
+  <chapter number="24" style="c"/>
+  <para style="q">
+    <verse number="1" style="v"/>Não tenhas inveja dos homens malignos,</para>
+  <para style="q">nem queiras estar com eles,</para>
+  <para style="q">
+    <verse number="2" style="v"/>porque o seu coração maquina violência,</para>
+  <para style="q">e os seus lábios falam para o mal.</para>
+  <para style="q">
+    <verse number="3" style="v"/>Com a sabedoria edifica-se a casa,</para>
+  <para style="q">e com a inteligência ela se firma;</para>
+  <para style="q">
+    <verse number="4" style="v"/>pelo conhecimento se encherão as câmaras</para>
+  <para style="q">de toda sorte de bens, preciosos e deleitáveis.</para>
+  <para style="q">
+    <verse number="5" style="v"/>Mais poder tem o sábio do que o forte,</para>
+  <para style="q">e o homem de conhecimento, mais do que o robusto.</para>
+  <para style="q">
+    <verse number="6" style="v"/>Com medidas de prudência farás a guerra;</para>
+  <para style="q">na multidão de conselheiros está a vitória.</para>
+  <para style="q">
+    <verse number="7" style="v"/>A sabedoria é alta demais para o insensato;</para>
+  <para style="q">no juízo, a sua boca não terá palavra.</para>
+  <para style="q">
+    <verse number="8" style="v"/>Ao que cuida em fazer o mal,</para>
+  <para style="q">mestre de intrigas lhe chamarão.</para>
+  <para style="q">
+    <verse number="9" style="v"/>Os desígnios do insensato são pecado,</para>
+  <para style="q">e o escarnecedor é abominável aos homens.</para>
+  <para style="q">
+    <verse number="10" style="v"/>Se te mostras fraco no dia da angústia,</para>
+  <para style="q">a tua força é pequena.</para>
+  <para style="q">
+    <verse number="11" style="v"/>Livra os que estão sendo levados para a morte</para>
+  <para style="q">e salva os que cambaleiam indo para serem mortos.</para>
+  <para style="q">
+    <verse number="12" style="v"/>Se disseres: Não o soubemos,</para>
+  <para style="q">não o perceberá aquele que pesa os corações?</para>
+  <para style="q">Não o saberá aquele que atenta para a tua alma?</para>
+  <para style="q">E não pagará ele ao homem segundo as suas obras?</para>
+  <para style="q">
+    <verse number="13" style="v"/>Filho meu, saboreia o mel, porque é saudável,</para>
+  <para style="q">e o favo, porque é doce ao teu paladar.</para>
+  <para style="q">
+    <verse number="14" style="v"/>Então, sabe que assim é a sabedoria para a tua alma;</para>
+  <para style="q">se a achares, haverá bom futuro,</para>
+  <para style="q">e não será frustrada a tua esperança.</para>
+  <para style="q">
+    <verse number="15" style="v"/>Não te ponhas de emboscada, ó perverso, contra a habitação do justo,</para>
+  <para style="q">nem assoles o lugar do seu repouso,</para>
+  <para style="q">
+    <verse number="16" style="v"/>porque sete vezes cairá o justo e se levantará;</para>
+  <para style="q">mas os perversos são derribados pela calamidade.</para>
+  <para style="q">
+    <verse number="17" style="v"/>Quando cair o teu inimigo, não te alegres,</para>
+  <para style="q">e não se regozije o teu coração quando ele tropeçar;</para>
+  <para style="q">
+    <verse number="18" style="v"/>para que o <char style="nd">Senhor</char> não veja isso,</para>
+  <para style="q">e lhe desagrade, e desvie dele a sua ira.</para>
+  <para style="q">
+    <verse number="19" style="v"/>Não te aflijas por causa dos malfeitores,</para>
+  <para style="q">nem tenhas inveja dos perversos,</para>
+  <para style="q">
+    <verse number="20" style="v"/>porque o maligno não terá bom futuro,</para>
+  <para style="q">e a lâmpada dos perversos se apagará.</para>
+  <para style="q">
+    <verse number="21" style="v"/>Teme ao <char style="nd">Senhor</char>, filho meu, e ao rei</para>
+  <para style="q">e não te associes com os revoltosos.</para>
+  <para style="q">
+    <verse number="22" style="v"/>Porque de repente levantará a sua perdição,</para>
+  <para style="q">e a ruína que virá daqueles dois, quem a conhecerá?</para>
+  <para style="s">Mais alguns provérbios dos sábios</para>
+  <para style="p">
+    <verse number="23" style="v"/>São também estes provérbios dos sábios.</para>
+  <para style="q">Parcialidade no julgar não é bom.</para>
+  <para style="q">
+    <verse number="24" style="v"/>O que disser ao perverso: Tu és justo;</para>
+  <para style="q">pelo povo será maldito e detestado pelas nações.</para>
+  <para style="q">
+    <verse number="25" style="v"/>Mas os que o repreenderem se acharão bem,</para>
+  <para style="q">e sobre eles virão grandes bênçãos.</para>
+  <para style="q">
+    <verse number="26" style="v"/>Como beijo nos lábios,</para>
+  <para style="q">é a resposta com palavras retas.</para>
+  <para style="q">
+    <verse number="27" style="v"/>Cuida dos teus negócios lá fora,</para>
+  <para style="q">apronta a lavoura no campo</para>
+  <para style="q">e, depois, edifica a tua casa.</para>
+  <para style="q">
+    <verse number="28" style="v"/>Não sejas testemunha sem causa contra o teu próximo,</para>
+  <para style="q">nem o enganes com os teus lábios.</para>
+  <para style="q">
+    <verse number="29" style="v"/>Não digas: Como ele me fez a mim, assim lhe farei a ele;</para>
+  <para style="q">pagarei a cada um segundo a sua obra.</para>
+  <para style="q">
+    <verse number="30" style="v"/>Passei pelo campo do preguiçoso</para>
+  <para style="q">e junto à vinha do homem falto de entendimento;</para>
+  <para style="q">
+    <verse number="31" style="v"/>eis que tudo estava cheio de espinhos,</para>
+  <para style="q">a sua superfície, coberta de urtigas,</para>
+  <para style="q">e o seu muro de pedra, em ruínas.</para>
+  <para style="q">
+    <verse number="32" style="v"/>Tendo-o visto, considerei;</para>
+  <para style="q">vi e recebi a instrução.</para>
+  <para style="q">
+    <verse number="33" style="v"/>Um pouco para dormir, um pouco para tosquenejar,</para>
+  <para style="q">um pouco para encruzar os braços em repouso,</para>
+  <para style="q">
+    <verse number="34" style="v"/>assim sobrevirá a tua pobreza como um ladrão,</para>
+  <para style="q">e a tua necessidade, como um homem armado.<note caller="a" style="x"><char style="xo" closed="false">24.33-34 </char><char style="xt" closed="false"><ref loc="PRO 6:10-11">Pv 6.10-11</ref></char></note></para>
+  <chapter number="25" style="c"/>
+  <para style="s">Símiles e lições morais</para>
+  <para style="p">
+    <verse number="1" style="v"/>São também estes provérbios de Salomão, os quais transcreveram os homens de Ezequias, rei de Judá.</para>
+  <para style="q">
+    <verse number="2" style="v"/>A glória de Deus é encobrir as coisas,</para>
+  <para style="q">mas a glória dos reis é esquadrinhá-las.</para>
+  <para style="q">
+    <verse number="3" style="v"/>Como a altura dos céus e a profundeza da terra,</para>
+  <para style="q">assim o coração dos reis é insondável.</para>
+  <para style="q">
+    <verse number="4" style="v"/>Tira da prata a escória,</para>
+  <para style="q">e sairá vaso para o ourives;</para>
+  <para style="q">
+    <verse number="5" style="v"/>tira o perverso da presença do rei,</para>
+  <para style="q">e o seu trono se firmará na justiça.</para>
+  <para style="q">
+    <verse number="6" style="v"/>Não te glories na presença do rei,</para>
+  <para style="q">nem te ponhas no meio dos grandes;</para>
+  <para style="q">
+    <verse number="7" style="v"/>porque melhor é que te digam: Sobe para aqui!,</para>
+  <para style="q">do que seres humilhado diante do príncipe.<note caller="a" style="x"><char style="xo" closed="false">25.6-7 </char><char style="xt" closed="false"><ref loc="LUK 14:8-10">Lc 14.8-10</ref></char></note></para>
+  <para style="q">A respeito do que os teus olhos viram,</para>
+  <para style="q">
+    <verse number="8" style="v"/>não te apresses a litigar,</para>
+  <para style="q">pois, ao fim, que farás,</para>
+  <para style="q">quando o teu próximo te puser em apuros?</para>
+  <para style="q">
+    <verse number="9" style="v"/>Pleiteia a tua causa diretamente com o teu próximo</para>
+  <para style="q">e não descubras o segredo de outrem;</para>
+  <para style="q">
+    <verse number="10" style="v"/>para que não te vitupere aquele que te ouvir,</para>
+  <para style="q">e não se te apegue a tua infâmia.</para>
+  <para style="q">
+    <verse number="11" style="v"/>Como maçãs de ouro em salvas de prata,</para>
+  <para style="q">assim é a palavra dita a seu tempo.</para>
+  <para style="q">
+    <verse number="12" style="v"/>Como pendentes e joias de ouro puro,</para>
+  <para style="q">assim é o sábio repreensor para o ouvido atento.</para>
+  <para style="q">
+    <verse number="13" style="v"/>Como o frescor de neve no tempo da ceifa,</para>
+  <para style="q">assim é o mensageiro fiel para com os que o enviam,</para>
+  <para style="q">porque refrigera a alma dos seus senhores.</para>
+  <para style="q">
+    <verse number="14" style="v"/>Como nuvens e ventos que não trazem chuva,</para>
+  <para style="q">assim é o homem que se gaba de dádivas que não fez.</para>
+  <para style="q">
+    <verse number="15" style="v"/>A longanimidade persuade o príncipe,</para>
+  <para style="q">e a língua branda esmaga ossos.</para>
+  <para style="q">
+    <verse number="16" style="v"/>Achaste mel? Come apenas o que te basta,</para>
+  <para style="q">para que não te fartes dele e venhas a vomitá-lo.</para>
+  <para style="q">
+    <verse number="17" style="v"/>Não sejas frequente na casa do teu próximo,</para>
+  <para style="q">para que não se enfade de ti e te aborreça.</para>
+  <para style="q">
+    <verse number="18" style="v"/>Maça, espada e flecha aguda é o homem</para>
+  <para style="q">que levanta falso testemunho contra o seu próximo.</para>
+  <para style="q">
+    <verse number="19" style="v"/>Como dente quebrado e pé sem firmeza,</para>
+  <para style="q">assim é a confiança no desleal, no tempo da angústia.</para>
+  <para style="q">
+    <verse number="20" style="v"/>Como quem se despe num dia de frio</para>
+  <para style="q">e como vinagre sobre feridas,</para>
+  <para style="q">assim é o que entoa canções junto ao coração aflito.</para>
+  <para style="q">
+    <verse number="21" style="v"/>Se o que te aborrece tiver fome, dá-lhe pão para comer;</para>
+  <para style="q">se tiver sede, dá-lhe água para beber,</para>
+  <para style="q">
+    <verse number="22" style="v"/>porque assim amontoarás brasas vivas sobre a sua cabeça,</para>
+  <para style="q">e o <char style="nd">Senhor</char> te retribuirá.<note caller="b" style="x"><char style="xo" closed="false">25.21-22 </char><char style="xt" closed="false"><ref loc="ROM 12:20">Rm 12.20</ref></char></note></para>
+  <para style="q">
+    <verse number="23" style="v"/>O vento norte traz chuva,</para>
+  <para style="q">e a língua fingida, o rosto irado.</para>
+  <para style="q">
+    <verse number="24" style="v"/>Melhor é morar no canto do eirado</para>
+  <para style="q">do que junto com a mulher rixosa na mesma casa.</para>
+  <para style="q">
+    <verse number="25" style="v"/>Como água fria para o sedento,</para>
+  <para style="q">tais são as boas-novas vindas de um país remoto.</para>
+  <para style="q">
+    <verse number="26" style="v"/>Como fonte que foi turvada e manancial corrupto,</para>
+  <para style="q">assim é o justo que cede ao perverso.</para>
+  <para style="q">
+    <verse number="27" style="v"/>Comer muito mel não é bom;</para>
+  <para style="q">assim, procurar a própria honra não é honra.</para>
+  <para style="q">
+    <verse number="28" style="v"/>Como cidade derribada, que não tem muros,</para>
+  <para style="q">assim é o homem que não tem domínio próprio.</para>
+  <chapter number="26" style="c"/>
+  <para style="q">
+    <verse number="1" style="v"/>Como a neve no verão e como a chuva na ceifa,</para>
+  <para style="q">assim, a honra não convém ao insensato.</para>
+  <para style="q">
+    <verse number="2" style="v"/>Como o pássaro que foge, como a andorinha no seu voo,</para>
+  <para style="q">assim, a maldição sem causa não se cumpre.</para>
+  <para style="q">
+    <verse number="3" style="v"/>O açoite é para o cavalo, o freio, para o jumento,</para>
+  <para style="q">e a vara, para as costas dos insensatos.</para>
+  <para style="q">
+    <verse number="4" style="v"/>Não respondas ao insensato segundo a sua estultícia,</para>
+  <para style="q">para que não te faças semelhante a ele.</para>
+  <para style="q">
+    <verse number="5" style="v"/>Ao insensato responde segundo a sua estultícia,</para>
+  <para style="q">para que não seja ele sábio aos seus próprios olhos.</para>
+  <para style="q">
+    <verse number="6" style="v"/>Os pés corta e o dano sofre</para>
+  <para style="q">quem manda mensagens por intermédio do insensato.</para>
+  <para style="q">
+    <verse number="7" style="v"/>As pernas do coxo pendem bambas;</para>
+  <para style="q">assim é o provérbio na boca dos insensatos.</para>
+  <para style="q">
+    <verse number="8" style="v"/>Como o que atira pedra preciosa num montão de ruínas,</para>
+  <para style="q">assim é o que dá honra ao insensato.</para>
+  <para style="q">
+    <verse number="9" style="v"/>Como galho de espinhos na mão do bêbado,</para>
+  <para style="q">assim é o provérbio na boca dos insensatos.</para>
+  <para style="q">
+    <verse number="10" style="v"/>Como um flecheiro que a todos fere,</para>
+  <para style="q">assim é o que assalaria os insensatos e os transgressores.</para>
+  <para style="q">
+    <verse number="11" style="v"/>Como o cão que torna ao seu vômito,<note caller="a" style="x"><char style="xo" closed="false">26.11 </char><char style="xt" closed="false"><ref loc="2PE 2:22">2Pe 2.22</ref></char></note></para>
+  <para style="q">assim é o insensato que reitera a sua estultícia.</para>
+  <para style="q">
+    <verse number="12" style="v"/>Tens visto a um homem que é sábio a seus próprios olhos?</para>
+  <para style="q">Maior esperança há no insensato do que nele.</para>
+  <para style="q">
+    <verse number="13" style="v"/>Diz o preguiçoso: Um leão está no caminho;</para>
+  <para style="q">um leão está nas ruas.</para>
+  <para style="q">
+    <verse number="14" style="v"/>Como a porta se revolve nos seus gonzos,</para>
+  <para style="q">assim, o preguiçoso, no seu leito.</para>
+  <para style="q">
+    <verse number="15" style="v"/>O preguiçoso mete a mão no prato</para>
+  <para style="q">e não quer ter o trabalho de a levar à boca.</para>
+  <para style="q">
+    <verse number="16" style="v"/>Mais sábio é o preguiçoso a seus próprios olhos</para>
+  <para style="q">do que sete homens que sabem responder bem.</para>
+  <para style="q">
+    <verse number="17" style="v"/>Quem se mete em questão alheia</para>
+  <para style="q">é como aquele que toma pelas orelhas um cão que passa.</para>
+  <para style="q">
+    <verse number="18" style="v"/>Como o louco que lança</para>
+  <para style="q">fogo, flechas e morte,</para>
+  <para style="q">
+    <verse number="19" style="v"/>assim é o homem que engana a seu próximo</para>
+  <para style="q">e diz: Fiz isso por brincadeira.</para>
+  <para style="q">
+    <verse number="20" style="v"/>Sem lenha, o fogo se apaga;</para>
+  <para style="q">e, não havendo maldizente, cessa a contenda.</para>
+  <para style="q">
+    <verse number="21" style="v"/>Como o carvão é para a brasa, e a lenha, para o fogo,</para>
+  <para style="q">assim é o homem contencioso para acender rixas.</para>
+  <para style="q">
+    <verse number="22" style="v"/>As palavras do maldizente são comida fina,</para>
+  <para style="q">que desce para o mais interior do ventre.</para>
+  <para style="q">
+    <verse number="23" style="v"/>Como vaso de barro coberto de escórias de prata,</para>
+  <para style="q">assim são os lábios amorosos e o coração maligno.</para>
+  <para style="q">
+    <verse number="24" style="v"/>Aquele que aborrece dissimula com os lábios,</para>
+  <para style="q">mas no íntimo encobre o engano;</para>
+  <para style="q">
+    <verse number="25" style="v"/>quando te falar suavemente, não te fies nele,</para>
+  <para style="q">porque sete abominações há no seu coração.</para>
+  <para style="q">
+    <verse number="26" style="v"/>Ainda que o seu ódio se encobre com engano,</para>
+  <para style="q">a sua malícia se descobrirá publicamente.</para>
+  <para style="q">
+    <verse number="27" style="v"/>Quem abre uma cova nela cairá;</para>
+  <para style="q">e a pedra rolará sobre quem a revolve.</para>
+  <para style="q">
+    <verse number="28" style="v"/>A língua falsa aborrece a quem feriu,</para>
+  <para style="q">e a boca lisonjeira é causa de ruína.</para>
+  <chapter number="27" style="c"/>
+  <para style="q">
+    <verse number="1" style="v"/>Não te glories do dia de amanhã,<note caller="a" style="x"><char style="xo" closed="false">27.1 </char><char style="xt" closed="false"><ref loc="JAS 4:13-16">Tg 4.13-16</ref></char></note></para>
+  <para style="q">porque não sabes o que trará à luz.</para>
+  <para style="q">
+    <verse number="2" style="v"/>Seja outro o que te louve, e não a tua boca;</para>
+  <para style="q">o estrangeiro, e não os teus lábios.</para>
+  <para style="q">
+    <verse number="3" style="v"/>Pesada é a pedra, e a areia é uma carga;</para>
+  <para style="q">mas a ira do insensato é mais pesada do que uma e outra.</para>
+  <para style="q">
+    <verse number="4" style="v"/>Cruel é o furor, e impetuosa, a ira,</para>
+  <para style="q">mas quem pode resistir à inveja?</para>
+  <para style="q">
+    <verse number="5" style="v"/>Melhor é a repreensão franca</para>
+  <para style="q">do que o amor encoberto.</para>
+  <para style="q">
+    <verse number="6" style="v"/>Leais são as feridas feitas pelo que ama,</para>
+  <para style="q">porém os beijos de quem odeia são enganosos.</para>
+  <para style="q">
+    <verse number="7" style="v"/>A alma farta pisa o favo de mel,</para>
+  <para style="q">mas à alma faminta todo amargo é doce.</para>
+  <para style="q">
+    <verse number="8" style="v"/>Qual ave que vagueia longe do seu ninho,</para>
+  <para style="q">tal é o homem que anda vagueando longe do seu lar.</para>
+  <para style="q">
+    <verse number="9" style="v"/>Como o óleo e o perfume alegram o coração,</para>
+  <para style="q">assim, o amigo encontra doçura no conselho cordial.</para>
+  <para style="q">
+    <verse number="10" style="v"/>Não abandones o teu amigo, nem o amigo de teu pai,</para>
+  <para style="q">nem entres na casa de teu irmão no dia da tua adversidade.</para>
+  <para style="q">Mais vale o vizinho perto do que o irmão longe.</para>
+  <para style="q">
+    <verse number="11" style="v"/>Sê sábio, filho meu, e alegra o meu coração,</para>
+  <para style="q">para que eu saiba responder àqueles que me afrontam.</para>
+  <para style="q">
+    <verse number="12" style="v"/>O prudente vê o mal e esconde-se;</para>
+  <para style="q">mas os simples passam adiante e sofrem a pena.</para>
+  <para style="q">
+    <verse number="13" style="v"/>Tome-se a roupa àquele que fica fiador por outrem;</para>
+  <para style="q">e, por penhor, àquele que se obriga por mulher estranha.</para>
+  <para style="q">
+    <verse number="14" style="v"/>O que bendiz ao seu vizinho em alta voz, logo de manhã,</para>
+  <para style="q">por maldição lhe atribuem o que faz.</para>
+  <para style="q">
+    <verse number="15" style="v"/>O gotejar contínuo no dia de grande chuva</para>
+  <para style="q">e a mulher rixosa são semelhantes;</para>
+  <para style="q">
+    <verse number="16" style="v"/>contê-la seria conter o vento,</para>
+  <para style="q">seria pegar o óleo na mão.</para>
+  <para style="q">
+    <verse number="17" style="v"/>Como o ferro com o ferro se afia,</para>
+  <para style="q">assim, o homem, ao seu amigo.</para>
+  <para style="q">
+    <verse number="18" style="v"/>O que trata da figueira comerá do seu fruto;</para>
+  <para style="q">e o que cuida do seu senhor será honrado.</para>
+  <para style="q">
+    <verse number="19" style="v"/>Como na água o rosto corresponde ao rosto,</para>
+  <para style="q">assim, o coração do homem, ao homem.</para>
+  <para style="q">
+    <verse number="20" style="v"/>O inferno e o abismo nunca se fartam,</para>
+  <para style="q">e os olhos do homem nunca se satisfazem.</para>
+  <para style="q">
+    <verse number="21" style="v"/>Como o crisol prova a prata, e o forno, o ouro,</para>
+  <para style="q">assim, o homem é provado pelos louvores que recebe.</para>
+  <para style="q">
+    <verse number="22" style="v"/>Ainda que pises o insensato com mão de gral</para>
+  <para style="q">entre grãos pilados de cevada,</para>
+  <para style="q">não se vai dele a sua estultícia.</para>
+  <para style="q">
+    <verse number="23" style="v"/>Procura conhecer o estado das tuas ovelhas</para>
+  <para style="q">e cuida dos teus rebanhos,</para>
+  <para style="q">
+    <verse number="24" style="v"/>porque as riquezas não duram para sempre,</para>
+  <para style="q">nem a coroa, de geração em geração.</para>
+  <para style="q">
+    <verse number="25" style="v"/>Quando, removido o feno, aparecerem os renovos</para>
+  <para style="q">e se recolherem as ervas dos montes,</para>
+  <para style="q">
+    <verse number="26" style="v"/>então, os cordeiros te darão as vestes,</para>
+  <para style="q">os bodes, o preço do campo,</para>
+  <para style="q">
+    <verse number="27" style="v"/>e as cabras, leite em abundância para teu alimento,</para>
+  <para style="q">para alimento da tua casa e para sustento das tuas servas.</para>
+  <chapter number="28" style="c"/>
+  <para style="s">Provérbios antitéticos</para>
+  <para style="q">
+    <verse number="1" style="v"/>Fogem os perversos, sem que ninguém os persiga;</para>
+  <para style="q">mas o justo é intrépido como o leão.</para>
+  <para style="q">
+    <verse number="2" style="v"/>Por causa da transgressão da terra,</para>
+  <para style="q">mudam-se frequentemente os príncipes,</para>
+  <para style="q">mas por um, sábio e prudente, se faz estável a sua ordem.</para>
+  <para style="q">
+    <verse number="3" style="v"/>O homem pobre que oprime os pobres é como chuva</para>
+  <para style="q">que a tudo arrasta e não deixa trigo.</para>
+  <para style="q">
+    <verse number="4" style="v"/>Os que desamparam a lei louvam o perverso,</para>
+  <para style="q">mas os que guardam a lei se indignam contra ele.</para>
+  <para style="q">
+    <verse number="5" style="v"/>Os homens maus não entendem o que é justo,</para>
+  <para style="q">mas os que buscam o <char style="nd">Senhor</char> entendem tudo.</para>
+  <para style="q">
+    <verse number="6" style="v"/>Melhor é o pobre que anda na sua integridade</para>
+  <para style="q">do que o perverso, nos seus caminhos, ainda que seja rico.</para>
+  <para style="q">
+    <verse number="7" style="v"/>O que guarda a lei é filho prudente,</para>
+  <para style="q">mas o companheiro de libertinos envergonha a seu pai.</para>
+  <para style="q">
+    <verse number="8" style="v"/>O que aumenta os seus bens com juros e ganância</para>
+  <para style="q">ajunta-os para o que se compadece do pobre.</para>
+  <para style="q">
+    <verse number="9" style="v"/>O que desvia os ouvidos de ouvir a lei,</para>
+  <para style="q">até a sua oração será abominável.</para>
+  <para style="q">
+    <verse number="10" style="v"/>O que desvia os retos para o mau caminho,</para>
+  <para style="q">ele mesmo cairá na cova que fez,</para>
+  <para style="q">mas os íntegros herdarão o bem.</para>
+  <para style="q">
+    <verse number="11" style="v"/>O homem rico é sábio aos seus próprios olhos;</para>
+  <para style="q">mas o pobre que é sábio sabe sondá-lo.</para>
+  <para style="q">
+    <verse number="12" style="v"/>Quando triunfam os justos, há grande festividade;</para>
+  <para style="q">quando, porém, sobem os perversos, os homens se escondem.</para>
+  <para style="q">
+    <verse number="13" style="v"/>O que encobre as suas transgressões jamais prosperará;</para>
+  <para style="q">mas o que as confessa e deixa alcançará misericórdia.</para>
+  <para style="q">
+    <verse number="14" style="v"/>Feliz o homem constante no temor de Deus;</para>
+  <para style="q">mas o que endurece o coração cairá no mal.</para>
+  <para style="q">
+    <verse number="15" style="v"/>Como leão que ruge e urso que ataca,</para>
+  <para style="q">assim é o perverso que domina sobre um povo pobre.</para>
+  <para style="q">
+    <verse number="16" style="v"/>O príncipe falto de inteligência multiplica as opressões,</para>
+  <para style="q">mas o que aborrece a avareza viverá muitos anos.</para>
+  <para style="q">
+    <verse number="17" style="v"/>O homem carregado do sangue de outrem</para>
+  <para style="q">fugirá até à cova;</para>
+  <para style="q">ninguém o detenha.</para>
+  <para style="q">
+    <verse number="18" style="v"/>O que anda em integridade será salvo,</para>
+  <para style="q">mas o perverso em seus caminhos cairá logo.</para>
+  <para style="q">
+    <verse number="19" style="v"/>O que lavra a sua terra virá a fartar-se de pão,</para>
+  <para style="q">mas o que se ajunta a vadios se fartará de pobreza.</para>
+  <para style="q">
+    <verse number="20" style="v"/>O homem fiel será cumulado de bênçãos,</para>
+  <para style="q">mas o que se apressa a enriquecer não passará sem castigo.</para>
+  <para style="q">
+    <verse number="21" style="v"/>Parcialidade não é bom,</para>
+  <para style="q">porque até por um bocado de pão o homem prevaricará.</para>
+  <para style="q">
+    <verse number="22" style="v"/>Aquele que tem olhos invejosos corre atrás das riquezas,</para>
+  <para style="q">mas não sabe que há de vir sobre ele a penúria.</para>
+  <para style="q">
+    <verse number="23" style="v"/>O que repreende ao homem achará, depois, mais favor</para>
+  <para style="q">do que aquele que lisonjeia com a língua.</para>
+  <para style="q">
+    <verse number="24" style="v"/>O que rouba a seu pai ou a sua mãe e diz: Não é pecado,</para>
+  <para style="q">companheiro é do destruidor.</para>
+  <para style="q">
+    <verse number="25" style="v"/>O cobiçoso levanta contendas,</para>
+  <para style="q">mas o que confia no <char style="nd">Senhor</char> prosperará.</para>
+  <para style="q">
+    <verse number="26" style="v"/>O que confia no seu próprio coração é insensato,</para>
+  <para style="q">mas o que anda em sabedoria será salvo.</para>
+  <para style="q">
+    <verse number="27" style="v"/>O que dá ao pobre não terá falta,</para>
+  <para style="q">mas o que dele esconde os olhos será cumulado de maldições.</para>
+  <para style="q">
+    <verse number="28" style="v"/>Quando sobem os perversos, os homens se escondem,</para>
+  <para style="q">mas, quando eles perecem, os justos se multiplicam.</para>
+  <chapter number="29" style="c"/>
+  <para style="q">
+    <verse number="1" style="v"/>O homem que muitas vezes repreendido endurece a cerviz</para>
+  <para style="q">será quebrantado de repente sem que haja cura.</para>
+  <para style="q">
+    <verse number="2" style="v"/>Quando se multiplicam os justos, o povo se alegra,</para>
+  <para style="q">quando, porém, domina o perverso, o povo suspira.</para>
+  <para style="q">
+    <verse number="3" style="v"/>O homem que ama a sabedoria alegra a seu pai,</para>
+  <para style="q">mas o companheiro de prostitutas desperdiça os bens.</para>
+  <para style="q">
+    <verse number="4" style="v"/>O rei justo sustém a terra,</para>
+  <para style="q">mas o amigo de impostos a transtorna.</para>
+  <para style="q">
+    <verse number="5" style="v"/>O homem que lisonjeia a seu próximo</para>
+  <para style="q">arma-lhe uma rede aos passos.</para>
+  <para style="q">
+    <verse number="6" style="v"/>Na transgressão do homem mau, há laço,</para>
+  <para style="q">mas o justo canta e se regozija.</para>
+  <para style="q">
+    <verse number="7" style="v"/>Informa-se o justo da causa dos pobres,</para>
+  <para style="q">mas o perverso de nada disso quer saber.</para>
+  <para style="q">
+    <verse number="8" style="v"/>Os homens escarnecedores alvoroçam a cidade,</para>
+  <para style="q">mas os sábios desviam a ira.</para>
+  <para style="q">
+    <verse number="9" style="v"/>Se o homem sábio discute com o insensato,</para>
+  <para style="q">quer este se encolerize, quer se ria, não haverá fim.</para>
+  <para style="q">
+    <verse number="10" style="v"/>Os sanguinários aborrecem o íntegro,</para>
+  <para style="q">ao passo que, quanto aos retos, procuram tirar-lhes a vida.</para>
+  <para style="q">
+    <verse number="11" style="v"/>O insensato expande toda a sua ira,</para>
+  <para style="q">mas o sábio afinal lha reprime.</para>
+  <para style="q">
+    <verse number="12" style="v"/>Se o governador dá atenção a palavras mentirosas,</para>
+  <para style="q">virão a ser perversos todos os seus servos.</para>
+  <para style="q">
+    <verse number="13" style="v"/>O pobre e o seu opressor se encontram,</para>
+  <para style="q">mas é o <char style="nd">Senhor</char> quem dá luz aos olhos de ambos.</para>
+  <para style="q">
+    <verse number="14" style="v"/>O rei que julga os pobres com equidade</para>
+  <para style="q">firmará o seu trono para sempre.</para>
+  <para style="q">
+    <verse number="15" style="v"/>A vara e a disciplina dão sabedoria,</para>
+  <para style="q">mas a criança entregue a si mesma vem a envergonhar a sua mãe.</para>
+  <para style="q">
+    <verse number="16" style="v"/>Quando os perversos se multiplicam,</para>
+  <para style="q">multiplicam-se as transgressões,</para>
+  <para style="q">mas os justos verão a ruína deles.</para>
+  <para style="q">
+    <verse number="17" style="v"/>Corrige o teu filho, e te dará descanso,</para>
+  <para style="q">dará delícias à tua alma.</para>
+  <para style="q">
+    <verse number="18" style="v"/>Não havendo profecia, o povo se corrompe;</para>
+  <para style="q">mas o que guarda a lei, esse é feliz.</para>
+  <para style="q">
+    <verse number="19" style="v"/>O servo não se emendará com palavras,</para>
+  <para style="q">porque, ainda que entenda, não obedecerá.</para>
+  <para style="q">
+    <verse number="20" style="v"/>Tens visto um homem precipitado nas suas palavras?</para>
+  <para style="q">Maior esperança há para o insensato do que para ele.</para>
+  <para style="q">
+    <verse number="21" style="v"/>Se alguém amimar o escravo desde a infância,</para>
+  <para style="q">por fim ele quererá ser filho.</para>
+  <para style="q">
+    <verse number="22" style="v"/>O iracundo levanta contendas,</para>
+  <para style="q">e o furioso multiplica as transgressões.</para>
+  <para style="q">
+    <verse number="23" style="v"/>A soberba do homem o abaterá,</para>
+  <para style="q">mas o humilde de espírito obterá honra.</para>
+  <para style="q">
+    <verse number="24" style="v"/>O que tem parte com o ladrão aborrece a própria alma;</para>
+  <para style="q">ouve as maldições e nada denuncia.</para>
+  <para style="q">
+    <verse number="25" style="v"/>Quem teme ao homem arma ciladas,</para>
+  <para style="q">mas o que confia no <char style="nd">Senhor</char> está seguro.</para>
+  <para style="q">
+    <verse number="26" style="v"/>Muitos buscam o favor daquele que governa,</para>
+  <para style="q">mas para o homem a justiça vem do <char style="nd">Senhor</char>.</para>
+  <para style="q">
+    <verse number="27" style="v"/>Para o justo, o iníquo é abominação,</para>
+  <para style="q">e o reto no seu caminho é abominação ao perverso.</para>
+  <chapter number="30" style="c"/>
+  <para style="s">As palavras de Agur</para>
+  <para style="p">
+    <verse number="1" style="v"/>Palavras de Agur, filho de Jaque, de Massá.</para>
+  <para style="q">Disse o homem: Fatiguei-me, ó Deus;</para>
+  <para style="q">fatiguei-me, ó Deus, e estou exausto</para>
+  <para style="q">
+    <verse number="2" style="v"/>porque sou demasiadamente estúpido para ser homem;</para>
+  <para style="q">não tenho inteligência de homem,</para>
+  <para style="q">
+    <verse number="3" style="v"/>não aprendi a sabedoria,</para>
+  <para style="q">nem tenho o conhecimento do Santo.</para>
+  <para style="q">
+    <verse number="4" style="v"/>Quem subiu ao céu e desceu?</para>
+  <para style="q">Quem encerrou os ventos nos seus punhos?</para>
+  <para style="q">Quem amarrou as águas na sua roupa?</para>
+  <para style="q">Quem estabeleceu todas as extremidades da terra?</para>
+  <para style="q">Qual é o seu nome, e qual é o nome de seu filho,</para>
+  <para style="q">se é que o sabes?</para>
+  <para style="q">
+    <verse number="5" style="v"/>Toda palavra de Deus é pura;</para>
+  <para style="q">ele é escudo para os que nele confiam.</para>
+  <para style="q">
+    <verse number="6" style="v"/>Nada acrescentes às suas palavras,</para>
+  <para style="q">para que não te repreenda, e sejas achado mentiroso.</para>
+  <para style="q">
+    <verse number="7" style="v"/>Duas coisas te peço;</para>
+  <para style="q">não mas negues, antes que eu morra:</para>
+  <para style="q">
+    <verse number="8" style="v"/>afasta de mim a falsidade e a mentira;</para>
+  <para style="q">não me dês nem a pobreza nem a riqueza;</para>
+  <para style="q">dá-me o pão que me for necessário;</para>
+  <para style="q">
+    <verse number="9" style="v"/>para não suceder que, estando eu farto, te negue</para>
+  <para style="q">e diga: Quem é o <char style="nd">Senhor</char>?</para>
+  <para style="q">Ou que, empobrecido, venha a furtar</para>
+  <para style="q">e profane o nome de Deus.</para>
+  <para style="q">
+    <verse number="10" style="v"/>Não calunies o servo diante de seu senhor,</para>
+  <para style="q">para que aquele te não amaldiçoe e fiques culpado.</para>
+  <para style="q">
+    <verse number="11" style="v"/>Há daqueles que amaldiçoam a seu pai</para>
+  <para style="q">e que não bendizem a sua mãe.</para>
+  <para style="q">
+    <verse number="12" style="v"/>Há daqueles que são puros aos próprios olhos</para>
+  <para style="q">e que jamais foram lavados da sua imundícia.</para>
+  <para style="q">
+    <verse number="13" style="v"/>Há daqueles — quão altivos são os seus olhos</para>
+  <para style="q">e levantadas as suas pálpebras!</para>
+  <para style="q">
+    <verse number="14" style="v"/>Há daqueles cujos dentes são espadas,</para>
+  <para style="q">e cujos queixais são facas,</para>
+  <para style="q">para consumirem na terra os aflitos</para>
+  <para style="q">e os necessitados entre os homens.</para>
+  <para style="q">
+    <verse number="15" style="v"/>A sanguessuga tem duas filhas,</para>
+  <para style="q">a saber: Dá, Dá.</para>
+  <para style="q">Há três coisas que nunca se fartam,</para>
+  <para style="q">sim, quatro que não dizem: Basta!</para>
+  <para style="q">
+    <verse number="16" style="v"/>Elas são a sepultura, a madre estéril,</para>
+  <para style="q">a terra, que se não farta de água,</para>
+  <para style="q">e o fogo, que nunca diz: Basta!</para>
+  <para style="q">
+    <verse number="17" style="v"/>Os olhos de quem zomba do pai</para>
+  <para style="q">ou de quem despreza a obediência à sua mãe,</para>
+  <para style="q">corvos no ribeiro os arrancarão</para>
+  <para style="q">e pelos pintãos da águia serão comidos.</para>
+  <para style="q">
+    <verse number="18" style="v"/>Há três coisas que são maravilhosas demais para mim,</para>
+  <para style="q">sim, há quatro que não entendo:</para>
+  <para style="q">
+    <verse number="19" style="v"/>o caminho da águia no céu,</para>
+  <para style="q">o caminho da cobra na penha,</para>
+  <para style="q">o caminho do navio no meio do mar</para>
+  <para style="q">e o caminho do homem com uma donzela.</para>
+  <para style="q">
+    <verse number="20" style="v"/>Tal é o caminho da mulher adúltera:</para>
+  <para style="q">come, e limpa a boca,</para>
+  <para style="q">e diz: Não cometi maldade.</para>
+  <para style="q">
+    <verse number="21" style="v"/>Sob três coisas estremece a terra,</para>
+  <para style="q">sim, sob quatro não pode subsistir:</para>
+  <para style="q">
+    <verse number="22" style="v"/>sob o servo quando se torna rei;</para>
+  <para style="q">sob o insensato quando anda farto de pão;</para>
+  <para style="q">
+    <verse number="23" style="v"/>sob a mulher desdenhada quando se casa;</para>
+  <para style="q">sob a serva quando se torna herdeira da sua senhora.</para>
+  <para style="q">
+    <verse number="24" style="v"/>Há quatro coisas mui pequenas na terra</para>
+  <para style="q">que, porém, são mais sábias que os sábios:</para>
+  <para style="q">
+    <verse number="25" style="v"/>as formigas, povo sem força;</para>
+  <para style="q">todavia, no verão preparam a sua comida;</para>
+  <para style="q">
+    <verse number="26" style="v"/>os arganazes, povo não poderoso;</para>
+  <para style="q">contudo, fazem a sua casa nas rochas;</para>
+  <para style="q">
+    <verse number="27" style="v"/>os gafanhotos não têm rei;</para>
+  <para style="q">contudo, marcham todos em bandos;</para>
+  <para style="q">
+    <verse number="28" style="v"/>o geco, que se apanha com as mãos;</para>
+  <para style="q">contudo, está nos palácios dos reis.</para>
+  <para style="q">
+    <verse number="29" style="v"/>Há três que têm passo elegante,</para>
+  <para style="q">sim, quatro que andam airosamente:</para>
+  <para style="q">
+    <verse number="30" style="v"/>O leão, o mais forte entre os animais,</para>
+  <para style="q">que por ninguém torna atrás;</para>
+  <para style="q">
+    <verse number="31" style="v"/>o galo, que anda ereto, o bode</para>
+  <para style="q">e o rei, a quem não se pode resistir.</para>
+  <para style="q">
+    <verse number="32" style="v"/>Se procedeste insensatamente em te exaltares</para>
+  <para style="q">ou se maquinaste o mal,</para>
+  <para style="q">põe a mão na boca.</para>
+  <para style="q">
+    <verse number="33" style="v"/>Porque o bater do leite produz manteiga,</para>
+  <para style="q">e o torcer do nariz produz sangue,</para>
+  <para style="q">e o açular a ira produz contendas.</para>
+  <chapter number="31" style="c"/>
+  <para style="s">Conselhos para o rei Lemuel</para>
+  <para style="p">
+    <verse number="1" style="v"/>Palavras do rei Lemuel, de Massá, as quais lhe ensinou sua mãe.</para>
+  <para style="q">
+    <verse number="2" style="v"/>Que te direi, filho meu? Ó filho do meu ventre?</para>
+  <para style="q">Que te direi, ó filho dos meus votos?</para>
+  <para style="q">
+    <verse number="3" style="v"/>Não dês às mulheres a tua força,</para>
+  <para style="q">nem os teus caminhos, às que destroem os reis.</para>
+  <para style="q">
+    <verse number="4" style="v"/>Não é próprio dos reis, ó Lemuel,</para>
+  <para style="q">não é próprio dos reis beber vinho,</para>
+  <para style="q">nem dos príncipes desejar bebida forte.</para>
+  <para style="q">
+    <verse number="5" style="v"/>Para que não bebam, e se esqueçam da lei,</para>
+  <para style="q">e pervertam o direito de todos os aflitos.</para>
+  <para style="q">
+    <verse number="6" style="v"/>Dai bebida forte aos que perecem</para>
+  <para style="q">e vinho, aos amargurados de espírito;</para>
+  <para style="q">
+    <verse number="7" style="v"/>para que bebam, e se esqueçam da sua pobreza,</para>
+  <para style="q">e de suas fadigas não se lembrem mais.</para>
+  <para style="q">
+    <verse number="8" style="v"/>Abre a boca a favor do mudo,</para>
+  <para style="q">pelo direito de todos os que se acham desamparados.</para>
+  <para style="q">
+    <verse number="9" style="v"/>Abre a boca, julga retamente</para>
+  <para style="q">e faze justiça aos pobres e aos necessitados.</para>
+  <para style="s">O louvor da mulher virtuosa</para>
+  <para style="q">
+    <verse number="10" style="v"/>Mulher virtuosa, quem a achará?</para>
+  <para style="q">O seu valor muito excede o de finas joias.</para>
+  <para style="q">
+    <verse number="11" style="v"/>O coração do seu marido confia nela,</para>
+  <para style="q">e não haverá falta de ganho.</para>
+  <para style="q">
+    <verse number="12" style="v"/>Ela lhe faz bem e não mal,</para>
+  <para style="q">todos os dias da sua vida.</para>
+  <para style="q">
+    <verse number="13" style="v"/>Busca lã e linho</para>
+  <para style="q">e de bom grado trabalha com as mãos.</para>
+  <para style="q">
+    <verse number="14" style="v"/>É como o navio mercante:</para>
+  <para style="q">de longe traz o seu pão.</para>
+  <para style="q">
+    <verse number="15" style="v"/>É ainda noite, e já se levanta,</para>
+  <para style="q">e dá mantimento à sua casa</para>
+  <para style="q">e a tarefa às suas servas.</para>
+  <para style="q">
+    <verse number="16" style="v"/>Examina uma propriedade e adquire-a;</para>
+  <para style="q">planta uma vinha com as rendas do seu trabalho.</para>
+  <para style="q">
+    <verse number="17" style="v"/>Cinge os lombos de força</para>
+  <para style="q">e fortalece os braços.</para>
+  <para style="q">
+    <verse number="18" style="v"/>Ela percebe que o seu ganho é bom;</para>
+  <para style="q">a sua lâmpada não se apaga de noite.</para>
+  <para style="q">
+    <verse number="19" style="v"/>Estende as mãos ao fuso,</para>
+  <para style="q">mãos que pegam na roca.</para>
+  <para style="q">
+    <verse number="20" style="v"/>Abre a mão ao aflito;</para>
+  <para style="q">e ainda a estende ao necessitado.</para>
+  <para style="q">
+    <verse number="21" style="v"/>No tocante à sua casa, não teme a neve,</para>
+  <para style="q">pois todos andam vestidos de lã escarlate.</para>
+  <para style="q">
+    <verse number="22" style="v"/>Faz para si cobertas,</para>
+  <para style="q">veste-se de linho fino e de púrpura.</para>
+  <para style="q">
+    <verse number="23" style="v"/>Seu marido é estimado entre os juízes,</para>
+  <para style="q">quando se assenta com os anciãos da terra.</para>
+  <para style="q">
+    <verse number="24" style="v"/>Ela faz roupas de linho fino, e vende-as,</para>
+  <para style="q">e dá cintas aos mercadores.</para>
+  <para style="q">
+    <verse number="25" style="v"/>A força e a dignidade são os seus vestidos,</para>
+  <para style="q">e, quanto ao dia de amanhã, não tem preocupações.</para>
+  <para style="q">
+    <verse number="26" style="v"/>Fala com sabedoria,</para>
+  <para style="q">e a instrução da bondade está na sua língua.</para>
+  <para style="q">
+    <verse number="27" style="v"/>Atende ao bom andamento da sua casa</para>
+  <para style="q">e não come o pão da preguiça.</para>
+  <para style="q">
+    <verse number="28" style="v"/>Levantam-se seus filhos e lhe chamam ditosa;</para>
+  <para style="q">seu marido a louva, dizendo:</para>
+  <para style="q">
+    <verse number="29" style="v"/>Muitas mulheres procedem virtuosamente,</para>
+  <para style="q">mas tu a todas sobrepujas.</para>
+  <para style="q">
+    <verse number="30" style="v"/>Enganosa é a graça, e vã, a formosura,</para>
+  <para style="q">mas a mulher que teme ao <char style="nd">Senhor</char>, essa será louvada.</para>
+  <para style="q">
+    <verse number="31" style="v"/>Dai-lhe do fruto das suas mãos,</para>
+  <para style="q">e de público a louvarão as suas obras.</para>
+</usx>

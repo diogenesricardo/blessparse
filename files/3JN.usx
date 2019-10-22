@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usx version="2.6">
+  <book code="3JN" style="id">3João – Tradução de João Ferreira de Almeida – Edição Revista e Atualizada – 2ª edição (1993)</book>
+  <para style="h">3João</para>
+  <para style="toc1">Terceira Epístola de João</para>
+  <para style="toc2">3João</para>
+  <para style="toc3">3Jo</para>
+  <para style="mt2">Terceira Epístola de</para>
+  <para style="mt1">João</para>
+  <para style="is1">Introdução</para>
+  <para style="ip">Esta epístola, escrita pelo mesmo “presbítero” que escreveu a <char style="bk">Segunda Epístola de João</char>, é enviada a Gaio, dirigente de uma igreja. O autor elogia Gaio, condena a oposição de Diótrefes e fala bem de Demétrio.</para>
+  <para style="ib"/>
+  <para style="iot">Esquema do conteúdo</para>
+  <para style="io1">Prefácio e saudação <char style="ior">(vs. <ref loc="3JN 1:1-4">1-4</ref>)</char></para>
+  <para style="io1">1. Elogio à hospitalidade de Gaio <char style="ior">(vs. <ref loc="3JN 1:5-8">5-8</ref>)</char></para>
+  <para style="io1">2. A oposição de Diótrefes <char style="ior">(vs. <ref loc="3JN 1:9-10">9-10</ref>)</char></para>
+  <para style="io1">3. Bom testemunho acerca de Demétrio <char style="ior">(vs. <ref loc="3JN 1:11-12">11-12</ref>)</char></para>
+  <para style="io1">Saudações <char style="ior">(vs. <ref loc="3JN 1:13-15">13-15</ref>)</char></para>
+  <para style="ie"/>
+  <chapter number="1" style="c"/>
+  <para style="s">Prefácio e saudação</para>
+  <para style="p">
+    <verse number="1" style="v"/>O presbítero ao amado Gaio,<note caller="a" style="x"><char style="xo" closed="false">1 </char><char style="xt" closed="false"><ref loc="ACT 19:29">At 19.29</ref>; <ref loc="ROM 16:23">Rm 16.23</ref>; <ref loc="1CO 1:14">1Co 1.14</ref></char></note> a quem eu amo na verdade.</para>
+  <para style="p">
+    <verse number="2" style="v"/>Amado, acima de tudo, faço votos por tua prosperidade e saúde, assim como é próspera a tua alma. <verse number="3" style="v"/>Pois fiquei sobremodo alegre pela vinda de irmãos e pelo seu testemunho da tua verdade, como tu andas na verdade. <verse number="4" style="v"/>Não tenho maior alegria do que esta, a de ouvir que meus filhos andam na verdade.</para>
+  <para style="s">O bom exemplo de Gaio</para>
+  <para style="p">
+    <verse number="5" style="v"/>Amado, procedes fielmente naquilo que praticas para com os irmãos, e isto fazes mesmo quando são estrangeiros, <verse number="6" style="v"/>os quais, perante a igreja, deram testemunho do teu amor. Bem farás encaminhando-os em sua jornada por modo digno de Deus; <verse number="7" style="v"/>pois por causa do Nome foi que saíram, nada recebendo dos gentios. <verse number="8" style="v"/>Portanto, devemos acolher esses irmãos, para nos tornarmos cooperadores da verdade.</para>
+  <para style="s">Diótrefes, o ambicioso. Demétrio, fiel cristão</para>
+  <para style="p">
+    <verse number="9" style="v"/>Escrevi alguma coisa à igreja; mas Diótrefes, que gosta de exercer a primazia entre eles, não nos dá acolhida. <verse number="10" style="v"/>Por isso, se eu for aí, far-lhe-ei lembradas as obras que ele pratica, proferindo contra nós palavras maliciosas. E, não satisfeito com estas coisas, nem ele mesmo acolhe os irmãos, como impede os que querem recebê-los e os expulsa da igreja. <verse number="11" style="v"/>Amado, não imites o que é mau, senão o que é bom. Aquele que pratica o bem procede de Deus; aquele que pratica o mal jamais viu a Deus. <verse number="12" style="v"/>Quanto a Demétrio, todos lhe dão testemunho, até a própria verdade, e nós também damos testemunho; e sabes que o nosso testemunho é verdadeiro.</para>
+  <para style="s">Informações finais. Saudações</para>
+  <para style="p">
+    <verse number="13" style="v"/>Muitas coisas tinha que te escrever; todavia, não quis fazê-lo com tinta e pena, <verse number="14" style="v"/>pois, em breve, espero ver-te. Então, conversaremos de viva voz.</para>
+  <para style="p">
+    <verse number="15" style="v"/>A paz seja contigo. Os amigos te saúdam. Saúda os amigos, nome por nome.</para>
+</usx>

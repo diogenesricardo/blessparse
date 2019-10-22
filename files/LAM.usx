@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usx version="2.6">
+  <book code="LAM" style="id">Lamentações – Tradução de João Ferreira de Almeida – Edição Revista e Atualizada – 2ª edição (1993)</book>
+  <para style="h">Lamentações</para>
+  <para style="toc1">Lamentações de Jeremias</para>
+  <para style="toc2">Lamentações</para>
+  <para style="toc3">Lm</para>
+  <para style="mt1">Lamentações</para>
+  <para style="mt2">de Jeremias</para>
+  <para style="is1">Introdução</para>
+  <para style="ip">
+    <char style="bk">Lamentações</char> é uma coleção de cinco poemas nos quais se chora a destruição da cidade de Jerusalém no ano 586 a.C. O país havia sido arrasado, e o povo havia sido levado prisioneiro. Embora neste livro se fale muito de coisas tristes, não deixa de haver nele uma nota de confiança em Deus e de esperança no futuro. Esses poemas são recitados pelos judeus, com jejum e orações, para lembrarem todos os anos a destruição de Jerusalém.</para>
+  <para style="ib"/>
+  <para style="iot">Esquema do conteúdo</para>
+  <para style="io1">1. As tristezas de Jerusalém <char style="ior">(<ref loc="LAM 1:1-22">1.1-22</ref>)</char></para>
+  <para style="io1">2. Deus castiga Jerusalém <char style="ior">(<ref loc="LAM 2:1-22">2.1-22</ref>)</char></para>
+  <para style="io1">3. Castigo, arrependimento e esperança <char style="ior">(<ref loc="LAM 3:1-66">3.1-66</ref>)</char></para>
+  <para style="io1">4. Jerusalém arrasada <char style="ior">(<ref loc="LAM 4:1-22">4.1-22</ref>)</char></para>
+  <para style="io1">5. Oração pedindo misericórdia <char style="ior">(<ref loc="LAM 5:1-22">5.1-22</ref>)</char></para>
+  <para style="ie"/>
+  <chapter number="1" style="c"/>
+  <para style="s">Jerusalém destruída e desolada</para>
+  <para style="q">
+    <verse number="1" style="v"/>Como jaz solitária a cidade outrora populosa!</para>
+  <para style="q">Tornou-se como viúva</para>
+  <para style="q">a que foi grande entre as nações;</para>
+  <para style="q">princesa entre as províncias,</para>
+  <para style="q">ficou sujeita a trabalhos forçados!</para>
+  <para style="q">
+    <verse number="2" style="v"/>Chora e chora de noite,</para>
+  <para style="q">e as suas lágrimas lhe correm pelas faces;</para>
+  <para style="q">não tem quem a console</para>
+  <para style="q">entre todos os que a amavam;</para>
+  <para style="q">todos os seus amigos procederam perfidamente contra ela,</para>
+  <para style="q">tornaram-se seus inimigos.</para>
+  <para style="q">
+    <verse number="3" style="v"/>Judá foi levado ao exílio,</para>
+  <para style="q">afligido e sob grande servidão;</para>
+  <para style="q">habita entre as nações,</para>
+  <para style="q">não acha descanso;</para>
+  <para style="q">todos os seus perseguidores o apanharam</para>
+  <para style="q">nas suas angústias.</para>
+  <para style="q">
+    <verse number="4" style="v"/>Os caminhos de Sião estão de luto,</para>
+  <para style="q">porque não há quem venha à reunião solene;</para>
+  <para style="q">todas as suas portas estão desoladas;</para>
+  <para style="q">os seus sacerdotes gemem;</para>
+  <para style="q">as suas virgens estão tristes,</para>
+  <para style="q">e ela mesma se acha em amargura.</para>
+  <para style="q">
+    <verse number="5" style="v"/>Os seus adversários triunfam,</para>
+  <para style="q">os seus inimigos prosperam;</para>
+  <para style="q">porque o <char style="nd">Senhor</char> a afligiu,</para>
+  <para style="q">por causa da multidão das suas prevaricações;</para>
+  <para style="q">os seus filhinhos tiveram de ir para o exílio,</para>
+  <para style="q">na frente do adversário.</para>
+  <para style="q">
+    <verse number="6" style="v"/>Da filha de Sião já se passou</para>
+  <para style="q">todo o esplendor;</para>
+  <para style="q">os seus príncipes ficaram sendo</para>
+  <para style="q">como corços que não acham pasto</para>
+  <para style="q">e caminham exaustos</para>
+  <para style="q">na frente do perseguidor.</para>
+  <para style="q">
+    <verse number="7" style="v"/>Agora, nos dias da sua aflição e do seu desterro,</para>
+  <para style="q">lembra-se Jerusalém</para>
+  <para style="q">de todas as suas mais estimadas coisas,</para>
+  <para style="q">que tivera dos tempos antigos;</para>
+  <para style="q">de como o seu povo caíra nas mãos do adversário,</para>
+  <para style="q">não tendo ela quem a socorresse;</para>
+  <para style="q">e de como os adversários a viram</para>
+  <para style="q">e fizeram escárnio da sua queda.</para>
+  <para style="q">
+    <verse number="8" style="v"/>Jerusalém pecou gravemente;</para>
+  <para style="q">por isso, se tornou repugnante;</para>
+  <para style="q">todos os que a honravam a desprezam,</para>
+  <para style="q">porque lhe viram a nudez;</para>
+  <para style="q">ela também geme</para>
+  <para style="q">e se retira envergonhada.</para>
+  <para style="q">
+    <verse number="9" style="v"/>A sua imundícia está nas suas saias;</para>
+  <para style="q">ela não pensava no seu fim;</para>
+  <para style="q">por isso, caiu de modo espantoso</para>
+  <para style="q">e não tem quem a console.</para>
+  <para style="q">Vê, <char style="nd">Senhor</char>, a minha aflição,</para>
+  <para style="q">porque o inimigo se torna insolente.</para>
+  <para style="q">
+    <verse number="10" style="v"/>Estendeu o adversário a mão</para>
+  <para style="q">a todas as coisas mais estimadas dela;</para>
+  <para style="q">pois ela viu entrar as nações</para>
+  <para style="q">no seu santuário,</para>
+  <para style="q">acerca das quais proibiste</para>
+  <para style="q">que entrassem na tua congregação.</para>
+  <para style="q">
+    <verse number="11" style="v"/>Todo o seu povo anda gemendo</para>
+  <para style="q">e à procura de pão;</para>
+  <para style="q">deram eles as suas coisas mais estimadas</para>
+  <para style="q">a troco de mantimento para restaurar as forças;</para>
+  <para style="q">vê, <char style="nd">Senhor</char>, e contempla,</para>
+  <para style="q">pois me tornei desprezível.</para>
+  <para style="q">
+    <verse number="12" style="v"/>Não vos comove isto, a todos vós que passais pelo caminho?</para>
+  <para style="q">Considerai e vede</para>
+  <para style="q">se há dor igual à minha,</para>
+  <para style="q">que veio sobre mim,</para>
+  <para style="q">com que o <char style="nd">Senhor</char> me afligiu</para>
+  <para style="q">no dia do furor da sua ira.</para>
+  <para style="q">
+    <verse number="13" style="v"/>Lá do alto enviou fogo a meus ossos,</para>
+  <para style="q">o qual se assenhoreou deles;</para>
+  <para style="q">estendeu uma rede aos meus pés,</para>
+  <para style="q">arrojou-me para trás,</para>
+  <para style="q">fez-me assolada</para>
+  <para style="q">e enferma todo o dia.</para>
+  <para style="q">
+    <verse number="14" style="v"/>O jugo das minhas transgressões</para>
+  <para style="q">está atado pela sua mão;</para>
+  <para style="q">elas estão entretecidas, subiram sobre o meu pescoço,</para>
+  <para style="q">e ele abateu a minha força;</para>
+  <para style="q">entregou-me o Senhor nas mãos daqueles</para>
+  <para style="q">contra os quais não posso resistir.</para>
+  <para style="q">
+    <verse number="15" style="v"/>O Senhor dispersou todos os valentes</para>
+  <para style="q">que estavam comigo;</para>
+  <para style="q">apregoou contra mim um ajuntamento,</para>
+  <para style="q">para esmagar os meus jovens;</para>
+  <para style="q">o Senhor pisou, como num lagar,</para>
+  <para style="q">a virgem filha de Judá.</para>
+  <para style="q">
+    <verse number="16" style="v"/>Por estas coisas, choro eu;</para>
+  <para style="q">os meus olhos, os meus olhos se desfazem em águas;</para>
+  <para style="q">porque se afastou de mim o consolador</para>
+  <para style="q">que devia restaurar as minhas forças;</para>
+  <para style="q">os meus filhos estão desolados,</para>
+  <para style="q">porque prevaleceu o inimigo.</para>
+  <para style="q">
+    <verse number="17" style="v"/>Estende Sião as mãos,</para>
+  <para style="q">e não há quem a console;</para>
+  <para style="q">ordenou o <char style="nd">Senhor</char> acerca de Jacó</para>
+  <para style="q">que os seus vizinhos se tornem seus inimigos;</para>
+  <para style="q">Jerusalém é para eles</para>
+  <para style="q">como coisa imunda.</para>
+  <para style="q">
+    <verse number="18" style="v"/>Justo é o <char style="nd">Senhor</char>,</para>
+  <para style="q">pois me rebelei contra a sua palavra;</para>
+  <para style="q">ouvi todos os povos</para>
+  <para style="q">e vede a minha dor;</para>
+  <para style="q">as minhas virgens e os meus jovens</para>
+  <para style="q">foram levados para o cativeiro.</para>
+  <para style="q">
+    <verse number="19" style="v"/>Chamei os meus amigos,</para>
+  <para style="q">mas eles me enganaram;</para>
+  <para style="q">os meus sacerdotes e os meus anciãos</para>
+  <para style="q">expiraram na cidade,</para>
+  <para style="q">quando estavam à procura de mantimento</para>
+  <para style="q">para restaurarem as suas forças.</para>
+  <para style="q">
+    <verse number="20" style="v"/>Olha, <char style="nd">Senhor</char>, porque estou angustiada;</para>
+  <para style="q">turbada está a minha alma,</para>
+  <para style="q">o meu coração, transtornado dentro de mim,</para>
+  <para style="q">porque gravemente me rebelei;</para>
+  <para style="q">fora, a espada mata os filhos;</para>
+  <para style="q">em casa, anda a morte.</para>
+  <para style="q">
+    <verse number="21" style="v"/>Ouvem que eu suspiro,</para>
+  <para style="q">mas não tenho quem me console;</para>
+  <para style="q">todos os meus inimigos que souberam do meu mal</para>
+  <para style="q">folgam, porque tu o fizeste;</para>
+  <para style="q">mas, em trazendo tu o dia que apregoaste,</para>
+  <para style="q">serão semelhantes a mim.</para>
+  <para style="q">
+    <verse number="22" style="v"/>Venha toda a sua iniquidade</para>
+  <para style="q">à tua presença,</para>
+  <para style="q">e faze-lhes como me fizeste a mim</para>
+  <para style="q">por causa de todas as minhas prevaricações;</para>
+  <para style="q">porque os meus gemidos são muitos,</para>
+  <para style="q">e o meu coração está desfalecido.</para>
+  <chapter number="2" style="c"/>
+  <para style="s">As tristezas de Sião provêm do <char style="nd">Senhor</char></para>
+  <para style="q">
+    <verse number="1" style="v"/>Como o Senhor cobriu de nuvens,</para>
+  <para style="q">na sua ira, a filha de Sião!</para>
+  <para style="q">Precipitou do céu à terra</para>
+  <para style="q">a glória de Israel</para>
+  <para style="q">e não se lembrou do estrado de seus pés,</para>
+  <para style="q">no dia da sua ira.</para>
+  <para style="q">
+    <verse number="2" style="v"/>Devorou o Senhor todas as moradas de Jacó</para>
+  <para style="q">e não se apiedou;</para>
+  <para style="q">derribou no seu furor</para>
+  <para style="q">as fortalezas da filha de Judá;</para>
+  <para style="q">lançou por terra e profanou</para>
+  <para style="q">o reino e os seus príncipes.</para>
+  <para style="q">
+    <verse number="3" style="v"/>No furor da sua ira,</para>
+  <para style="q">cortou toda a força de Israel;</para>
+  <para style="q">retirou a sua destra</para>
+  <para style="q">de diante do inimigo;</para>
+  <para style="q">e ardeu contra Jacó, como labareda de fogo</para>
+  <para style="q">que tudo consome em redor.</para>
+  <para style="q">
+    <verse number="4" style="v"/>Entesou o seu arco, qual inimigo;</para>
+  <para style="q">firmou a sua destra, como adversário,</para>
+  <para style="q">e destruiu tudo</para>
+  <para style="q">o que era formoso à vista;</para>
+  <para style="q">derramou o seu furor, como fogo,</para>
+  <para style="q">na tenda da filha de Sião.</para>
+  <para style="q">
+    <verse number="5" style="v"/>Tornou-se o Senhor como inimigo,</para>
+  <para style="q">devorando Israel;</para>
+  <para style="q">devorou todos os seus palácios,</para>
+  <para style="q">destruiu as suas fortalezas</para>
+  <para style="q">e multiplicou na filha de Judá</para>
+  <para style="q">o pranto e a lamentação.</para>
+  <para style="q">
+    <verse number="6" style="v"/>Demoliu com violência o seu tabernáculo, como se fosse uma horta;</para>
+  <para style="q">destruiu o lugar da sua congregação;</para>
+  <para style="q">o <char style="nd">Senhor</char>, em Sião, pôs em esquecimento</para>
+  <para style="q">as festas e o sábado</para>
+  <para style="q">e, na indignação da sua ira, rejeitou com desprezo</para>
+  <para style="q">o rei e o sacerdote.</para>
+  <para style="q">
+    <verse number="7" style="v"/>Rejeitou o Senhor o seu altar</para>
+  <para style="q">e detestou o seu santuário;</para>
+  <para style="q">entregou nas mãos do inimigo</para>
+  <para style="q">os muros dos seus castelos;</para>
+  <para style="q">deram gritos na Casa do <char style="nd">Senhor</char>,</para>
+  <para style="q">como em dia de festa.</para>
+  <para style="q">
+    <verse number="8" style="v"/>Intentou o <char style="nd">Senhor</char> destruir</para>
+  <para style="q">o muro da filha de Sião;</para>
+  <para style="q">estendeu o cordel</para>
+  <para style="q">e não retirou a sua mão destruidora;</para>
+  <para style="q">fez gemer o antemuro e o muro;</para>
+  <para style="q">eles estão juntamente enfraquecidos.</para>
+  <para style="q">
+    <verse number="9" style="v"/>As suas portas caíram por terra;</para>
+  <para style="q">ele quebrou e despedaçou os seus ferrolhos;</para>
+  <para style="q">o seu rei e os seus príncipes</para>
+  <para style="q">estão entre as nações</para>
+  <para style="q">onde já não vigora a lei,</para>
+  <para style="q">nem recebem visão alguma do <char style="nd">Senhor</char> os seus profetas.</para>
+  <para style="q">
+    <verse number="10" style="v"/>Sentados em terra se acham, silenciosos,</para>
+  <para style="q">os anciãos da filha de Sião;</para>
+  <para style="q">lançam pó sobre a cabeça,</para>
+  <para style="q">cingidos de cilício;</para>
+  <para style="q">as virgens de Jerusalém abaixam a cabeça</para>
+  <para style="q">até ao chão.</para>
+  <para style="q">
+    <verse number="11" style="v"/>Com lágrimas se consumiram os meus olhos,</para>
+  <para style="q">turbada está a minha alma,</para>
+  <para style="q">e o meu coração se derramou de angústia</para>
+  <para style="q">por causa da calamidade da filha do meu povo;</para>
+  <para style="q">pois desfalecem os meninos e as crianças de peito</para>
+  <para style="q">pelas ruas da cidade.</para>
+  <para style="q">
+    <verse number="12" style="v"/>Dizem às mães:</para>
+  <para style="q">Onde há pão e vinho?,</para>
+  <para style="q">quando desfalecem como o ferido</para>
+  <para style="q">pelas ruas da cidade</para>
+  <para style="q">ou quando exalam a alma</para>
+  <para style="q">nos braços de sua mãe.</para>
+  <para style="q">
+    <verse number="13" style="v"/>Que poderei dizer-te?</para>
+  <para style="q">A quem te compararei, ó filha de Jerusalém?</para>
+  <para style="q">A quem te assemelharei,</para>
+  <para style="q">para te consolar a ti, ó virgem filha de Sião?</para>
+  <para style="q">Porque grande como o mar é a tua calamidade;</para>
+  <para style="q">quem te acudirá?</para>
+  <para style="q">
+    <verse number="14" style="v"/>Os teus profetas te anunciaram</para>
+  <para style="q">visões falsas e absurdas</para>
+  <para style="q">e não manifestaram a tua maldade,</para>
+  <para style="q">para restaurarem a tua sorte;</para>
+  <para style="q">mas te anunciaram visões de sentenças falsas,</para>
+  <para style="q">que te levaram para o cativeiro.</para>
+  <para style="q">
+    <verse number="15" style="v"/>Todos os que passam pelo caminho</para>
+  <para style="q">batem palmas,</para>
+  <para style="q">assobiam e meneiam a cabeça</para>
+  <para style="q">sobre a filha de Jerusalém:</para>
+  <para style="q">É esta a cidade que denominavam</para>
+  <para style="q">a perfeição da formosura,</para>
+  <para style="q">a alegria de toda a terra?</para>
+  <para style="q">
+    <verse number="16" style="v"/>Todos os teus inimigos</para>
+  <para style="q">abrem contra ti a boca,</para>
+  <para style="q">assobiam e rangem os dentes;</para>
+  <para style="q">dizem: Devoramo-la;</para>
+  <para style="q">certamente, este é o dia que esperávamos;</para>
+  <para style="q">achamo-lo e vimo-lo.</para>
+  <para style="q">
+    <verse number="17" style="v"/>Fez o <char style="nd">Senhor</char> o que intentou;</para>
+  <para style="q">cumpriu a ameaça que pronunciou</para>
+  <para style="q">desde os dias da antiguidade;</para>
+  <para style="q">derrubou e não se apiedou;</para>
+  <para style="q">fez que o inimigo se alegrasse por tua causa</para>
+  <para style="q">e exaltou o poder dos teus adversários.</para>
+  <para style="q">
+    <verse number="18" style="v"/>O coração de Jerusalém clama ao Senhor.</para>
+  <para style="q">Ó muralha da filha de Sião,</para>
+  <para style="q">corram as tuas lágrimas como um ribeiro,</para>
+  <para style="q">de dia e de noite,</para>
+  <para style="q">não te dês descanso,</para>
+  <para style="q">nem pare de chorar a menina de teus olhos!</para>
+  <para style="q">
+    <verse number="19" style="v"/>Levanta-te, clama de noite</para>
+  <para style="q">no princípio das vigílias;</para>
+  <para style="q">derrama, como água, o coração</para>
+  <para style="q">perante o Senhor;</para>
+  <para style="q">levanta a ele as mãos,</para>
+  <para style="q">pela vida de teus filhinhos,</para>
+  <para style="q">que desfalecem de fome</para>
+  <para style="q">à entrada de todas as ruas.</para>
+  <para style="q">
+    <verse number="20" style="v"/>Vê, ó <char style="nd">Senhor</char>, e considera</para>
+  <para style="q">a quem fizeste assim!</para>
+  <para style="q">Hão de as mulheres comer o fruto de si mesmas,</para>
+  <para style="q">as crianças do seu carinho?</para>
+  <para style="q">Ou se matará no santuário do Senhor</para>
+  <para style="q">o sacerdote e o profeta?</para>
+  <para style="q">
+    <verse number="21" style="v"/>Jazem por terra pelas ruas</para>
+  <para style="q">o moço e o velho;</para>
+  <para style="q">as minhas virgens e os meus jovens</para>
+  <para style="q">vieram a cair à espada;</para>
+  <para style="q">tu os mataste no dia da tua ira,</para>
+  <para style="q">fizeste matança e não te apiedaste.</para>
+  <para style="q">
+    <verse number="22" style="v"/>Convocaste de toda parte terrores contra mim,</para>
+  <para style="q">como num dia de solenidade;</para>
+  <para style="q">não houve, no dia da ira do <char style="nd">Senhor</char>,</para>
+  <para style="q">quem escapasse ou ficasse;</para>
+  <para style="q">aqueles do meu carinho os quais eu criei,</para>
+  <para style="q">o meu inimigo os consumiu.</para>
+  <chapter number="3" style="c"/>
+  <para style="s">Convidado o povo a reconhecer o seu pecado</para>
+  <para style="q">
+    <verse number="1" style="v"/>Eu sou o homem que viu a aflição</para>
+  <para style="q">pela vara do furor de Deus.</para>
+  <para style="q">
+    <verse number="2" style="v"/>Ele me levou e me fez andar</para>
+  <para style="q">em trevas e não na luz.</para>
+  <para style="q">
+    <verse number="3" style="v"/>Deveras ele volveu contra mim a mão,</para>
+  <para style="q">de contínuo, todo o dia.</para>
+  <para style="q">
+    <verse number="4" style="v"/>Fez envelhecer a minha carne e a minha pele,</para>
+  <para style="q">despedaçou os meus ossos.</para>
+  <para style="q">
+    <verse number="5" style="v"/>Edificou contra mim</para>
+  <para style="q">e me cercou de veneno e de dor.</para>
+  <para style="q">
+    <verse number="6" style="v"/>Fez-me habitar em lugares tenebrosos,</para>
+  <para style="q">como os que estão mortos para sempre.</para>
+  <para style="q">
+    <verse number="7" style="v"/>Cercou-me de um muro, e já não posso sair;</para>
+  <para style="q">agravou-me com grilhões de bronze.</para>
+  <para style="q">
+    <verse number="8" style="v"/>Ainda quando clamo e grito,</para>
+  <para style="q">ele não admite a minha oração.</para>
+  <para style="q">
+    <verse number="9" style="v"/>Fechou os meus caminhos com pedras lavradas,</para>
+  <para style="q">fez tortuosas as minhas veredas.</para>
+  <para style="q">
+    <verse number="10" style="v"/>Fez-se-me como urso à espreita,</para>
+  <para style="q">um leão de emboscada.</para>
+  <para style="q">
+    <verse number="11" style="v"/>Desviou os meus caminhos e me fez em pedaços;</para>
+  <para style="q">deixou-me assolado.</para>
+  <para style="q">
+    <verse number="12" style="v"/>Entesou o seu arco</para>
+  <para style="q">e me pôs como alvo à flecha.</para>
+  <para style="q">
+    <verse number="13" style="v"/>Fez que me entrassem no coração</para>
+  <para style="q">as flechas da sua aljava.</para>
+  <para style="q">
+    <verse number="14" style="v"/>Fui feito objeto de escárnio para todo o meu povo</para>
+  <para style="q">e a sua canção, todo o dia.</para>
+  <para style="q">
+    <verse number="15" style="v"/>Fartou-me de amarguras,</para>
+  <para style="q">saciou-me de absinto.</para>
+  <para style="q">
+    <verse number="16" style="v"/>Fez-me quebrar com pedrinhas de areia os meus dentes,</para>
+  <para style="q">cobriu-me de cinza.</para>
+  <para style="q">
+    <verse number="17" style="v"/>Afastou a paz de minha alma;</para>
+  <para style="q">esqueci-me do bem.</para>
+  <para style="q">
+    <verse number="18" style="v"/>Então, disse eu: já pereceu a minha glória,</para>
+  <para style="q">como também a minha esperança no <char style="nd">Senhor</char>.</para>
+  <para style="q">
+    <verse number="19" style="v"/>Lembra-te da minha aflição e do meu pranto,</para>
+  <para style="q">do absinto e do veneno.</para>
+  <para style="q">
+    <verse number="20" style="v"/>Minha alma, continuamente, os recorda</para>
+  <para style="q">e se abate dentro de mim.</para>
+  <para style="q">
+    <verse number="21" style="v"/>Quero trazer à memória</para>
+  <para style="q">o que me pode dar esperança.</para>
+  <para style="s">Esperança de auxílio pela misericórdia de Deus</para>
+  <para style="q">
+    <verse number="22" style="v"/>As misericórdias do <char style="nd">Senhor</char> são a causa de não sermos consumidos,</para>
+  <para style="q">porque as suas misericórdias não têm fim;</para>
+  <para style="q">
+    <verse number="23" style="v"/>renovam-se cada manhã.</para>
+  <para style="q">Grande é a tua fidelidade.</para>
+  <para style="q">
+    <verse number="24" style="v"/>A minha porção é o <char style="nd">Senhor</char>, diz a minha alma;</para>
+  <para style="q">portanto, esperarei nele.</para>
+  <para style="q">
+    <verse number="25" style="v"/>Bom é o <char style="nd">Senhor</char> para os que esperam por ele,</para>
+  <para style="q">para a alma que o busca.</para>
+  <para style="q">
+    <verse number="26" style="v"/>Bom é aguardar a salvação do <char style="nd">Senhor</char>,</para>
+  <para style="q">e isso, em silêncio.</para>
+  <para style="q">
+    <verse number="27" style="v"/>Bom é para o homem</para>
+  <para style="q">suportar o jugo na sua mocidade.</para>
+  <para style="q">
+    <verse number="28" style="v"/>Assente-se solitário e fique em silêncio;</para>
+  <para style="q">porquanto esse jugo Deus pôs sobre ele;</para>
+  <para style="q">
+    <verse number="29" style="v"/>ponha a boca no pó;</para>
+  <para style="q">talvez ainda haja esperança.</para>
+  <para style="q">
+    <verse number="30" style="v"/>Dê a face ao que o fere;</para>
+  <para style="q">farte-se de afronta.</para>
+  <para style="q">
+    <verse number="31" style="v"/>O Senhor não rejeitará</para>
+  <para style="q">para sempre;</para>
+  <para style="q">
+    <verse number="32" style="v"/>pois, ainda que entristeça a alguém,</para>
+  <para style="q">usará de compaixão segundo a grandeza das suas misericórdias;</para>
+  <para style="q">
+    <verse number="33" style="v"/>porque não aflige, nem entristece de bom grado</para>
+  <para style="q">os filhos dos homens.</para>
+  <para style="q">
+    <verse number="34" style="v"/>Pisar debaixo dos pés</para>
+  <para style="q">a todos os presos da terra,</para>
+  <para style="q">
+    <verse number="35" style="v"/>perverter o direito do homem</para>
+  <para style="q">perante o Altíssimo,</para>
+  <para style="q">
+    <verse number="36" style="v"/>subverter ao homem no seu pleito,</para>
+  <para style="q">não o veria o Senhor?</para>
+  <para style="q">
+    <verse number="37" style="v"/>Quem é aquele que diz, e assim acontece,</para>
+  <para style="q">quando o Senhor o não mande?</para>
+  <para style="q">
+    <verse number="38" style="v"/>Acaso, não procede do Altíssimo</para>
+  <para style="q">tanto o mal como o bem?</para>
+  <para style="q">
+    <verse number="39" style="v"/>Por que, pois, se queixa o homem vivente?</para>
+  <para style="q">Queixe-se cada um dos seus próprios pecados.</para>
+  <para style="q">
+    <verse number="40" style="v"/>Esquadrinhemos os nossos caminhos,</para>
+  <para style="q">provemo-los e voltemos para o <char style="nd">Senhor</char>.</para>
+  <para style="q">
+    <verse number="41" style="v"/>Levantemos o coração,</para>
+  <para style="q">juntamente com as mãos, para Deus nos céus, dizendo:</para>
+  <para style="q">
+    <verse number="42" style="v"/>Nós prevaricamos e fomos rebeldes,</para>
+  <para style="q">e tu não nos perdoaste.</para>
+  <para style="q">
+    <verse number="43" style="v"/>Cobriste-nos de ira e nos perseguiste;</para>
+  <para style="q">e sem piedade nos mataste.</para>
+  <para style="q">
+    <verse number="44" style="v"/>De nuvens te encobriste</para>
+  <para style="q">para que não passe a nossa oração.</para>
+  <para style="q">
+    <verse number="45" style="v"/>Como cisco e refugo nos puseste</para>
+  <para style="q">no meio dos povos.</para>
+  <para style="q">
+    <verse number="46" style="v"/>Todos os nossos inimigos</para>
+  <para style="q">abriram contra nós a boca.</para>
+  <para style="q">
+    <verse number="47" style="v"/>Sobre nós vieram o temor e a cova,</para>
+  <para style="q">a assolação e a ruína.</para>
+  <para style="q">
+    <verse number="48" style="v"/>Dos meus olhos se derramam torrentes de águas,</para>
+  <para style="q">por causa da destruição da filha do meu povo.</para>
+  <para style="q">
+    <verse number="49" style="v"/>Os meus olhos choram,</para>
+  <para style="q">não cessam, e não há descanso,</para>
+  <para style="q">
+    <verse number="50" style="v"/>até que o <char style="nd">Senhor</char> atenda</para>
+  <para style="q">e veja lá do céu.</para>
+  <para style="q">
+    <verse number="51" style="v"/>Os meus olhos entristecem a minha alma,</para>
+  <para style="q">por causa de todas as filhas da minha cidade.</para>
+  <para style="q">
+    <verse number="52" style="v"/>Caçaram-me, como se eu fosse ave,</para>
+  <para style="q">os que sem motivo são meus inimigos.</para>
+  <para style="q">
+    <verse number="53" style="v"/>Para me destruírem, lançaram-me na cova</para>
+  <para style="q">e atiraram pedras sobre mim.</para>
+  <para style="q">
+    <verse number="54" style="v"/>Águas correram sobre a minha cabeça;</para>
+  <para style="q">então, disse: estou perdido!</para>
+  <para style="q">
+    <verse number="55" style="v"/>Da mais profunda cova, <char style="nd">Senhor</char>,</para>
+  <para style="q">invoquei o teu nome.</para>
+  <para style="q">
+    <verse number="56" style="v"/>Ouviste a minha voz;</para>
+  <para style="q">não escondas o ouvido aos meus lamentos, ao meu clamor.</para>
+  <para style="q">
+    <verse number="57" style="v"/>De mim te aproximaste no dia em que te invoquei;</para>
+  <para style="q">disseste: Não temas.</para>
+  <para style="q">
+    <verse number="58" style="v"/>Pleiteaste, Senhor, a causa da minha alma,</para>
+  <para style="q">remiste a minha vida.</para>
+  <para style="q">
+    <verse number="59" style="v"/>Viste, <char style="nd">Senhor</char>, a injustiça que me fizeram;</para>
+  <para style="q">julga a minha causa.</para>
+  <para style="q">
+    <verse number="60" style="v"/>Viste a sua vingança toda,</para>
+  <para style="q">todos os seus pensamentos contra mim.</para>
+  <para style="q">
+    <verse number="61" style="v"/>Ouviste as suas afrontas, <char style="nd">Senhor</char>,</para>
+  <para style="q">todos os seus pensamentos contra mim;</para>
+  <para style="q">
+    <verse number="62" style="v"/>as acusações dos meus adversários</para>
+  <para style="q">e o seu murmurar contra mim, o dia todo.</para>
+  <para style="q">
+    <verse number="63" style="v"/>Observa-os quando se assentam e quando se levantam;</para>
+  <para style="q">eu sou objeto da sua canção.</para>
+  <para style="q">
+    <verse number="64" style="v"/>Tu lhes darás a paga, <char style="nd">Senhor</char>,</para>
+  <para style="q">segundo a obra das suas mãos.</para>
+  <para style="q">
+    <verse number="65" style="v"/>Tu lhes darás cegueira de coração,</para>
+  <para style="q">a tua maldição imporás sobre eles.</para>
+  <para style="q">
+    <verse number="66" style="v"/>Na tua ira, os perseguirás,</para>
+  <para style="q">e eles serão eliminados de debaixo dos céus do <char style="nd">Senhor</char>.</para>
+  <chapter number="4" style="c"/>
+  <para style="s">Os sofrimentos do cerco</para>
+  <para style="q">
+    <verse number="1" style="v"/>Como se escureceu o ouro!</para>
+  <para style="q">Como se mudou o ouro refinado!</para>
+  <para style="q">Como estão espalhadas as pedras do santuário</para>
+  <para style="q">pelas esquinas de todas as ruas!</para>
+  <para style="q">
+    <verse number="2" style="v"/>Os nobres filhos de Sião,</para>
+  <para style="q">comparáveis a puro ouro,</para>
+  <para style="q">como são agora reputados por objetos de barro,</para>
+  <para style="q">obra das mãos de oleiro!</para>
+  <para style="q">
+    <verse number="3" style="v"/>Até os chacais dão o peito,</para>
+  <para style="q">dão de mamar a seus filhos;</para>
+  <para style="q">mas a filha do meu povo</para>
+  <para style="q">tornou-se cruel como os avestruzes no deserto.</para>
+  <para style="q">
+    <verse number="4" style="v"/>A língua da criança que mama</para>
+  <para style="q">fica pegada, pela sede, ao céu da boca;</para>
+  <para style="q">os meninos pedem pão,</para>
+  <para style="q">e ninguém há que lho dê.</para>
+  <para style="q">
+    <verse number="5" style="v"/>Os que se alimentavam de comidas finas</para>
+  <para style="q">desfalecem nas ruas;</para>
+  <para style="q">os que se criaram entre escarlata</para>
+  <para style="q">se apegam aos monturos.</para>
+  <para style="q">
+    <verse number="6" style="v"/>Porque maior é a maldade da filha do meu povo</para>
+  <para style="q">do que o pecado de Sodoma,</para>
+  <para style="q">que foi subvertida como num momento,</para>
+  <para style="q">sem o emprego de mãos nenhumas.<note caller="a" style="x"><char style="xo" closed="false">4.6 </char><char style="xt" closed="false"><ref loc="GEN 19:24">Gn 19.24</ref></char></note></para>
+  <para style="q">
+    <verse number="7" style="v"/>Os seus príncipes eram mais alvos do que a neve,</para>
+  <para style="q">mais brancos do que o leite;</para>
+  <para style="q">eram mais ruivos de corpo do que os corais</para>
+  <para style="q">e tinham a formosura da safira.</para>
+  <para style="q">
+    <verse number="8" style="v"/>Mas, agora, escureceu-se-lhes o aspecto mais do que a fuligem;</para>
+  <para style="q">não são conhecidos nas ruas;</para>
+  <para style="q">a sua pele se lhes pegou aos ossos,</para>
+  <para style="q">secou-se como uma madeira.</para>
+  <para style="q">
+    <verse number="9" style="v"/>Mais felizes foram as vítimas da espada</para>
+  <para style="q">do que as vítimas da fome;</para>
+  <para style="q">porque estas se definham</para>
+  <para style="q">atingidas mortalmente pela falta do produto dos campos.</para>
+  <para style="q">
+    <verse number="10" style="v"/>As mãos das mulheres outrora compassivas</para>
+  <para style="q">cozeram seus próprios filhos;</para>
+  <para style="q">estes lhes serviram de alimento</para>
+  <para style="q">na destruição da filha do meu povo.</para>
+  <para style="q">
+    <verse number="11" style="v"/>Deu o <char style="nd">Senhor</char> cumprimento à sua indignação,</para>
+  <para style="q">derramou o ardor da sua ira;</para>
+  <para style="q">acendeu fogo em Sião,</para>
+  <para style="q">que consumiu os seus fundamentos.</para>
+  <para style="q">
+    <verse number="12" style="v"/>Não creram os reis da terra,</para>
+  <para style="q">nem todos os moradores do mundo,</para>
+  <para style="q">que entrasse o adversário e o inimigo</para>
+  <para style="q">pelas portas de Jerusalém.</para>
+  <para style="q">
+    <verse number="13" style="v"/>Foi por causa dos pecados dos seus profetas,</para>
+  <para style="q">das maldades dos seus sacerdotes</para>
+  <para style="q">que se derramou no meio dela</para>
+  <para style="q">o sangue dos justos.</para>
+  <para style="q">
+    <verse number="14" style="v"/>Erram como cegos nas ruas,</para>
+  <para style="q">andam contaminados de sangue,</para>
+  <para style="q">de tal sorte que ninguém</para>
+  <para style="q">lhes pode tocar nas roupas.</para>
+  <para style="q">
+    <verse number="15" style="v"/>Apartai-vos, imundos! — gritavam-lhes;</para>
+  <para style="q">apartai-vos, apartai-vos, não toqueis!</para>
+  <para style="q">Quando fugiram errantes, dizia-se entre as nações:</para>
+  <para style="q">Jamais habitarão aqui.</para>
+  <para style="q">
+    <verse number="16" style="v"/>A ira do <char style="nd">Senhor</char> os espalhou;</para>
+  <para style="q">ele jamais atentará para eles;</para>
+  <para style="q">o inimigo não honra os sacerdotes,</para>
+  <para style="q">nem se compadece dos anciãos.</para>
+  <para style="q">
+    <verse number="17" style="v"/>Os nossos olhos ainda desfalecem,</para>
+  <para style="q">esperando vão socorro;</para>
+  <para style="q">temos olhado das vigias para um povo</para>
+  <para style="q">que não pode livrar.</para>
+  <para style="q">
+    <verse number="18" style="v"/>Espreitavam os nossos passos,</para>
+  <para style="q">de maneira que não podíamos andar pelas nossas praças;</para>
+  <para style="q">aproximava-se o nosso fim, os nossos dias se cumpriam,</para>
+  <para style="q">era chegado o nosso fim.</para>
+  <para style="q">
+    <verse number="19" style="v"/>Os nossos perseguidores foram mais ligeiros</para>
+  <para style="q">do que as aves dos céus;</para>
+  <para style="q">sobre os montes nos perseguiram,</para>
+  <para style="q">no deserto nos armaram ciladas.</para>
+  <para style="q">
+    <verse number="20" style="v"/>O fôlego da nossa vida, o ungido do <char style="nd">Senhor</char>,</para>
+  <para style="q">foi preso nos forjes deles;</para>
+  <para style="q">dele dizíamos:</para>
+  <para style="q">debaixo da sua sombra,</para>
+  <para style="q">viveremos entre as nações.</para>
+  <para style="q">
+    <verse number="21" style="v"/>Regozija-te e alegra-te, ó filha de Edom,</para>
+  <para style="q">que habitas na terra de Uz;</para>
+  <para style="q">o cálice se passará também a ti;</para>
+  <para style="q">embebedar-te-ás e te desnudarás.</para>
+  <para style="q">
+    <verse number="22" style="v"/>O castigo da tua maldade está consumado, ó filha de Sião;</para>
+  <para style="q">o <char style="nd">Senhor</char> nunca mais te levará para o exílio;</para>
+  <para style="q">a tua maldade, ó filha de Edom,</para>
+  <para style="q">descobrirá os teus pecados.</para>
+  <chapter number="5" style="c"/>
+  <para style="s">Os fiéis pedem misericórdia</para>
+  <para style="q">
+    <verse number="1" style="v"/>Lembra-te, <char style="nd">Senhor</char>, do que nos tem sucedido;</para>
+  <para style="q">considera e olha para o nosso opróbrio.</para>
+  <para style="q">
+    <verse number="2" style="v"/>A nossa herança passou a estranhos,</para>
+  <para style="q">e as nossas casas, a estrangeiros;</para>
+  <para style="q">
+    <verse number="3" style="v"/>somos órfãos, já não temos pai,</para>
+  <para style="q">nossas mães são como viúvas.</para>
+  <para style="q">
+    <verse number="4" style="v"/>A nossa água, por dinheiro a bebemos,</para>
+  <para style="q">por preço vem a nossa lenha.</para>
+  <para style="q">
+    <verse number="5" style="v"/>Os nossos perseguidores estão sobre o nosso pescoço;</para>
+  <para style="q">estamos exaustos e não temos descanso.</para>
+  <para style="q">
+    <verse number="6" style="v"/>Submetemo-nos aos egípcios e aos assírios,</para>
+  <para style="q">para nos fartarem de pão.</para>
+  <para style="q">
+    <verse number="7" style="v"/>Nossos pais pecaram</para>
+  <para style="q">e já não existem;</para>
+  <para style="q">nós é que levamos o castigo das suas iniquidades.</para>
+  <para style="q">
+    <verse number="8" style="v"/>Escravos dominam sobre nós;</para>
+  <para style="q">ninguém há que nos livre das suas mãos.</para>
+  <para style="q">
+    <verse number="9" style="v"/>Com perigo de nossa vida, providenciamos o nosso pão,</para>
+  <para style="q">por causa da espada do deserto.</para>
+  <para style="q">
+    <verse number="10" style="v"/>Nossa pele se esbraseia como um forno,</para>
+  <para style="q">por causa do ardor da fome.</para>
+  <para style="q">
+    <verse number="11" style="v"/>Forçaram as mulheres em Sião;</para>
+  <para style="q">as virgens, nas cidades de Judá.</para>
+  <para style="q">
+    <verse number="12" style="v"/>Os príncipes foram por eles enforcados,</para>
+  <para style="q">as faces dos velhos não foram reverenciadas.</para>
+  <para style="q">
+    <verse number="13" style="v"/>Os jovens levaram a mó,</para>
+  <para style="q">os meninos tropeçaram debaixo das cargas de lenha;</para>
+  <para style="q">
+    <verse number="14" style="v"/>os anciãos já não se assentam na porta,</para>
+  <para style="q">os jovens já não cantam.</para>
+  <para style="q">
+    <verse number="15" style="v"/>Cessou o júbilo de nosso coração,</para>
+  <para style="q">converteu-se em lamentações a nossa dança.</para>
+  <para style="q">
+    <verse number="16" style="v"/>Caiu a coroa da nossa cabeça;</para>
+  <para style="q">ai de nós, porque pecamos!</para>
+  <para style="q">
+    <verse number="17" style="v"/>Por isso, caiu doente o nosso coração;</para>
+  <para style="q">por isso, se escureceram os nossos olhos.</para>
+  <para style="q">
+    <verse number="18" style="v"/>Pelo monte Sião, que está assolado,</para>
+  <para style="q">andam as raposas.</para>
+  <para style="q">
+    <verse number="19" style="v"/>Tu, <char style="nd">Senhor</char>, reinas eternamente,</para>
+  <para style="q">o teu trono subsiste de geração em geração.</para>
+  <para style="q">
+    <verse number="20" style="v"/>Por que te esquecerias de nós para sempre?</para>
+  <para style="q">Por que nos desampararias por tanto tempo?</para>
+  <para style="q">
+    <verse number="21" style="v"/>Converte-nos a ti, <char style="nd">Senhor</char>, e seremos convertidos;</para>
+  <para style="q">renova os nossos dias como dantes.</para>
+  <para style="q">
+    <verse number="22" style="v"/>Por que nos rejeitarias totalmente?</para>
+  <para style="q">Por que te enfurecerias sobremaneira contra nós outros?</para>
+</usx>
